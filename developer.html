@@ -1,0 +1,776 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Developer — Generalist Bible 2.0</title>
+  <link rel="stylesheet" href="main.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Rajdhani:wght@300;400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    .page-title { color: #4ade80; }
+    .cat-label { color: #4ade80; }
+    .link-url { color: #4ade80; }
+    .links-count { color: #4ade80; border-color: #4ade8044; }
+    .page-hero::after {
+      content: '';
+      position: absolute; top: 0; left: 0; right: 0; bottom: 0;
+      background: radial-gradient(ellipse 60% 80% at 80% 50%, #4ade800a 0%, transparent 65%);
+      pointer-events: none;
+    }
+    .page-hero { position: relative; overflow: hidden; }
+  </style>
+</head>
+<body class="category-page">
+  <div class="noise-overlay"></div>
+  <div class="bg-gradient"></div>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" class="logo">
+        <img src="logo.svg" alt="Logo" class="logo-img">
+      </a>
+      <nav class="main-nav">
+        <a href="uiux.html">UI/UX</a>
+        <a href="ai-services.html">AI</a>
+        <a href="software.html">Software</a>
+        <a href="illustrations.html">Illustrations</a>
+        <a href="photos-video.html">Photos</a>
+        <a href="colors.html">Colors</a>
+        <a href="developer.html">Developer</a>
+        <a href="music.html">Music</a>
+        <a href="web-design.html">Web Design</a>
+        <a href="help.html">Help</a>
+      </nav>
+      <button class="burger" id="burger" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <div class="mobile-menu" id="mobileMenu">
+    <a href="uiux.html">UI/UX</a>
+    <a href="ai-services.html">AI Services</a>
+    <a href="software.html">Software</a>
+    <a href="illustrations.html">Illustrations</a>
+    <a href="photos-video.html">Photos/Video</a>
+    <a href="colors.html">Colors</a>
+    <a href="developer.html">Developer</a>
+    <a href="music.html">Music Design</a>
+    <a href="web-design.html">Web Design</a>
+    <a href="help.html">Help Resources</a>
+  </div>
+
+  <main>
+    <section class="page-hero">
+      <div class="page-hero-inner">
+        <a href="index.html" class="back-link reveal">← Back to all categories</a>
+        <h1 class="page-title reveal">Developer</h1>
+        <p class="page-subtitle reveal">Code tools, fonts, storage, CSS utilities & builders</p>
+        <span class="links-count reveal">114 RESOURCES</span>
+      </div>
+    </section>
+
+    <section class="links-container">
+      <input type="text" class="search-bar" id="searchInput" placeholder="Search resources...">
+      <div class="links-grid">
+
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Cloud disk providing 1024GB for free</div>
+            <a href="https://terabox.com" class="link-url" target="_blank" rel="noopener">terabox.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Online CSS Photo Filters</div>
+            <a href="https://baseline.is" class="link-url" target="_blank" rel="noopener">baseline.is</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Online SVG code editor</div>
+            <a href="https://editsvgcode.com" class="link-url" target="_blank" rel="noopener">editsvgcode.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Recognition servicetext from images</div>
+            <a href="https://img2txt.com/en" class="link-url" target="_blank" rel="noopener">img2txt.com/en</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Test webdite Online</div>
+            <a href="https://nibbler.silktide.com" class="link-url" target="_blank" rel="noopener">nibbler.silktide.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Web Archive</div>
+            <a href="https://archive.org/web" class="link-url" target="_blank" rel="noopener">archive.org/web</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Powerful AI to increase image resolution</div>
+            <a href="https://letsenhance.io" class="link-url" target="_blank" rel="noopener">letsenhance.io</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Online Transliteration from RU to EN</div>
+            <a href="https://transliteration.aspx" class="link-url" target="_blank" rel="noopener">transliteration.aspx</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Web Archive 2</div>
+            <a href="https://archive.ph" class="link-url" target="_blank" rel="noopener">archive.ph</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Speed software plugin for Websites</div>
+            <a href="https://nitropack.io" class="link-url" target="_blank" rel="noopener">nitropack.io</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Free Frontend Libraries</div>
+            <a href="https://freefrontend.com" class="link-url" target="_blank" rel="noopener">freefrontend.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Web Archive 3</div>
+            <a href="https://web-arhive.ru" class="link-url" target="_blank" rel="noopener">web-arhive.ru</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">files, tamplates for sketch/figma</div>
+            <a href="https://sketchrepo.com" class="link-url" target="_blank" rel="noopener">sketchrepo.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Cheat Sheets</div>
+            <a href="https://devhints.io" class="link-url" target="_blank" rel="noopener">devhints.io</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">SANDBOX ONLINE / DeDIC</div>
+            <a href="https://tria.ge" class="link-url" target="_blank" rel="noopener">tria.ge</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Map Bilder + compare with SVG</div>
+            <a href="https://snazzymaps.com" class="link-url" target="_blank" rel="noopener">snazzymaps.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Features for DEVs</div>
+            <a href="https://caniuse.com" class="link-url" target="_blank" rel="noopener">caniuse.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Animations-Code</div>
+            <a href="https://ui.aceternity.com" class="link-url" target="_blank" rel="noopener">ui.aceternity.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Online Test Responsive Tool</div>
+            <a href="https://responsivetesttool.com" class="link-url" target="_blank" rel="noopener">responsivetesttool.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Free CSS Templates, CSS Layouts & More</div>
+            <a href="https://free-css.com" class="link-url" target="_blank" rel="noopener">free-css.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">FreevTemporary mail for 10 minutes</div>
+            <a href="https://10minutemail.net" class="link-url" target="_blank" rel="noopener">10minutemail.net</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Online Buttons/Text Generator</div>
+            <a href="https://leonardocolor.io" class="link-url" target="_blank" rel="noopener">leonardocolor.io</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Import Fig to Code</div>
+            <a href="https://pulpo.usepulpo.com" class="link-url" target="_blank" rel="noopener">pulpo.usepulpo.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">The Ultimate reference tool for game designers</div>
+            <a href="https://gameuidatabase.com" class="link-url" target="_blank" rel="noopener">gameuidatabase.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">A collection of CSS3 to : buttons, logos, etc.</div>
+            <a href="https://ianlunn.github.io" class="link-url" target="_blank" rel="noopener">ianlunn.github.io</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Headless website builder</div>
+            <a href="https://prismic.io" class="link-url" target="_blank" rel="noopener">prismic.io</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">The Largest Library of Open-Source UI</div>
+            <a href="https://uiverse.io" class="link-url" target="_blank" rel="noopener">uiverse.io</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Just-add-water CSS animations</div>
+            <a href="https://animate.style" class="link-url" target="_blank" rel="noopener">animate.style</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Free for Developers</div>
+            <a href="https://free-for.dev" class="link-url" target="_blank" rel="noopener">free-for.dev</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Animated Favicon</div>
+            <a href="https://faviconvideo.com" class="link-url" target="_blank" rel="noopener">faviconvideo.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">CSS-animated hamburgers(mobile menu)</div>
+            <a href="https://jonsuh.com/hamburgers" class="link-url" target="_blank" rel="noopener">jonsuh.com/hamburgers</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Prototype editor</div>
+            <a href="https://app.uizard.io" class="link-url" target="_blank" rel="noopener">app.uizard.io</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Free Public APIs</div>
+            <a href="https://freepublicapis.com" class="link-url" target="_blank" rel="noopener">freepublicapis.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">CSS Animation on Demand</div>
+            <a href="https://animista.net" class="link-url" target="_blank" rel="noopener">animista.net</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">No coding website builder</div>
+            <a href="https://app.webstudio.so" class="link-url" target="_blank" rel="noopener">app.webstudio.so</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">SVG Viewer</div>
+            <a href="https://svgviewer.dev" class="link-url" target="_blank" rel="noopener">svgviewer.dev</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">CSS Effects for Icons, SVG, PNG + copy/code</div>
+            <a href="https://minimamente.com" class="link-url" target="_blank" rel="noopener">minimamente.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Link shorter 10 links per month</div>
+            <a href="https://app.bitly.com" class="link-url" target="_blank" rel="noopener">app.bitly.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Aspect Ratio Calculator</div>
+            <a href="https://calculateaspectratio.com" class="link-url" target="_blank" rel="noopener">calculateaspectratio.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">CSS loading animations with minimal effort!</div>
+            <a href="https://whirl.netlify.app" class="link-url" target="_blank" rel="noopener">whirl.netlify.app</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">HTML & CSS Code Generator</div>
+            <a href="https://htmlcss.tools" class="link-url" target="_blank" rel="noopener">htmlcss.tools</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Find out what Sr. Developer is talking about</div>
+            <a href="https://devpedia.pages.dev" class="link-url" target="_blank" rel="noopener">devpedia.pages.dev</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">AI-powered visual editing no-code</div>
+            <a href="https://raber.app" class="link-url" target="_blank" rel="noopener">raber.app</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Scan online Links, documents</div>
+            <a href="https://virustotal.com" class="link-url" target="_blank" rel="noopener">virustotal.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">The AI Engineer’s Handbook</div>
+            <a href="https://handbook.exemplar.dev" class="link-url" target="_blank" rel="noopener">handbook.exemplar.dev</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Online file sender</div>
+            <a href="https://dropmefiles.com" class="link-url" target="_blank" rel="noopener">dropmefiles.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Mobile simulator - responsive testing tool</div>
+            <a href="https://webmobilefirst.com" class="link-url" target="_blank" rel="noopener">webmobilefirst.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Test drive Linux distros online!</div>
+            <a href="https://distrosea.com" class="link-url" target="_blank" rel="noopener">distrosea.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Online Favicon Generator</div>
+            <a href="https://favicon.software" class="link-url" target="_blank" rel="noopener">favicon.software</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Design and code variants</div>
+            <a href="https://v0.dev" class="link-url" target="_blank" rel="noopener">v0.dev</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Open Source UI components built Tailwind</div>
+            <a href="https://kokonutui.com" class="link-url" target="_blank" rel="noopener">kokonutui.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">100+ Open Source SVG Spinners</div>
+            <a href="https://magecdn.com" class="link-url" target="_blank" rel="noopener">magecdn.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Free all-in-one toolbox</div>
+            <a href="https://10015.io" class="link-url" target="_blank" rel="noopener">10015.io</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">the only cursor animation you need</div>
+            <a href="https://cursify.vercel.app" class="link-url" target="_blank" rel="noopener">cursify.vercel.app</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Turn photos into 3D models</div>
+            <a href="https://2dto3d.app" class="link-url" target="_blank" rel="noopener">2dto3d.app</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">The Biggest Collection of Loading Animations</div>
+            <a href="https://css-loaders.com" class="link-url" target="_blank" rel="noopener">css-loaders.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Web Development Resources</div>
+            <a href="https://web-dev-resources.com" class="link-url" target="_blank" rel="noopener">web-dev-resources.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Public Api Library</div>
+            <a href="https://publicapis.dev" class="link-url" target="_blank" rel="noopener">publicapis.dev</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">JS Animations with code edits</div>
+            <a href="https://animejs.com" class="link-url" target="_blank" rel="noopener">animejs.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Website builder</div>
+            <a href="https://palet.design" class="link-url" target="_blank" rel="noopener">palet.design</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">File transfer doesn't need to be complicated</div>
+            <a href="https://altsendme.com" class="link-url" target="_blank" rel="noopener">altsendme.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Card Generator for Visa, MasterCard, etc.</div>
+            <a href="https://neapay.com" class="link-url" target="_blank" rel="noopener">neapay.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Open Source TOOLSfor Designer/Developer</div>
+            <a href="https://tools.ui-layouts.com" class="link-url" target="_blank" rel="noopener">tools.ui-layouts.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">UI Components,& Blocks for Developer</div>
+            <a href="https://ui-layouts.com" class="link-url" target="_blank" rel="noopener">ui-layouts.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Free UI 3D components</div>
+            <a href="https://21st.dev" class="link-url" target="_blank" rel="noopener">21st.dev</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">WebGL effects, motion — with no code.</div>
+            <a href="https://unicorn.studio" class="link-url" target="_blank" rel="noopener">unicorn.studio</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Temporary, free, disposable email address</div>
+            <a href="https://temp-mail.org" class="link-url" target="_blank" rel="noopener">temp-mail.org</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Design beautiful circles Online</div>
+            <a href="https://squircley.app" class="link-url" target="_blank" rel="noopener">squircley.app</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Handy tools for developers</div>
+            <a href="https://it-tools.tech" class="link-url" target="_blank" rel="noopener">it-tools.tech</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Inspect website URL for Fonts</div>
+            <a href="https://fonty.io" class="link-url" target="_blank" rel="noopener">fonty.io</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Design beautiful patterns Online</div>
+            <a href="https://patternpad.com" class="link-url" target="_blank" rel="noopener">patternpad.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Check your webpage looks great in every size</div>
+            <a href="https://everysize.kibalabs.com" class="link-url" target="_blank" rel="noopener">everysize.kibalabs.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">The best way to make maps on the internet</div>
+            <a href="https://felt.com" class="link-url" target="_blank" rel="noopener">felt.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Create Patterns Online</div>
+            <a href="https://sandify.org" class="link-url" target="_blank" rel="noopener">sandify.org</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">EPS,AI,PSD - FREE FILE CONVERTER</div>
+            <a href="https://cloudconvert.com" class="link-url" target="_blank" rel="noopener">cloudconvert.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">App builder</div>
+            <a href="https://app.stage.so" class="link-url" target="_blank" rel="noopener">app.stage.so</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Visualization Framework</div>
+            <a href="https://app.rawgraphs.io" class="link-url" target="_blank" rel="noopener">app.rawgraphs.io</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">What Theme is That?</div>
+            <a href="https://gochyu.com" class="link-url" target="_blank" rel="noopener">gochyu.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Transform Figma design to Code</div>
+            <a href="https://function12.io" class="link-url" target="_blank" rel="noopener">function12.io</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Online Free Code Editor</div>
+            <a href="https://codepen.io" class="link-url" target="_blank" rel="noopener">codepen.io</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">What CMS Is This Site Using?</div>
+            <a href="https://whatcms.org" class="link-url" target="_blank" rel="noopener">whatcms.org</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Useful Tools & Utilities to make life easier</div>
+            <a href="https://10web.tools" class="link-url" target="_blank" rel="noopener">10web.tools</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">CSS Icons</div>
+            <a href="https://css.gg/app" class="link-url" target="_blank" rel="noopener">css.gg/app</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Code AI builder</div>
+            <a href="https://bolt.new" class="link-url" target="_blank" rel="noopener">bolt.new</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">All language IT DevDocs</div>
+            <a href="https://devdocs.io" class="link-url" target="_blank" rel="noopener">devdocs.io</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">CSS Animation Library</div>
+            <a href="https://vivify.mkcreative.cz" class="link-url" target="_blank" rel="noopener">vivify.mkcreative.cz</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Tools That Solve Your Files Problem</div>
+            <a href="https://tinywow.com" class="link-url" target="_blank" rel="noopener">tinywow.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Test any website</div>
+            <a href="https://nibbler.insites.com" class="link-url" target="_blank" rel="noopener">nibbler.insites.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Capture and share Twitter posts</div>
+            <a href="https://poet.so" class="link-url" target="_blank" rel="noopener">poet.so</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">3D Animation from video with AI</div>
+            <a href="https://app.plask.ai" class="link-url" target="_blank" rel="noopener">app.plask.ai</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Create images of your source code</div>
+            <a href="https://carbon.now.sh" class="link-url" target="_blank" rel="noopener">carbon.now.sh</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">FREE CMS</div>
+            <a href="https://getgrav.org" class="link-url" target="_blank" rel="noopener">getgrav.org</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">/ Search 'n find FONTS used by World Brands</div>
+            <a href="https://fontinlogo.com" class="link-url" target="_blank" rel="noopener">fontinlogo.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Convert Image to HTML CSS</div>
+            <a href="https://fronty.com" class="link-url" target="_blank" rel="noopener">fronty.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Free Webflow Tamplates</div>
+            <a href="https://flowbase.co/clone" class="link-url" target="_blank" rel="noopener">flowbase.co/clone</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Free Fresh Fonts</div>
+            <a href="https://dafont.com" class="link-url" target="_blank" rel="noopener">dafont.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Languages Compiler</div>
+            <a href="https://ide.onelang.io" class="link-url" target="_blank" rel="noopener">ide.onelang.io</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Downloadable Lottie files for your Webflow site</div>
+            <a href="https://finsweet.com" class="link-url" target="_blank" rel="noopener">finsweet.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">New & Fresh Fonts</div>
+            <a href="https://1001fonts.com" class="link-url" target="_blank" rel="noopener">1001fonts.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Hidden Tools a wide collection of tools</div>
+            <a href="https://hiddentools.dev" class="link-url" target="_blank" rel="noopener">hiddentools.dev</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Cool Backgrounds</div>
+            <a href="https://coolbackgrounds.io" class="link-url" target="_blank" rel="noopener">coolbackgrounds.io</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">RemoveBG Online</div>
+            <a href="https://remove.bg" class="link-url" target="_blank" rel="noopener">remove.bg</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Free Tamplates</div>
+            <a href="https://onepagelove.com" class="link-url" target="_blank" rel="noopener">onepagelove.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">25 GB Cloud Storage</div>
+            <a href="https://mega.nz" class="link-url" target="_blank" rel="noopener">mega.nz</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Free Online QR-Code generator</div>
+            <a href="https://qrcoder.ru" class="link-url" target="_blank" rel="noopener">qrcoder.ru</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Site map visual builder online</div>
+            <a href="https://octopus.do" class="link-url" target="_blank" rel="noopener">octopus.do</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">6 GB Cloud Storage</div>
+            <a href="https://ru.files.fm" class="link-url" target="_blank" rel="noopener">ru.files.fm</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Email Online Tamplate Maker HTML</div>
+            <a href="https://stripo.email" class="link-url" target="_blank" rel="noopener">stripo.email</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Boostrap/HTML/CSS Themes</div>
+            <a href="https://themewagon.com" class="link-url" target="_blank" rel="noopener">themewagon.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Pinegrow Web Editor, website builder</div>
+            <a href="https://pinegrow.com" class="link-url" target="_blank" rel="noopener">pinegrow.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Site to see how will colours will look</div>
+            <a href="https://abha.page" class="link-url" target="_blank" rel="noopener">abha.page</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Ajax Loader, Animated Icons, Live Background</div>
+            <a href="https://loading.io" class="link-url" target="_blank" rel="noopener">loading.io</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Explore your site - copy content, broken links</div>
+            <a href="https://siteliner.com" class="link-url" target="_blank" rel="noopener">siteliner.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Free themes for web building</div>
+            <a href="https://astro.build" class="link-url" target="_blank" rel="noopener">astro.build</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <span>Designed and Created by <strong>Evghenii Conev</strong></span>
+      <span class="footer-dot">◆</span>
+      <span>Generalist Bible Link Directory 2.0</span>
+    </div>
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+</html>

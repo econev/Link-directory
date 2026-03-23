@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Web Design — Generalist Bible 2.0</title>
+  <link rel="stylesheet" href="main.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Rajdhani:wght@300;400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    .page-title { color: #fb923c; }
+    .cat-label { color: #fb923c; }
+    .link-url { color: #fb923c; }
+    .links-count { color: #fb923c; border-color: #fb923c44; }
+    .page-hero::after {
+      content: '';
+      position: absolute; top: 0; left: 0; right: 0; bottom: 0;
+      background: radial-gradient(ellipse 60% 80% at 80% 50%, #fb923c0a 0%, transparent 65%);
+      pointer-events: none;
+    }
+    .page-hero { position: relative; overflow: hidden; }
+  </style>
+</head>
+<body class="category-page">
+  <div class="noise-overlay"></div>
+  <div class="bg-gradient"></div>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" class="logo">
+        <img src="logo.svg" alt="Logo" class="logo-img">
+      </a>
+      <nav class="main-nav">
+        <a href="uiux.html">UI/UX</a>
+        <a href="ai-services.html">AI</a>
+        <a href="software.html">Software</a>
+        <a href="illustrations.html">Illustrations</a>
+        <a href="photos-video.html">Photos</a>
+        <a href="colors.html">Colors</a>
+        <a href="developer.html">Developer</a>
+        <a href="music.html">Music</a>
+        <a href="web-design.html">Web Design</a>
+        <a href="help.html">Help</a>
+      </nav>
+      <button class="burger" id="burger" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <div class="mobile-menu" id="mobileMenu">
+    <a href="uiux.html">UI/UX</a>
+    <a href="ai-services.html">AI Services</a>
+    <a href="software.html">Software</a>
+    <a href="illustrations.html">Illustrations</a>
+    <a href="photos-video.html">Photos/Video</a>
+    <a href="colors.html">Colors</a>
+    <a href="developer.html">Developer</a>
+    <a href="music.html">Music Design</a>
+    <a href="web-design.html">Web Design</a>
+    <a href="help.html">Help Resources</a>
+  </div>
+
+  <main>
+    <section class="page-hero">
+      <div class="page-hero-inner">
+        <a href="index.html" class="back-link reveal">← Back to all categories</a>
+        <h1 class="page-title reveal">Web Design</h1>
+        <p class="page-subtitle reveal">Templates, mockups, HTML themes & design resources</p>
+        <span class="links-count reveal">36 RESOURCES</span>
+      </div>
+    </section>
+
+    <section class="links-container">
+      <input type="text" class="search-bar" id="searchInput" placeholder="Search resources...">
+      <div class="links-grid">
+
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Templates Design Resources 4</div>
+            <a href="https://sketchrepo.com" class="link-url" target="_blank" rel="noopener">sketchrepo.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">GAME IU ux database</div>
+            <a href="https://gameuidatabase.com" class="link-url" target="_blank" rel="noopener">gameuidatabase.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">HTML5 Templates</div>
+            <a href="https://html5up.net" class="link-url" target="_blank" rel="noopener">html5up.net</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Daily Freebies for Creatives</div>
+            <a href="https://freedesignresources.net" class="link-url" target="_blank" rel="noopener">freedesignresources.net</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Free Mockups from the Web</div>
+            <a href="https://mockupworld.co" class="link-url" target="_blank" rel="noopener">mockupworld.co</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Make Your Own Font Online</div>
+            <a href="https://metaflop.com/modulator" class="link-url" target="_blank" rel="noopener">metaflop.com/modulator</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Design mockups, mobile apps, websites, etc.</div>
+            <a href="https://uizard.io" class="link-url" target="_blank" rel="noopener">uizard.io</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Premium quality free mockups</div>
+            <a href="https://mockups-design.com" class="link-url" target="_blank" rel="noopener">mockups-design.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Ship Websites with Figma</div>
+            <a href="https://figside.com" class="link-url" target="_blank" rel="noopener">figside.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Free Mockups Download</div>
+            <a href="https://themockup.club" class="link-url" target="_blank" rel="noopener">themockup.club</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Design and code Emails</div>
+            <a href="https://reallygoodemails.com" class="link-url" target="_blank" rel="noopener">reallygoodemails.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Free PSD Download</div>
+            <a href="https://psdrepo.com" class="link-url" target="_blank" rel="noopener">psdrepo.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Highest QualityMockups, Illustrations, UI Tools</div>
+            <a href="https://ls.graphics" class="link-url" target="_blank" rel="noopener">ls.graphics</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Online Blobs Generator</div>
+            <a href="https://blobs.app" class="link-url" target="_blank" rel="noopener">blobs.app</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">The branding style guides directory</div>
+            <a href="https://brandingstyleguides.com/guide" class="link-url" target="_blank" rel="noopener">brandingstyleguides.com/guide</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Logo Generator + Editor Online</div>
+            <a href="https://logoipsum.com" class="link-url" target="_blank" rel="noopener">logoipsum.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Templates For Design</div>
+            <a href="https://artboard.studio" class="link-url" target="_blank" rel="noopener">artboard.studio</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Glass Morphism Online Generator</div>
+            <a href="https://glassgenerator.netlify.app" class="link-url" target="_blank" rel="noopener">glassgenerator.netlify.app</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Figma Web Templates & Landing Pages</div>
+            <a href="https://figmacrush.com" class="link-url" target="_blank" rel="noopener">figmacrush.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">FREE HTML WEBSITE TEMPLATES</div>
+            <a href="https://webthemez.com" class="link-url" target="_blank" rel="noopener">webthemez.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Templates Design Resources</div>
+            <a href="https://unblast.com" class="link-url" target="_blank" rel="noopener">unblast.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Material Icons from Google</div>
+            <a href="https://fonts.google.com/icons" class="link-url" target="_blank" rel="noopener">fonts.google.com/icons</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Templates Design Resources 2</div>
+            <a href="https://freebiesui.com" class="link-url" target="_blank" rel="noopener">freebiesui.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">A Daily Icon Diary</div>
+            <a href="https://365cons.com" class="link-url" target="_blank" rel="noopener">365cons.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Templates Design Resources 3</div>
+            <a href="https://freebiesupply.com" class="link-url" target="_blank" rel="noopener">freebiesupply.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Font Creator Online</div>
+            <a href="https://fontjoy.com" class="link-url" target="_blank" rel="noopener">fontjoy.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Adobe XD Resources, UI kits & Templates</div>
+            <a href="https://xdguru.com" class="link-url" target="_blank" rel="noopener">xdguru.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">PopUps Maker Online</div>
+            <a href="https://mypopups.com" class="link-url" target="_blank" rel="noopener">mypopups.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Design Resources for everything</div>
+            <a href="https://freepik.com" class="link-url" target="_blank" rel="noopener">freepik.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">LottieFiles Animations Online</div>
+            <a href="https://lottiefiles.com" class="link-url" target="_blank" rel="noopener">lottiefiles.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Icons 2</div>
+            <a href="https://glyphy.io" class="link-url" target="_blank" rel="noopener">glyphy.io</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">RemoveOnline image backgrounds</div>
+            <a href="https://depositphotos.com" class="link-url" target="_blank" rel="noopener">depositphotos.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Illustrations create and customize online</div>
+            <a href="https://blush.design" class="link-url" target="_blank" rel="noopener">blush.design</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Online Design tool, for 3d</div>
+            <a href="https://spline.design" class="link-url" target="_blank" rel="noopener">spline.design</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Free Mockups PSD</div>
+            <a href="https://mockupcloud.com" class="link-url" target="_blank" rel="noopener">mockupcloud.com</a>
+          </div>
+        </div>
+        <div class="link-item reveal">
+          <div class="link-info">
+            <div class="link-name">Free open source icons & illustrations</div>
+            <a href="https://iconduck.com" class="link-url" target="_blank" rel="noopener">iconduck.com</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <span>Designed and Created by <strong>Evghenii Conev</strong></span>
+      <span class="footer-dot">◆</span>
+      <span>Generalist Bible Link Directory 2.0</span>
+    </div>
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+</html>
