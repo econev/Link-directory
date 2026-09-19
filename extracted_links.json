@@ -1,6 +1,10 @@
 {
   "AI Services": [
     {
+      "name": "Agent QA — AI-agent QA CLI and MCP server",
+      "url": "github.com/vostride/agent-qa"
+    },
+    {
       "name": "Nano Banana Pro AI Prompt Gallery",
       "url": "promptlibrary.space"
     },
