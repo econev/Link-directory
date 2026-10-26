@@ -1,5 +1,795 @@
 {
+  "UX": [
+    {
+      "name": "Browse the best footer designs",
+      "url": "footer.design"
+    },
+    {
+      "name": "Browse the best website section design examples — fresh ideas for your next build.",
+      "url": "unsection.com"
+    },
+    {
+      "name": "The Best 404 pages worth finding Design Inspiration",
+      "url": "404s.design"
+    },
+    {
+      "name": "The Best Call-to-Action (CTA) Design Inspiration",
+      "url": "cta.gallery"
+    },
+    {
+      "name": "Navigate footers based on type and style",
+      "url": "footer.design"
+    },
+    {
+      "name": "Best Navbar Design Inspiration Websites.",
+      "url": "navbar.gallery"
+    },
+    {
+      "name": "Convert SVG to WEBP online for free. Simply drop your SVG images below to convert them to WEBP in seconds.",
+      "url": "picflow.com"
+    },
+    {
+      "name": "UI AI Builder",
+      "url": "netviz.shadowarcanist.com"
+    },
+    {
+      "name": "6500+ modern website examples",
+      "url": "websitevice.com"
+    },
+    {
+      "name": "MindMap.site",
+      "url": "mindmap.site"
+    },
+    {
+      "name": "Small details. Better interfaces",
+      "url": "detail.design"
+    },
+    {
+      "name": "Inspiration - Dark websites and free templates",
+      "url": "dark.design"
+    },
+    {
+      "name": "Drop one into your project and let coding agents build matching UI",
+      "url": "getdesign.md"
+    },
+    {
+      "name": "OpenPencil Open-Source Design Editor",
+      "url": "openpencil.dev"
+    },
+    {
+      "name": "Library of UI/UX",
+      "url": "variant.com"
+    },
+    {
+      "name": "Library of templates",
+      "url": "unicornui.com"
+    },
+    {
+      "name": "Design templates Free",
+      "url": "dopeui.co"
+    },
+    {
+      "name": "Business Presentation templates PPT",
+      "url": "slidesgo.com"
+    },
+    {
+      "name": "Smoky Backgrounds generator dragdropsite Design Systems",
+      "url": "designsystemsforfigma.com"
+    },
+    {
+      "name": "Mockups free",
+      "url": "mockup.ceacle.com"
+    },
+    {
+      "name": "Logo Builder",
+      "url": "logozanaat.app"
+    },
+    {
+      "name": "Free HTML, FIG, PSD Files",
+      "url": "templatesjungle.com"
+    },
+    {
+      "name": "Find Design Examples Online",
+      "url": "lookup.design"
+    },
+    {
+      "name": "404 pages",
+      "url": "404s.design"
+    },
+    {
+      "name": "Free Figma Resources, Tools and Templates",
+      "url": "figmaelements.com"
+    },
+    {
+      "name": "Free Design Resources for Figma",
+      "url": "lapa.ninja"
+    },
+    {
+      "name": "Free Figma resources",
+      "url": "setproduct.com"
+    },
+    {
+      "name": "Free Pie Chart Maker export SVG",
+      "url": "piechartmaker.co"
+    },
+    {
+      "name": "Free Figma UI Kits",
+      "url": "uxcrush.com"
+    },
+    {
+      "name": "SVG Isometric icons",
+      "url": "isocons.app"
+    },
+    {
+      "name": "Free Figma Component Library",
+      "url": "figmacomponents.com"
+    },
+    {
+      "name": "Uncover the UI secrets behind apps",
+      "url": "uxsnaps.com"
+    },
+    {
+      "name": "Free PPT & Google Slides themes",
+      "url": "slidescarnival.com"
+    },
+    {
+      "name": "Freebies",
+      "url": "reallygooddesigns.com"
+    },
+    {
+      "name": "Grid paper maker and Downloader",
+      "url": "griiid.ink"
+    },
+    {
+      "name": "AI website design and copy to figma",
+      "url": "relume.io"
+    },
+    {
+      "name": "Free Animated Background Generator",
+      "url": "krumzi.com"
+    },
+    {
+      "name": "Dark sky generator",
+      "url": "magicpattern.design"
+    },
+    {
+      "name": "Animated text",
+      "url": "spacetypegenerator.com"
+    },
+    {
+      "name": "Perfectly rounded icon library",
+      "url": "akaricons.com"
+    },
+    {
+      "name": "60+ Animated\n              Day, Sunset and Night Scenes",
+      "url": "pixeltrue.com"
+    },
+    {
+      "name": "Free AI-generated avatars",
+      "url": "uifaces.co"
+    },
+    {
+      "name": "SVG animator",
+      "url": "svg.framerlists.com"
+    },
+    {
+      "name": "No code Website Builder like figma",
+      "url": "app.siter.io"
+    },
+    {
+      "name": "SaaS landing page examples",
+      "url": "saaslandingpage.com"
+    },
+    {
+      "name": "Build landing page with Figma",
+      "url": "landingly.co"
+    },
+    {
+      "name": "Animated components",
+      "url": "reactbits.dev"
+    },
+    {
+      "name": "AI Coloring Page Generator",
+      "url": "colorifyai.art"
+    },
+    {
+      "name": "Design templates",
+      "url": "uihut.com"
+    },
+    {
+      "name": "Screens for App’s Store and Play Market",
+      "url": "screen.traction.one"
+    },
+    {
+      "name": "files, tamplates for sketch/figma",
+      "url": "sketchrepo.com/all"
+    },
+    {
+      "name": "Generate SVG Waves",
+      "url": "svgwave.in"
+    },
+    {
+      "name": "Effects",
+      "url": "my.crate.as"
+    },
+    {
+      "name": "Online Font Check",
+      "url": "wordmark.it"
+    },
+    {
+      "name": "Converter to Figma and other formats",
+      "url": "magicul.io"
+    },
+    {
+      "name": "Empty States",
+      "url": "emptystat.es"
+    },
+    {
+      "name": "Mockups - FIG,SKETCH,XD",
+      "url": "angle.sh/downloads"
+    },
+    {
+      "name": "Animations for app and website",
+      "url": "useanimations.com"
+    },
+    {
+      "name": "Glyph Catalog",
+      "url": "glyphcatalog.com"
+    },
+    {
+      "name": "Remove objects online",
+      "url": "cleanup.pictures"
+    },
+    {
+      "name": "Animated Icons",
+      "url": "lordicon.com"
+    },
+    {
+      "name": "Hot Keys",
+      "url": "hotkeycheatsheet.com"
+    },
+    {
+      "name": "Free SVG icons for popular brands",
+      "url": "simpleicons.org"
+    },
+    {
+      "name": "The biggest logo design library",
+      "url": "logosystem.co"
+    },
+    {
+      "name": "Waves Maker Online",
+      "url": "getwaves.io"
+    },
+    {
+      "name": "Free Logo generator",
+      "url": "logofury.com"
+    },
+    {
+      "name": "Icons",
+      "url": "iconer.app"
+    },
+    {
+      "name": "Icons and illustrations",
+      "url": "thenounproject.com"
+    },
+    {
+      "name": "Fonts Online by Google",
+      "url": "fonts.google.com"
+    },
+    {
+      "name": "Templates Online",
+      "url": "infograph.venngage.com"
+    },
+    {
+      "name": "Tool to help designers set the layout",
+      "url": "kolumna.dazlog.com"
+    },
+    {
+      "name": "Free 3D Icons",
+      "url": "free3dicon.com"
+    },
+    {
+      "name": "Free HTML, Bootstrap, Tailwind, & React",
+      "url": "uideck.com"
+    },
+    {
+      "name": "Copy paste componets",
+      "url": "figcomponents.com"
+    },
+    {
+      "name": "Emoji copy-paste online-free",
+      "url": "emojipedia.org"
+    },
+    {
+      "name": "VECTOR LOGOS\n              of brands you love",
+      "url": "worldvectorlogo.com"
+    },
+    {
+      "name": "STOK LINK FOR ALL",
+      "url": "thestocks.im"
+    },
+    {
+      "name": "Free svg background generator for websites",
+      "url": "bgjar.com"
+    },
+    {
+      "name": "1000 Icons - 6 styles for Figma",
+      "url": "iconsax.io"
+    },
+    {
+      "name": "Card Templates",
+      "url": "inkpx.com"
+    },
+    {
+      "name": "UX portfolio building made fast & easy",
+      "url": "uxfol.io"
+    },
+    {
+      "name": "Icons",
+      "url": "flaticon.com"
+    },
+    {
+      "name": "UI Design Templates",
+      "url": "uidesigntemplates.com"
+    },
+    {
+      "name": "UI Kits for your real life projects",
+      "url": "uistore.design"
+    },
+    {
+      "name": "The largest library of mobile user flows",
+      "url": "uxarchive.com"
+    },
+    {
+      "name": "Freebies for Creatives",
+      "url": "freedesignresources.net"
+    },
+    {
+      "name": "Free Sketch Resources 3",
+      "url": "freebiesbug.com"
+    },
+    {
+      "name": "Online icons and illustrations\n              - customizable",
+      "url": "shape.so"
+    },
+    {
+      "name": "Free UI Kits",
+      "url": "uibundle.com"
+    },
+    {
+      "name": "Animated MP4 Backgrounds",
+      "url": "animatedbackgrounds.me"
+    },
+    {
+      "name": "Free Sketch Design",
+      "url": "uifreebies.net/sketch"
+    },
+    {
+      "name": "Free UI Kits, Sketches",
+      "url": "uplabs.com"
+    },
+    {
+      "name": "Sketch Freebies",
+      "url": "designermill.com"
+    },
+    {
+      "name": "Free Figma Resources",
+      "url": "freebiesupply.com/free-figma"
+    },
+    {
+      "name": "Free design resources",
+      "url": "interfacer.xyz"
+    },
+    {
+      "name": "Free design resources 2",
+      "url": "uispace.net"
+    }
+  ],
   "AI Services": [
+    {
+      "name": "A curated library of scroll-driven templates and prompts. Copy one, paste it into your AI, and launch a site that doesn't look AI-made.",
+      "url": "scrolltide.co"
+    },
+    {
+      "name": "Beautiful AI Prompt Library, Made for Creators",
+      "url": "sceneai.art"
+    },
+    {
+      "name": "Curated skills for design engineering",
+      "url": "ui-skills.com"
+    },
+    {
+      "name": "Professional Image Prompt Library",
+      "url": "promptag.app"
+    },
+    {
+      "name": "Beautiful Landing Pages & Web Section",
+      "url": "sceneai.art"
+    },
+    {
+      "name": "App UI and Animation Prompts",
+      "url": "60fps.design"
+    },
+    {
+      "name": "Free Components Prompts",
+      "url": "jiro.build"
+    },
+    {
+      "name": "Open models - LLMs, image, audio, datasets - as 🧲 magnet links that can never be taken down. No single owner or point of failure.",
+      "url": "pirateface.co"
+    },
+    {
+      "name": "424 techniques, each with a definition, film grammar, examples, and a prompt you can run.",
+      "url": "melies.co"
+    },
+    {
+      "name": "120 systems, one library",
+      "url": "designsystems.one"
+    },
+    {
+      "name": "Discover the Best AI Image Generation Prompts",
+      "url": "nanobananapro.org"
+    },
+    {
+      "name": "Explore diverse AI-generated image prompts in various styles and dimensions",
+      "url": "bananaprompts.org"
+    },
+    {
+      "name": "Browse expert-crafted prompts for Nano Banana, Nano Banana Pro, and Nano Banana 2. Copy, paste, and create stunning AI images.",
+      "url": "nanobananaprompt.com"
+    },
+    {
+      "name": "Nano Banana Pro Curated Prompts",
+      "url": "bananaprompts.org"
+    },
+    {
+      "name": "Nano Banana Prompt Library",
+      "url": "nbpro.org"
+    },
+    {
+      "name": "The AI photo prompt library",
+      "url": "carephoto.art"
+    },
+    {
+      "name": "AI Image Generation Prompts Gallery",
+      "url": "bananapro.site"
+    },
+    {
+      "name": "Nano Banana Prompts",
+      "url": "nano-banana2.org"
+    },
+    {
+      "name": "AI Image Prompt Gallery",
+      "url": "nanobanana.org"
+    },
+    {
+      "name": "Browse free Nano Banana Pro prompts—filter by style, medium, and technique",
+      "url": "newbananaprompts.com"
+    },
+    {
+      "name": "The best list of high-quality prompts for Nano Banana Pro & Gemini 3 Image",
+      "url": "aixploria.com"
+    },
+    {
+      "name": "Nano Banana Pro Prompt Collection",
+      "url": "nano-banana-pro.ai"
+    },
+    {
+      "name": "Explore 8000+ Curated Nano Banana Prompts",
+      "url": "nanobananaprompt.club"
+    },
+    {
+      "name": "Updated 1000+ GPT-Image 2/Nanobanana prompts",
+      "url": "aiwind.org"
+    },
+    {
+      "name": "Beautiful UI for AI-native interfaces.",
+      "url": "beautifului.dev"
+    },
+    {
+      "name": "High-crafted UI libraries for AI agents. UI effects for modern apps, ready to use with your coding agents.",
+      "url": "libraries.dev"
+    },
+    {
+      "name": "Real websites as inspiration for your agent. A curated archive of 832 production sites. Browse it yourself, or plug it straight into your coding agent.",
+      "url": "inspomcp.dev"
+    },
+    {
+      "name": "Extract a DESIGN.md from any website.",
+      "url": "design-md.hyperbrowser.ai"
+    },
+    {
+      "name": "Turn one prompt into web, mobile & design systems",
+      "url": "neuform.ai"
+    },
+    {
+      "name": "Browse reusable Aura landing page templates for SaaS, portfolio, ecommerce, and AI websites.",
+      "url": "aura.build"
+    },
+    {
+      "name": "Drop in any public domain. We pull brand identity, screenshots, and live markup from Context.dev, then shape it into a Google DESIGN.md document — ready to feed an AI agent.",
+      "url": "designmd.supply"
+    },
+    {
+      "name": "Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AAA, 138 design systems",
+      "url": "ux-ui-agent-skills"
+    },
+    {
+      "name": "Extract Design Systems from any URL. Generate DESIGN.md in seconds",
+      "url": "dembrandt.com"
+    },
+    {
+      "name": "Beautiful Animated UI Components for React",
+      "url": "componentry.dev"
+    },
+    {
+      "name": "Searchable database of UI styles, color palettes, font pairings, chart types, and UX guidelines. Build beautiful interfaces with AI-powered design recommendations.",
+      "url": "uupm.cc"
+    },
+    {
+      "name": "Free coding-models pings every free AI endpoint in real time.",
+      "url": "freecodingmodels.vercel.app"
+    },
+    {
+      "name": "Browse copy-ready Three.js components, complete website templates, WebGL backgrounds, hero sections, UI effects, and source-backed variants.",
+      "url": "threeui.com"
+    },
+    {
+      "name": "VoiceStudio drives every engine below through one local runtime — install, switch, and update them from the in-app model store. Nothing here needs an account or an API key.",
+      "url": "voicestudio.sh"
+    },
+    {
+      "name": "The missing design vocabulary for agents.",
+      "url": "impeccable.style"
+    },
+    {
+      "name": "The Free Social Platform for AI Prompts",
+      "url": "prompts.chat"
+    },
+    {
+      "name": "Faceswap is the leading free and Open Source multi-platform Deepfakes software.",
+      "url": "faceswap.dev"
+    },
+    {
+      "name": "Run Claude Code, Codex, OpenCode, and more side by side in isolated worktrees.",
+      "url": "onorca.dev"
+    },
+    {
+      "name": "Open Source Tools. No Signups. Right in your browser",
+      "url": "nosignups.net"
+    },
+    {
+      "name": "Prompt library",
+      "url": "code.claude.com"
+    },
+    {
+      "name": "Torrent - open-source AI artifacts",
+      "url": "huggingbay.xyz"
+    },
+    {
+      "name": "Camera movement prompts for AI filmmakers",
+      "url": "aicameramovements.com"
+    },
+    {
+      "name": "Image to prompt, instantly.",
+      "url": "promptcard.net"
+    },
+    {
+      "name": "The High-Throughput and Memory-Efficient inference and serving engine for LLMs",
+      "url": "vllm.ai"
+    },
+    {
+      "name": "Your own multimodal Agent team",
+      "url": "hub.minimax.io"
+    },
+    {
+      "name": "High-quality 2,000+ DESIGN.md examples for AI agents",
+      "url": "styles.refero.design"
+    },
+    {
+      "name": "A desktop preview for Hermes Desktop. Explore the app and choose your platform below.",
+      "url": "hermes-ai.net"
+    },
+    {
+      "name": "The all-in-one AI application",
+      "url": "anythingllm.com"
+    },
+    {
+      "name": "Free 3D Builder",
+      "url": "pascal.app"
+    },
+    {
+      "name": "OpenVoice: Versatile Instant Voice Cloning",
+      "url": "research.myshell.ai"
+    },
+    {
+      "name": "Ai chat",
+      "url": "longcat.chat"
+    },
+    {
+      "name": "Fast Ai image editor",
+      "url": "removerized.yoss.pro"
+    },
+    {
+      "name": "Ready-to-use prompt library for Animated Websites",
+      "url": "motionsites.ai"
+    },
+    {
+      "name": "A comprehensive framework for building private AI applications",
+      "url": "privategpt.dev"
+    },
+    {
+      "name": "Free image background remover",
+      "url": "nukebg.app"
+    },
+    {
+      "name": "Turn any website into a design system",
+      "url": "designmd.me"
+    },
+    {
+      "name": "ZCode combines the best AI agents with your existing tools so you can plan, code,\n              review, and deploy without friction.",
+      "url": "zcode.z.ai"
+    },
+    {
+      "name": "Make your agent a design researcher",
+      "url": "lazyweb.com"
+    },
+    {
+      "name": "AI Builder by Google",
+      "url": "stitch.withgoogle"
+    },
+    {
+      "name": "The open-source alternative to Claude Design. Built on the shoulders of\n              huashu-design, guizang-ppt, multica-ai, and open-codesign.",
+      "url": "open-design.ai"
+    },
+    {
+      "name": "CADAM is the open source text-to-CAD web application",
+      "url": "adam.new"
+    },
+    {
+      "name": "AI Google Labs",
+      "url": "labs.google"
+    },
+    {
+      "name": "Prompt, run, edit, and deploy AI agents in seconds",
+      "url": "pipedream.com"
+    },
+    {
+      "name": "Code-first orchestration platform for internal software",
+      "url": "windmill.dev"
+    },
+    {
+      "name": "The visual AI automation platform",
+      "url": "make.com"
+    },
+    {
+      "name": "Huginn gives you a team of persistent AI agents that remember your codebase and work\n              it in parallel. Free. Local. Yours.",
+      "url": "huginn.sh"
+    },
+    {
+      "name": "Vector - Frontier AI for Design",
+      "url": "quiver.ai"
+    },
+    {
+      "name": "Free Open Source Clip Generator & AI UGC Video Creator",
+      "url": "openshorts.app"
+    },
+    {
+      "name": "Curated AI Prompts for More Efficient Conversations",
+      "url": "aishort.top"
+    },
+    {
+      "name": "The world's best collection of 3D geospatial data",
+      "url": "app.cityweft.com"
+    },
+    {
+      "name": "Prompt guidance",
+      "url": "developers.openai.com"
+    },
+    {
+      "name": "Flame is a game engine built on top of Flutter. It runs on mobile, desktop, and web.",
+      "url": "flame-engine.org"
+    },
+    {
+      "name": "Awesome Open Source AI",
+      "url": "awesomeosai.com"
+    },
+    {
+      "name": "UI Prompt Library for Vibe Coders",
+      "url": "vibeui.online"
+    },
+    {
+      "name": "Image Prompts Gallery",
+      "url": "meigen.ai"
+    },
+    {
+      "name": "Any image. Any 3D model. Runs locally.",
+      "url": "modly3d.app"
+    },
+    {
+      "name": "GPT Image 2 Prompts",
+      "url": "evolink.ai/gpt-image-2-prompts"
+    },
+    {
+      "name": "GPT Image2 Prompts",
+      "url": "youmind.com/gpt-image-2-prompts"
+    },
+    {
+      "name": "Local AI:Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "huggingface.co/HauhauCS/Qwen3.6"
+    },
+    {
+      "name": "Alternative to GPT, Codex, Claude, Gemeni",
+      "url": "chat.z.ai"
+    },
+    {
+      "name": "The Complete AI Ecosystem That Actually Respects Your Privacy",
+      "url": "github.com/claraverse-space"
+    },
+    {
+      "name": "OSINT Tools Discovery",
+      "url": "astrosp.github.io"
+    },
+    {
+      "name": "Design Skills for AI Agents",
+      "url": "typeui.sh"
+    },
+    {
+      "name": "Skills covering the entire AI research lifecycle",
+      "url": "orchestra-research.com"
+    },
+    {
+      "name": "Open source voice cloning studio",
+      "url": "voicebox.sh"
+    },
+    {
+      "name": "Turn Web into Desktop/Mobile Apps",
+      "url": "ppofficial.netlify.app"
+    },
+    {
+      "name": "Qwen Studio is an AI assistant for everyone",
+      "url": "qwen.ai/qwenchat"
+    },
+    {
+      "name": "AI skit factory full link automation",
+      "url": "toonflow.net"
+    },
+    {
+      "name": "Codex Use Cases",
+      "url": "developers.openai.com"
+    },
+    {
+      "name": "SEO Machine: AI-Powered Content Creation That Ranks",
+      "url": "seomachine.io"
+    },
+    {
+      "name": "Local AWS.Zero cost.",
+      "url": "floci.io"
+    },
+    {
+      "name": "Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "url": "huggingface.co/HauhauCS"
+    },
+    {
+      "name": "A markdown renderer designed for streaming content from AI models.",
+      "url": "streamdown.ai"
+    },
+    {
+      "name": "Your AI assistant re-reads your entire codebase on every task",
+      "url": "code-review-graph.com"
+    },
+    {
+      "name": "The world’s fastest framework for building websites",
+      "url": "gohugo.io"
+    },
+    {
+      "name": "Perfect subtitles, zero effort",
+      "url": "usesubstudio.com"
+    },
+    {
+      "name": "Video generation WAN from QWEEN",
+      "url": "create.wan.video"
+    },
     {
       "name": "Nano Banana Pro AI Prompt Gallery",
       "url": "promptlibrary.space"
@@ -25,7 +815,7 @@
       "url": "flames.blue"
     },
     {
-      "name": "Nano Banana Prompts\rabout 15k results",
+      "name": "Nano Banana Prompts\n              about 15k results",
       "url": "prompthero.com"
     },
     {
@@ -937,7 +1727,7 @@
       "url": "imggen.ai/tools/sharpen-portraits"
     },
     {
-      "name": "Music Maker  Online",
+      "name": "Music Maker Online",
       "url": "coproducer.output.com"
     },
     {
@@ -1137,7 +1927,7 @@
       "url": "app.recraft.ai"
     },
     {
-      "name": "GamifAI ultimate tool to create  games",
+      "name": "GamifAI ultimate tool to create games",
       "url": "gamifai.net"
     },
     {
@@ -1313,7 +2103,7 @@
       "url": "bolt.new"
     },
     {
-      "name": "Your ultimate online\rimage editing tool",
+      "name": "Your ultimate online\n              image editing tool",
       "url": "hicompress.com"
     },
     {
@@ -1573,7 +2363,7 @@
       "url": "civitai.com"
     },
     {
-      "name": "Colorize\rPictures\rAutomatic, no sign-up, Free!",
+      "name": "Colorize\n              Pictures\n              Automatic, no sign-up, Free!",
       "url": "palette.fm"
     },
     {
@@ -1629,7 +2419,7 @@
       "url": "aidesignresource.com"
     },
     {
-      "name": "Find All You\rNeed For\rAI Art",
+      "name": "Find All You\n              Need For\n              AI Art",
       "url": "aiartapps.com"
     },
     {
@@ -1681,7 +2471,7 @@
       "url": "app.photoroom.com"
     },
     {
-      "name": "Remove Image Background\r100% Automatically",
+      "name": "Remove Image Background\n              100% Automatically",
       "url": "remove.bg"
     },
     {
@@ -1733,1229 +2523,67 @@
       "url": "app.onemoreai.com"
     }
   ],
-  "Colors": [
-    {
-      "name": "Gradient Maker",
-      "url": "meshgradient.com"
-    },
-    {
-      "name": "Extract colors from websites online",
-      "url": "alwane.io"
-    },
-    {
-      "name": "Gradient Maker 2",
-      "url": "uigradients.com"
-    },
-    {
-      "name": "Color gradients + Download PNG + Color CSS",
-      "url": "meshy.uxie.io"
-    },
-    {
-      "name": "Gradient Maker 3",
-      "url": "grabient.com"
-    },
-    {
-      "name": "Generate beautiful mesh gradients",
-      "url": "meshgradient.in"
-    },
-    {
-      "name": "Gradient Maker 4",
-      "url": "gradienthunt.com"
-    },
-    {
-      "name": "Color gradients",
-      "url": "pigment.shapefactory.co"
-    },
-    {
-      "name": "Blend Gradients",
-      "url": "gradientsguru.com"
-    },
-    {
-      "name": "Colors from words",
-      "url": "picular.co"
-    },
-    {
-      "name": "Who can use this color combination?",
-      "url": "whocanuse.com"
-    },
-    {
-      "name": "The biggest collection of official brand colors",
-      "url": "brandcolors.net"
-    },
-    {
-      "name": "Colors work",
-      "url": "colors.dopely.top"
-    },
-    {
-      "name": "Generate color palettes",
-      "url": "coolors.co"
-    },
-    {
-      "name": "Color Palettes for Designers and Artists",
-      "url": "colorhunt.co"
-    },
-    {
-      "name": "Colors Palette Generator",
-      "url": "pixelfika.com"
-    },
-    {
-      "name": "Colors Palette 3",
-      "url": "farbvelo.elastiq.ch"
-    },
-    {
-      "name": "Colors Palette 2",
-      "url": "colors.lol"
-    },
-    {
-      "name": "Colors Palette",
-      "url": "webdesignrankings.com"
-    },
-    {
-      "name": "Gradient maker",
-      "url": "gradients.app"
-    },
-    {
-      "name": "Converting Colors",
-      "url": "convertingcolors.com"
-    }
-  ],
-  "Developer": [
-    {
-      "name": "Cloud disk providing 1024GB for free",
-      "url": "terabox.com"
-    },
-    {
-      "name": "Online CSS Photo Filters",
-      "url": "baseline.is"
-    },
-    {
-      "name": "Online SVG code editor",
-      "url": "editsvgcode.com"
-    },
-    {
-      "name": "Recognition service\rtext from images",
-      "url": "img2txt.com/en"
-    },
-    {
-      "name": "Test webdite Online",
-      "url": "nibbler.silktide.com"
-    },
-    {
-      "name": "Web Archive",
-      "url": "archive.org/web"
-    },
-    {
-      "name": "Powerful AI to increase image resolution",
-      "url": "letsenhance.io"
-    },
-    {
-      "name": "Online Transliteration from RU to EN",
-      "url": "transliteration.aspx"
-    },
-    {
-      "name": "Web Archive 2",
-      "url": "archive.ph"
-    },
-    {
-      "name": "Speed software plugin for Websites",
-      "url": "nitropack.io"
-    },
-    {
-      "name": "Free Frontend Libraries",
-      "url": "freefrontend.com"
-    },
-    {
-      "name": "Web Archive 3",
-      "url": "web-arhive.ru"
-    },
-    {
-      "name": "files, tamplates for sketch/figma",
-      "url": "sketchrepo.com"
-    },
-    {
-      "name": "Cheat Sheets",
-      "url": "devhints.io"
-    },
-    {
-      "name": "SANDBOX ONLINE / DeDIC",
-      "url": "tria.ge"
-    },
-    {
-      "name": "Map Bilder + compare with SVG",
-      "url": "snazzymaps.com"
-    },
-    {
-      "name": "Features for DEVs",
-      "url": "caniuse.com"
-    },
-    {
-      "name": "Animations-Code",
-      "url": "ui.aceternity.com"
-    },
-    {
-      "name": "Online Test Responsive Tool",
-      "url": "responsivetesttool.com"
-    },
-    {
-      "name": "Free CSS Templates, CSS Layouts & More",
-      "url": "free-css.com"
-    },
-    {
-      "name": "FreevTemporary mail for 10 minutes",
-      "url": "10minutemail.net"
-    },
-    {
-      "name": "Online Buttons/Text Generator",
-      "url": "leonardocolor.io"
-    },
-    {
-      "name": "Import Fig to Code",
-      "url": "pulpo.usepulpo.com"
-    },
-    {
-      "name": "The Ultimate reference tool for game designers",
-      "url": "gameuidatabase.com"
-    },
-    {
-      "name": "A collection of CSS3 to : buttons, logos, etc.",
-      "url": "ianlunn.github.io"
-    },
-    {
-      "name": "Headless website builder",
-      "url": "prismic.io"
-    },
-    {
-      "name": "The Largest Library of Open-Source UI",
-      "url": "uiverse.io"
-    },
-    {
-      "name": "Just-add-water CSS animations",
-      "url": "animate.style"
-    },
-    {
-      "name": "Free for Developers",
-      "url": "free-for.dev"
-    },
-    {
-      "name": "Animated Favicon",
-      "url": "faviconvideo.com"
-    },
-    {
-      "name": "CSS-animated hamburgers(mobile menu)",
-      "url": "jonsuh.com/hamburgers"
-    },
-    {
-      "name": "Prototype editor",
-      "url": "app.uizard.io"
-    },
-    {
-      "name": "Free Public APIs",
-      "url": "freepublicapis.com"
-    },
-    {
-      "name": "CSS Animation on Demand",
-      "url": "animista.net"
-    },
-    {
-      "name": "No coding website builder",
-      "url": "app.webstudio.so"
-    },
-    {
-      "name": "SVG Viewer",
-      "url": "svgviewer.dev"
-    },
-    {
-      "name": "CSS Effects for Icons, SVG, PNG + copy/code",
-      "url": "minimamente.com"
-    },
-    {
-      "name": "Link shorter 10 links per month",
-      "url": "app.bitly.com"
-    },
-    {
-      "name": "Aspect Ratio Calculator",
-      "url": "calculateaspectratio.com"
-    },
-    {
-      "name": "CSS loading animations with minimal effort!",
-      "url": "whirl.netlify.app"
-    },
-    {
-      "name": "HTML & CSS Code Generator",
-      "url": "htmlcss.tools"
-    },
-    {
-      "name": "Find out what Sr. Developer is talking about",
-      "url": "devpedia.pages.dev"
-    },
-    {
-      "name": "AI-powered visual editing no-code",
-      "url": "raber.app"
-    },
-    {
-      "name": "Scan online Links, documents",
-      "url": "virustotal.com"
-    },
-    {
-      "name": "The AI Engineer’s Handbook",
-      "url": "handbook.exemplar.dev"
-    },
-    {
-      "name": "Online file sender",
-      "url": "dropmefiles.com"
-    },
-    {
-      "name": "Mobile simulator - responsive testing tool",
-      "url": "webmobilefirst.com"
-    },
-    {
-      "name": "Test drive Linux distros online!",
-      "url": "distrosea.com"
-    },
-    {
-      "name": "Online Favicon Generator",
-      "url": "favicon.software"
-    },
-    {
-      "name": "Design and code variants",
-      "url": "v0.dev"
-    },
-    {
-      "name": "Open Source UI components built Tailwind",
-      "url": "kokonutui.com"
-    },
-    {
-      "name": "100+ Open Source SVG Spinners",
-      "url": "magecdn.com"
-    },
-    {
-      "name": "Free all-in-one toolbox",
-      "url": "10015.io"
-    },
-    {
-      "name": "the only cursor animation you need",
-      "url": "cursify.vercel.app"
-    },
-    {
-      "name": "Turn photos into 3D models",
-      "url": "2dto3d.app"
-    },
-    {
-      "name": "The Biggest Collection of Loading Animations",
-      "url": "css-loaders.com"
-    },
-    {
-      "name": "Web Development Resources",
-      "url": "web-dev-resources.com"
-    },
-    {
-      "name": "Public Api Library",
-      "url": "publicapis.dev"
-    },
-    {
-      "name": "JS Animations with code edits",
-      "url": "animejs.com"
-    },
-    {
-      "name": "Website builder",
-      "url": "palet.design"
-    },
-    {
-      "name": "File transfer doesn't need to be complicated",
-      "url": "altsendme.com"
-    },
-    {
-      "name": "Card Generator for Visa, MasterCard, etc.",
-      "url": "neapay.com"
-    },
-    {
-      "name": "Open Source TOOLS\rfor Designer/Developer",
-      "url": "tools.ui-layouts.com"
-    },
-    {
-      "name": "UI Components,\r& Blocks for Developer",
-      "url": "ui-layouts.com"
-    },
-    {
-      "name": "Free UI 3D components",
-      "url": "21st.dev"
-    },
-    {
-      "name": "WebGL effects, motion — with no code.",
-      "url": "unicorn.studio"
-    },
-    {
-      "name": "Temporary, free, disposable email address",
-      "url": "temp-mail.org"
-    },
-    {
-      "name": "Design beautiful circles Online",
-      "url": "squircley.app"
-    },
-    {
-      "name": "Handy tools for developers",
-      "url": "it-tools.tech"
-    },
-    {
-      "name": "Inspect website URL for Fonts",
-      "url": "fonty.io"
-    },
-    {
-      "name": "Design beautiful patterns Online",
-      "url": "patternpad.com"
-    },
-    {
-      "name": "Check your webpage looks great in every size",
-      "url": "everysize.kibalabs.com"
-    },
-    {
-      "name": "The best way to make maps on the internet",
-      "url": "felt.com"
-    },
-    {
-      "name": "Create Patterns Online",
-      "url": "sandify.org"
-    },
-    {
-      "name": "EPS,AI,PSD - FREE FILE CONVERTER",
-      "url": "cloudconvert.com"
-    },
-    {
-      "name": "App builder",
-      "url": "app.stage.so"
-    },
-    {
-      "name": "Visualization Framework",
-      "url": "app.rawgraphs.io"
-    },
-    {
-      "name": "What Theme is That?",
-      "url": "gochyu.com"
-    },
-    {
-      "name": "Transform Figma design to Code",
-      "url": "function12.io"
-    },
-    {
-      "name": "Online Free Code Editor",
-      "url": "codepen.io"
-    },
-    {
-      "name": "What CMS Is This Site Using?",
-      "url": "whatcms.org"
-    },
-    {
-      "name": "Useful Tools & Utilities to make life easier",
-      "url": "10web.tools"
-    },
-    {
-      "name": "CSS Icons",
-      "url": "css.gg/app"
-    },
-    {
-      "name": "Code AI builder",
-      "url": "bolt.new"
-    },
-    {
-      "name": "All language IT DevDocs",
-      "url": "devdocs.io"
-    },
-    {
-      "name": "CSS Animation Library",
-      "url": "vivify.mkcreative.cz"
-    },
-    {
-      "name": "Tools That Solve Your Files Problem",
-      "url": "tinywow.com"
-    },
-    {
-      "name": "Test any website",
-      "url": "nibbler.insites.com"
-    },
-    {
-      "name": "Capture and share Twitter posts",
-      "url": "poet.so"
-    },
-    {
-      "name": "3D Animation from video with AI",
-      "url": "app.plask.ai"
-    },
-    {
-      "name": "Create images of your source code",
-      "url": "carbon.now.sh"
-    },
-    {
-      "name": "FREE CMS",
-      "url": "getgrav.org"
-    },
-    {
-      "name": "/ Search 'n find FONTS used by World Brands",
-      "url": "fontinlogo.com"
-    },
-    {
-      "name": "Convert Image to HTML CSS",
-      "url": "fronty.com"
-    },
-    {
-      "name": "Free Webflow Tamplates",
-      "url": "flowbase.co/clone"
-    },
-    {
-      "name": "Free Fresh Fonts",
-      "url": "dafont.com"
-    },
-    {
-      "name": "Languages Compiler",
-      "url": "ide.onelang.io"
-    },
-    {
-      "name": "Downloadable Lottie files for your Webflow site",
-      "url": "finsweet.com"
-    },
-    {
-      "name": "New & Fresh Fonts",
-      "url": "1001fonts.com"
-    },
-    {
-      "name": "Hidden Tools a wide collection of tools",
-      "url": "hiddentools.dev"
-    },
-    {
-      "name": "Cool Backgrounds",
-      "url": "coolbackgrounds.io"
-    },
-    {
-      "name": "RemoveBG Online",
-      "url": "remove.bg"
-    },
-    {
-      "name": "Free Tamplates",
-      "url": "onepagelove.com"
-    },
-    {
-      "name": "25 GB Cloud Storage",
-      "url": "mega.nz"
-    },
-    {
-      "name": "Free Online QR-Code generator",
-      "url": "qrcoder.ru"
-    },
-    {
-      "name": "Site map visual builder online",
-      "url": "octopus.do"
-    },
-    {
-      "name": "6 GB Cloud Storage",
-      "url": "ru.files.fm"
-    },
-    {
-      "name": "Email Online Tamplate Maker HTML",
-      "url": "stripo.email"
-    },
-    {
-      "name": "Boostrap/HTML/CSS Themes",
-      "url": "themewagon.com"
-    },
-    {
-      "name": "Pinegrow Web Editor, website builder",
-      "url": "pinegrow.com"
-    },
-    {
-      "name": "Site to see how will colours will look",
-      "url": "abha.page"
-    },
-    {
-      "name": "Ajax Loader, Animated Icons, Live Background",
-      "url": "loading.io"
-    },
-    {
-      "name": "Explore your site - copy content, broken links",
-      "url": "siteliner.com"
-    },
-    {
-      "name": "Free themes for web building",
-      "url": "astro.build"
-    }
-  ],
-  "Help Online Resources": [
-    {
-      "name": "Weekly FREE UI resources",
-      "url": "uidesigndaily.com"
-    },
-    {
-      "name": "Database of the FREE tools & resources",
-      "url": "justfree.io"
-    },
-    {
-      "name": "Generative-ai-for-beginners",
-      "url": "github.com/microsoft"
-    },
-    {
-      "name": "Curated Sites. Curated for You.",
-      "url": "curationofcurations.com"
-    },
-    {
-      "name": "Screenshots UI",
-      "url": "mobbin.com"
-    },
-    {
-      "name": "PROMPT DESIGN AND ENGINEERING",
-      "url": "arxiv.org"
-    },
-    {
-      "name": "Browse a curated collection of websites",
-      "url": "browsingmode.com"
-    },
-    {
-      "name": "Explore hand-picked\rapp motion design",
-      "url": "appmotion.design"
-    },
-    {
-      "name": "Руководство по промпт-инжинирингу",
-      "url": "promptingguide.ai"
-    },
-    {
-      "name": "Find the best marketing websites",
-      "url": "awesomemarketingwebsites.com"
-    },
-    {
-      "name": "UI Design Inspiration",
-      "url": "designvault.io"
-    },
-    {
-      "name": "Home to the best navbars on the internet",
-      "url": "navbar.gallery"
-    },
-    {
-      "name": "Inspiring collection of beautiful websites",
-      "url": "baryum.co"
-    },
-    {
-      "name": "UX Patterns",
-      "url": "patttterns.net"
-    },
-    {
-      "name": "FREE Tools",
-      "url": "fmhy.net"
-    },
-    {
-      "name": "International standards for paper sizes",
-      "url": "papersizes.io"
-    },
-    {
-      "name": "Design better user flows from proven products",
-      "url": "pageflows.com"
-    },
-    {
-      "name": "150 Free Video Courses",
-      "url": "github.com"
-    },
-    {
-      "name": "Drag & drop visuals into 1100+ scenes",
-      "url": "mockuuups.studio"
-    },
-    {
-      "name": "UI inspiration & patterns",
-      "url": "uigarage.net"
-    },
-    {
-      "name": "Time difference",
-      "url": "24timezones.com"
-    },
-    {
-      "name": "Create mockups easily and online",
-      "url": "smartmockups.com"
-    },
-    {
-      "name": "Online Illustrations Creator",
-      "url": "app.itg.digital"
-    },
-    {
-      "name": "Inspiring websites",
-      "url": "supercreative.design"
-    },
-    {
-      "name": "SVG Shape Dividers Creator",
-      "url": "shapedividers.com"
-    },
-    {
-      "name": "Free Bootstrap Templates",
-      "url": "themefisher.com"
-    },
-    {
-      "name": "3D Text maker online",
-      "url": "textpop3d.web.app"
-    },
-    {
-      "name": "Free CSS Website Templates",
-      "url": "templatemo.com"
-    },
-    {
-      "name": "Download Free Stock Video Footage",
-      "url": "vidsplay.com"
-    },
-    {
-      "name": "Online notes + many features",
-      "url": "app.milanote.com"
-    },
-    {
-      "name": "Free Stuff Online",
-      "url": "monsterspost.com"
-    },
-    {
-      "name": "Free Fonts Download",
-      "url": "fontsquirrel.com"
-    },
-    {
-      "name": "Test WP WebSites online + plugin tests",
-      "url": "tastewp.com"
-    },
-    {
-      "name": "Templates online for PDF,WEB,Fluers",
-      "url": "easel.ly"
-    },
-    {
-      "name": "PDF edits online",
-      "url": "simplepdf.eu"
-    },
-    {
-      "name": "Open source browser tools for everyday use",
-      "url": "omatsuri.app"
-    },
-    {
-      "name": "Web Design Inspiration Gallery",
-      "url": "land-book.com"
-    },
-    {
-      "name": "Free Fonts",
-      "url": "velvetyne.fr"
-    },
-    {
-      "name": "Build Waves Online",
-      "url": "app.haikei.app"
-    },
-    {
-      "name": "Transform design into a HTML code with AI",
-      "url": "sketch2code.azurewebsites.net"
-    },
-    {
-      "name": "Free Fonts",
-      "url": "myskotom.ru"
-    },
-    {
-      "name": "Free online tools for web developers",
-      "url": "tiny-helpers.dev"
-    },
-    {
-      "name": "Hosting",
-      "url": "airtable.com"
-    },
-    {
-      "name": "Tools Online",
-      "url": "toolfolio.io"
-    },
-    {
-      "name": "Icons+colors+code",
-      "url": "unicode-table.com/en/sets"
-    },
-    {
-      "name": "/ Short code snippets for development needs",
-      "url": "30secondsofcode.org"
-    },
-    {
-      "name": "Join the largest boardgame table in the world",
-      "url": "en.boardgamearena.com"
-    },
-    {
-      "name": "Google fast notes + img into text converter",
-      "url": "keep.google.com"
-    },
-    {
-      "name": "The latest mobile UI design inspiration",
-      "url": "screenlane.com"
-    },
-    {
-      "name": "Explore the magic of 3D design for the web",
-      "url": "3dwebsites.design"
-    },
-    {
-      "name": "Landing Pages Explained",
-      "url": "landingpagesexplained.com"
-    },
-    {
-      "name": "Web design inspiration",
-      "url": "godly.website"
-    },
-    {
-      "name": "UX Hints",
-      "url": "uxhints.com"
-    },
-    {
-      "name": "Web Skills",
-      "url": "andreasbm.github.io"
-    },
-    {
-      "name": "Your Guide to Artificial Intelligence",
-      "url": "learnprompting.org"
-    },
-    {
-      "name": "Explore a World of Repair",
-      "url": "ifixit.com"
-    },
-    {
-      "name": "Temporary Phone Number 24/7",
-      "url": "temporarynumber.com"
-    },
-    {
-      "name": "Free for Developers",
-      "url": "free-for.dev"
-    },
-    {
-      "name": "All info for designers",
-      "url": "dsgners.ru"
-    },
-    {
-      "name": "Free items, elements",
-      "url": "items.design"
-    },
-    {
-      "name": "Font preview and download",
-      "url": "fontstorage.com"
-    },
-    {
-      "name": "Free backgrounds",
-      "url": "grainient.supply"
-    },
-    {
-      "name": "Site of the day",
-      "url": "awwwards.com"
-    },
-    {
-      "name": "Compare\r everything",
-      "url": "versus.com"
-    },
-    {
-      "name": "Video effects with manuals",
-      "url": "eycndy.co"
-    },
-    {
-      "name": "Web design inspiration gallery",
-      "url": "a-fresh.website"
-    },
-    {
-      "name": "Export paper lists in SVG",
-      "url": "paperme.pixzens.com"
-    },
-    {
-      "name": "Inspirational font combinations, color palettes",
-      "url": "typespiration.com"
-    },
-    {
-      "name": "Free OpenClaw Course",
-      "url": "openclaw-course.pages"
-    },
-    {
-      "name": "Hot Keys",
-      "url": "hotkeycheatsheet.com"
-    },
-    {
-      "name": "How it works",
-      "url": "animagraffs.com"
-    },
-    {
-      "name": "400+ UX Resource Pack",
-      "url": "uxwoodsy.notion"
-    },
-    {
-      "name": "Atlas of Telegram channels",
-      "url": "tgpages.com"
-    },
-    {
-      "name": "UI curated experiences for you inspiration",
-      "url": "viewport-ui.design"
-    },
-    {
-      "name": "Get Inspiration from best product illustrations",
-      "url": "illustrationsuniverse.com"
-    },
-    {
-      "name": "Free Online Audio, Video and File Converter",
-      "url": "convertr.org"
-    },
-    {
-      "name": "Explore 560+ best  SaaS and web apps",
-      "url": "nicelydone.club/apps"
-    },
-    {
-      "name": "Copy macOS cursors with ease",
-      "url": "cursor.design"
-    },
-    {
-      "name": "UI and UX Tools",
-      "url": "ls.graphics/ui-ux-tools"
-    },
-    {
-      "name": "Find People Online by Photo",
-      "url": "facecheck.id"
-    },
-    {
-      "name": "Web design inspiration catalog",
-      "url": "curated.design"
-    },
-    {
-      "name": "Useful design tools",
-      "url": "uxpile.com"
-    },
-    {
-      "name": "Screenshots UI/UX Elements for Designers",
-      "url": "calltoinspiration.com"
-    },
-    {
-      "name": "Developer manuals",
-      "url": "thevalleyofcode.com"
-    },
-    {
-      "name": "Laws of UX is a collection of best practices",
-      "url": "lawsofux.com"
-    },
-    {
-      "name": "Fonts to look and download",
-      "url": "fontshare.com"
-    },
-    {
-      "name": "Online generator company name and domain",
-      "url": "namecheck.com"
-    },
-    {
-      "name": "Fonts to look and download",
-      "url": "freefaces.gallery"
-    },
-    {
-      "name": "Real design inspiration",
-      "url": "uisources.com"
-    },
-    {
-      "name": "IU Kits for Download",
-      "url": "worlduiresources.com"
-    },
-    {
-      "name": "Download FLAC from Youtube",
-      "url": "y2down.cc"
-    },
-    {
-      "name": "AI Online image creator",
-      "url": "gaugan.org"
-    },
-    {
-      "name": "CREDIT CARD GENERATOR",
-      "url": "vccgenerator.org"
-    },
-    {
-      "name": "10 GB Free Drive",
-      "url": "app.box.com"
-    },
-    {
-      "name": "Land Collector Online Collection(inspiration)",
-      "url": "land-collector.com"
-    },
-    {
-      "name": "Online Font Creator",
-      "url": "glyphrstudio.com"
-    },
-    {
-      "name": "Inspiration",
-      "url": "vexels.com"
-    },
-    {
-      "name": "Inspiration of products from across the world",
-      "url": "chamjo.design"
-    },
-    {
-      "name": "Inspiration 2",
-      "url": "scrnshts.club"
-    },
-    {
-      "name": "How looks ADS in Google by other companies",
-      "url": "adstransparency.google.com"
-    },
-    {
-      "name": "Design Resourses All in One",
-      "url": "designresourc.es"
-    },
-    {
-      "name": "Fake updates on windows, mac.",
-      "url": "fakeupdate.net"
-    },
-    {
-      "name": "Link Builder",
-      "url": "tiles.bio"
-    },
-    {
-      "name": "Design IMG inspiration with download",
-      "url": "same.energy"
-    },
-    {
-      "name": "eCommerce Website Design  Inspiration",
-      "url": "ecomm.design"
-    },
-    {
-      "name": "Access UX screenshots of top products",
-      "url": "flowstep.design"
-    },
-    {
-      "name": "Where SaaS builders find inspiration",
-      "url": "saasframe.io"
-    },
-    {
-      "name": "Free Fonts",
-      "url": "fonts-online.ru"
-    },
-    {
-      "name": "The platform for knowledge discovery",
-      "url": "learn-anything.xyz"
-    },
-    {
-      "name": "Solution for design resources",
-      "url": "uitoolz.com"
-    },
-    {
-      "name": "Modern websites for inspiration",
-      "url": "sitesee.co"
-    },
-    {
-      "name": "APP Inspiration for designers",
-      "url": "appshots.design"
-    },
-    {
-      "name": "Repository of Design, Development Resources",
-      "url": "codetote.netlify.app"
-    },
-    {
-      "name": "UX timeline websites",
-      "url": "uxtimeline.com"
-    },
-    {
-      "name": "Inspiration for designers",
-      "url": "curations.tech"
-    },
-    {
-      "name": "Text to video",
-      "url": "lalamu.studio"
-    },
-    {
-      "name": "Daily Designer Inspiration",
-      "url": "collectui.com"
-    },
-    {
-      "name": "Landing Page Examples",
-      "url": "landings.dev"
-    },
-    {
-      "name": "Design inspiration",
-      "url": "bentogrids.com"
-    },
-    {
-      "name": "The only bookmark UX/UI designers need",
-      "url": "uxbookmark.com"
-    },
-    {
-      "name": "Randomly generated client briefs",
-      "url": "fakeclients.com"
-    },
-    {
-      "name": "Best examples of product design",
-      "url": "refero.design"
-    }
-  ],
-  "Illustrations": [
-    {
-      "name": "Make wavy abstract backgrounds",
-      "url": "fffuel.co/aaabstract"
-    },
-    {
-      "name": "Vector Illustrations",
-      "url": "vectorportal.com"
-    },
-    {
-      "name": "Free Icons, Illustrations & Photos",
-      "url": "reshot.com"
-    },
-    {
-      "name": "Free Illustrations",
-      "url": "xiaonail.com"
-    },
-    {
-      "name": "ALL in One illustration website",
-      "url": "freepik.com"
-    },
-    {
-      "name": "Free customizable illustrations",
-      "url": "storyset.com"
-    },
-    {
-      "name": "Free Mockup Generator",
-      "url": "pixelied.com"
-    },
-    {
-      "name": "Free Animated Icons and Illustrations",
-      "url": "pixeltrue.com"
-    },
-    {
-      "name": "SVG maps",
-      "url": "amcharts.com"
-    },
-    {
-      "name": "Click on Characters to copy HTML codes",
-      "url": "copypastecharacter.com"
-    },
-    {
-      "name": "Hand picked stock video footage",
-      "url": "mazwai.com"
-    },
-    {
-      "name": "Access 8,700+ Animated Icons",
-      "url": "lordicon.com"
-    },
-    {
-      "name": "Beautiful Free Stock Video Footage",
-      "url": "coverr.co"
-    },
-    {
-      "name": "3D icons to edit Free",
-      "url": "iconscout.com"
-    },
-    {
-      "name": "Free PNG Online 4",
-      "url": "pngall.com"
-    },
-    {
-      "name": "Free Vector Art & Graphics",
-      "url": "freevectors.net"
-    },
-    {
-      "name": "Free PNG Online 3",
-      "url": "pngplay.com"
-    },
-    {
-      "name": "Build your own amazing illustrations",
-      "url": "iradesign.io"
-    },
-    {
-      "name": "Free PNG Online 2",
-      "url": "pngmart.com"
-    },
-    {
-      "name": "2,500+ royalty-free illustrations",
-      "url": "manypixels.co"
-    },
-    {
-      "name": "Free PNG Online",
-      "url": "hiclipart.com"
-    },
-    {
-      "name": "AI generates adult imagery",
-      "url": "pornpen.ai"
-    },
-    {
-      "name": "3D Illustrations",
-      "url": "clouddevs.com"
-    },
-    {
-      "name": "Free Illustrations to use",
-      "url": "freeillustrations.xyz"
-    },
-    {
-      "name": "Free illustrations",
-      "url": "uistore.design"
-    },
-    {
-      "name": "Free Illustrations",
-      "url": "designstripe.com"
-    },
-    {
-      "name": "Online Avatar Generator",
-      "url": "getavataaars.com"
-    },
-    {
-      "name": "Free Icons",
-      "url": "iconoir.com"
-    },
-    {
-      "name": "Free design your characters",
-      "url": "stubborn.fun"
-    },
-    {
-      "name": "Make Avatar online (svg)",
-      "url": "avamake.com"
-    },
-    {
-      "name": "SVG Illustrations",
-      "url": "undraw.co"
-    },
-    {
-      "name": "Make Waves online",
-      "url": "app.heazy.studio"
-    },
-    {
-      "name": "Free Vector graphics",
-      "url": "pixabay.com"
-    },
-    {
-      "name": "Remove anything\runwanted in seconds",
-      "url": "remover.zmo.ai"
-    },
-    {
-      "name": "Free Illustrations - Photos",
-      "url": "vecteezy.com"
-    },
-    {
-      "name": "Upscale, Denoise your images in seconds",
-      "url": "clipdrop.co/image-upscaler"
-    },
-    {
-      "name": "Remove People from img",
-      "url": "cleanup.pictures"
-    }
-  ],
-  "MUSIC DESIGN": [
-    {
-      "name": "Free loops, sounds",
-      "url": "freesound.org"
-    },
-    {
-      "name": "Free music and instrumental versions",
-      "url": "ncs.io"
-    },
-    {
-      "name": "Free Music and sound effects",
-      "url": "uppbeat.io"
-    },
-    {
-      "name": "Delete vocal online",
-      "url": "vocalremover.org"
-    },
-    {
-      "name": "Royalty-Free Music",
-      "url": "mubert.com"
-    },
-    {
-      "name": "Noise for games,promotion,video, etc.",
-      "url": "noisefx.ru"
-    },
-    {
-      "name": "Online convert to MP3",
-      "url": "webbrowsertools.com/convert-to-mp3"
-    },
-    {
-      "name": "Sounds for films,games,promotion,video",
-      "url": "zvukipro.com"
-    },
-    {
-      "name": "Online music studio for sampling",
-      "url": "soundtrap.com"
-    }
-  ],
   "Software": [
+    {
+      "name": "Open-source parametric CAD.Built in Rust.",
+      "url": "solidcraft.io"
+    },
+    {
+      "name": "The free, open-source CapCut replacement.",
+      "url": "concat.standalones.org"
+    },
+    {
+      "name": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "url": "rea.tools"
+    },
+    {
+      "name": "Professional image editing in your browser. PSDs · Layers · Masks · Effects · AI-powered tools",
+      "url": "imageflow.dev"
+    },
+    {
+      "name": "The most powerful and extensible open source Wiki software",
+      "url": "js.wiki"
+    },
+    {
+      "name": "Comfortably monitor your Internet traffic",
+      "url": "sniffnet.app"
+    },
+    {
+      "name": "3D Gaussian Splatting on Your Mac",
+      "url": "radiancekit.de"
+    },
+    {
+      "name": "Caesium Image Compressor",
+      "url": "saerasoft.com"
+    },
+    {
+      "name": "Run iOS apps and games natively on your Apple Silicon Mac.",
+      "url": "playcover.io"
+    },
+    {
+      "name": "Open Reel Video",
+      "url": "app.openreel.video"
+    },
+    {
+      "name": "Kimu is a playful, zero‑latency video editor with an AI copilot",
+      "url": "trykimu.com"
+    },
+    {
+      "name": "Shotcut is a free, open source, cross-platform video editor",
+      "url": "shotcut.org"
+    },
+    {
+      "name": "The PDF editor that stays on your device",
+      "url": "revpdf.com"
+    },
+    {
+      "name": "APK Emulator",
+      "url": "developer.android.com/emulator"
+    },
+    {
+      "name": "ByeByeDPI",
+      "url": "byebyedpi.xyz"
+    },
     {
       "name": "Free QR Code Generator",
       "url": "free-qr-code-generator.com"
@@ -2985,7 +2613,7 @@
       "url": "yasic.vercel.app"
     },
     {
-      "name": "Color palette generator\rfor brand, website",
+      "name": "Color palette generator\n              for brand, website",
       "url": "huemint.com"
     },
     {
@@ -3069,7 +2697,7 @@
       "url": "pixso.net"
     },
     {
-      "name": "Make any web page\rPrint Friendly & PDF",
+      "name": "Make any web page\n              Print Friendly & PDF",
       "url": "printfriendly.com"
     },
     {
@@ -3081,7 +2709,7 @@
       "url": "designer.microsoft.com"
     },
     {
-      "name": "BUILT TO DESIGN FONTS\r- Smart. Fast. Online",
+      "name": "BUILT TO DESIGN FONTS\n              - Smart. Fast. Online",
       "url": "fontark.net"
     },
     {
@@ -3361,335 +2989,175 @@
       "url": "tasksboard.com"
     }
   ],
-  "UX": [
+  "Illustrations": [
     {
-      "name": "Library of templates",
-      "url": "unicornui.com"
+      "name": "Make wavy abstract backgrounds",
+      "url": "fffuel.co/aaabstract"
     },
     {
-      "name": "Design templates Free",
-      "url": "dopeui.co"
+      "name": "Vector Illustrations",
+      "url": "vectorportal.com"
     },
     {
-      "name": "Business Presentation templates PPT",
-      "url": "slidesgo.com"
+      "name": "Free Icons, Illustrations & Photos",
+      "url": "reshot.com"
     },
     {
-      "name": "Smoky Backgrounds generator dragdropsite Design Systems",
-      "url": "designsystemsforfigma.com"
+      "name": "Free Illustrations",
+      "url": "xiaonail.com"
     },
     {
-      "name": "Mockups free",
-      "url": "mockup.ceacle.com"
+      "name": "ALL in One illustration website",
+      "url": "freepik.com"
     },
     {
-      "name": "Logo Builder",
-      "url": "logozanaat.app"
+      "name": "Free customizable illustrations",
+      "url": "storyset.com"
     },
     {
-      "name": "Free HTML, FIG, PSD Files",
-      "url": "templatesjungle.com"
+      "name": "Free Mockup Generator",
+      "url": "pixelied.com"
     },
     {
-      "name": "Find Design Examples Online",
-      "url": "lookup.design"
-    },
-    {
-      "name": "404 pages",
-      "url": "404s.design"
-    },
-    {
-      "name": "Free Figma Resources, Tools and Templates",
-      "url": "figmaelements.com"
-    },
-    {
-      "name": "Free Design Resources for Figma",
-      "url": "lapa.ninja"
-    },
-    {
-      "name": "Free Figma resources",
-      "url": "setproduct.com"
-    },
-    {
-      "name": "Free Pie Chart Maker export SVG",
-      "url": "piechartmaker.co"
-    },
-    {
-      "name": "Free Figma UI Kits",
-      "url": "uxcrush.com"
-    },
-    {
-      "name": "SVG Isometric icons",
-      "url": "isocons.app"
-    },
-    {
-      "name": "Free Figma Component Library",
-      "url": "figmacomponents.com"
-    },
-    {
-      "name": "Uncover the UI secrets behind apps",
-      "url": "uxsnaps.com"
-    },
-    {
-      "name": "Free PPT & Google Slides themes",
-      "url": "slidescarnival.com"
-    },
-    {
-      "name": "Freebies",
-      "url": "reallygooddesigns.com"
-    },
-    {
-      "name": "Grid paper maker and Downloader",
-      "url": "griiid.ink"
-    },
-    {
-      "name": "AI website design and copy to figma",
-      "url": "relume.io"
-    },
-    {
-      "name": "Free Animated Background Generator",
-      "url": "krumzi.com"
-    },
-    {
-      "name": "Dark sky generator",
-      "url": "magicpattern.design"
-    },
-    {
-      "name": "Animated text",
-      "url": "spacetypegenerator.com"
-    },
-    {
-      "name": "Perfectly rounded icon library",
-      "url": "akaricons.com"
-    },
-    {
-      "name": "60+ Animated\rDay, Sunset and Night Scenes",
+      "name": "Free Animated Icons and Illustrations",
       "url": "pixeltrue.com"
     },
     {
-      "name": "Free AI-generated avatars",
-      "url": "uifaces.co"
+      "name": "SVG maps",
+      "url": "amcharts.com"
     },
     {
-      "name": "SVG animator",
-      "url": "svg.framerlists.com"
+      "name": "Click on Characters to copy HTML codes",
+      "url": "copypastecharacter.com"
     },
     {
-      "name": "No code Website Builder like figma",
-      "url": "app.siter.io"
+      "name": "Hand picked stock video footage",
+      "url": "mazwai.com"
     },
     {
-      "name": "SaaS landing page examples",
-      "url": "saaslandingpage.com"
-    },
-    {
-      "name": "Build landing page with Figma",
-      "url": "landingly.co"
-    },
-    {
-      "name": "Animated components",
-      "url": "reactbits.dev"
-    },
-    {
-      "name": "AI Coloring Page Generator",
-      "url": "colorifyai.art"
-    },
-    {
-      "name": "Design templates",
-      "url": "uihut.com"
-    },
-    {
-      "name": "Screens for App’s Store and Play Market",
-      "url": "screen.traction.one"
-    },
-    {
-      "name": "files, tamplates for sketch/figma",
-      "url": "sketchrepo.com/all"
-    },
-    {
-      "name": "Generate SVG Waves",
-      "url": "svgwave.in"
-    },
-    {
-      "name": "Effects",
-      "url": "my.crate.as"
-    },
-    {
-      "name": "Online Font Check",
-      "url": "wordmark.it"
-    },
-    {
-      "name": "Converter to Figma and other formats",
-      "url": "magicul.io"
-    },
-    {
-      "name": "Empty States",
-      "url": "emptystat.es"
-    },
-    {
-      "name": "Mockups - FIG,SKETCH,XD",
-      "url": "angle.sh/downloads"
-    },
-    {
-      "name": "Animations for app and website",
-      "url": "useanimations.com"
-    },
-    {
-      "name": "Glyph Catalog",
-      "url": "glyphcatalog.com"
-    },
-    {
-      "name": "Remove objects online",
-      "url": "cleanup.pictures"
-    },
-    {
-      "name": "Animated Icons",
+      "name": "Access 8,700+ Animated Icons",
       "url": "lordicon.com"
     },
     {
-      "name": "Hot Keys",
-      "url": "hotkeycheatsheet.com"
+      "name": "Beautiful Free Stock Video Footage",
+      "url": "coverr.co"
     },
     {
-      "name": "Free SVG icons for popular brands",
-      "url": "simpleicons.org"
+      "name": "3D icons to edit Free",
+      "url": "iconscout.com"
     },
     {
-      "name": "The biggest logo design library",
-      "url": "logosystem.co"
+      "name": "Free PNG Online 4",
+      "url": "pngall.com"
     },
     {
-      "name": "Waves Maker Online",
-      "url": "getwaves.io"
+      "name": "Free Vector Art & Graphics",
+      "url": "freevectors.net"
     },
     {
-      "name": "Free Logo generator",
-      "url": "logofury.com"
+      "name": "Free PNG Online 3",
+      "url": "pngplay.com"
     },
     {
-      "name": "Icons",
-      "url": "iconer.app"
+      "name": "Build your own amazing illustrations",
+      "url": "iradesign.io"
     },
     {
-      "name": "Icons and illustrations",
-      "url": "thenounproject.com"
+      "name": "Free PNG Online 2",
+      "url": "pngmart.com"
     },
     {
-      "name": "Fonts Online by Google",
-      "url": "fonts.google.com"
+      "name": "2,500+ royalty-free illustrations",
+      "url": "manypixels.co"
     },
     {
-      "name": "Templates Online",
-      "url": "infograph.venngage.com"
+      "name": "Free PNG Online",
+      "url": "hiclipart.com"
     },
     {
-      "name": "Tool to help designers set the layout",
-      "url": "kolumna.dazlog.com"
+      "name": "AI generates adult imagery",
+      "url": "pornpen.ai"
     },
     {
-      "name": "Free 3D Icons",
-      "url": "free3dicon.com"
+      "name": "3D Illustrations",
+      "url": "clouddevs.com"
     },
     {
-      "name": "Free HTML, Bootstrap, Tailwind, & React",
-      "url": "uideck.com"
+      "name": "Free Illustrations to use",
+      "url": "freeillustrations.xyz"
     },
     {
-      "name": "Copy paste componets",
-      "url": "figcomponents.com"
-    },
-    {
-      "name": "Emoji copy-paste online-free",
-      "url": "emojipedia.org"
-    },
-    {
-      "name": "VECTOR LOGOS\rof brands you love",
-      "url": "worldvectorlogo.com"
-    },
-    {
-      "name": "STOK LINK FOR ALL",
-      "url": "thestocks.im"
-    },
-    {
-      "name": "Free svg background generator for websites",
-      "url": "bgjar.com"
-    },
-    {
-      "name": "1000 Icons - 6 styles for Figma",
-      "url": "iconsax.io"
-    },
-    {
-      "name": "Card Templates",
-      "url": "inkpx.com"
-    },
-    {
-      "name": "UX portfolio building made fast & easy",
-      "url": "uxfol.io"
-    },
-    {
-      "name": "Icons",
-      "url": "flaticon.com"
-    },
-    {
-      "name": "UI Design Templates",
-      "url": "uidesigntemplates.com"
-    },
-    {
-      "name": "UI Kits for your real life projects",
+      "name": "Free illustrations",
       "url": "uistore.design"
     },
     {
-      "name": "The largest library of mobile user flows",
-      "url": "uxarchive.com"
+      "name": "Free Illustrations",
+      "url": "designstripe.com"
     },
     {
-      "name": "Freebies for Creatives",
-      "url": "freedesignresources.net"
+      "name": "Online Avatar Generator",
+      "url": "getavataaars.com"
     },
     {
-      "name": "Free Sketch Resources 3",
-      "url": "freebiesbug.com"
+      "name": "Free Icons",
+      "url": "iconoir.com"
     },
     {
-      "name": "Online icons and illustrations\r- customizable",
-      "url": "shape.so"
+      "name": "Free design your characters",
+      "url": "stubborn.fun"
     },
     {
-      "name": "Free UI Kits",
-      "url": "uibundle.com"
+      "name": "Make Avatar online (svg)",
+      "url": "avamake.com"
     },
     {
-      "name": "Animated MP4 Backgrounds",
-      "url": "animatedbackgrounds.me"
+      "name": "SVG Illustrations",
+      "url": "undraw.co"
     },
     {
-      "name": "Free Sketch Design",
-      "url": "uifreebies.net/sketch"
+      "name": "Make Waves online",
+      "url": "app.heazy.studio"
     },
     {
-      "name": "Free UI Kits, Sketches",
-      "url": "uplabs.com"
+      "name": "Free Vector graphics",
+      "url": "pixabay.com"
     },
     {
-      "name": "Sketch Freebies",
-      "url": "designermill.com"
+      "name": "Remove anything\runwanted in seconds",
+      "url": "remover.zmo.ai"
     },
     {
-      "name": "Free Figma Resources",
-      "url": "freebiesupply.com/free-figma"
+      "name": "Free Illustrations - Photos",
+      "url": "vecteezy.com"
     },
     {
-      "name": "Free design resources",
-      "url": "interfacer.xyz"
+      "name": "Upscale, Denoise your images in seconds",
+      "url": "clipdrop.co/image-upscaler"
     },
     {
-      "name": "Free design resources 2",
-      "url": "uispace.net"
+      "name": "Remove People from img",
+      "url": "cleanup.pictures"
     }
   ],
   "Video": [
     {
-      "name": "Stock photos by\ra movie-scale crew",
+      "name": "The screen recorder. Auto-zoom, cursor effects, and a timeline editor. All in one free app. No watermark, no limits",
+      "url": "screenforge.co"
+    },
+    {
+      "name": "Social Media Video Hook Library",
+      "url": "transitionalhooks.com"
+    },
+    {
+      "name": "SVG to Vector",
+      "url": "gurjotharika.github.io/svgtovector"
+    },
+    {
+      "name": "SVG to motion and photo 3D",
+      "url": "3dsvg.design"
+    },
+    {
+      "name": "Stock photos by a movie-scale crew",
       "url": "icons8.com/photos"
     },
     {
@@ -3725,11 +3193,11 @@
       "url": "focastock.com"
     },
     {
-      "name": "Beautiful & exclusive\rfree stock photos",
+      "name": "Beautiful & exclusive\n              free stock photos",
       "url": "splitshire.com"
     },
     {
-      "name": "Exclusive\rfree stock FOOD photos",
+      "name": "Exclusive\n              free stock FOOD photos",
       "url": "foodiesfeed.com"
     },
     {
@@ -3913,7 +3381,7 @@
       "url": "pexels.com"
     },
     {
-      "name": "Free Intro & Outro\rVideo Templates",
+      "name": "Free Intro & Outro\n              Video Templates",
       "url": "flexclip.com"
     },
     {
@@ -3925,7 +3393,7 @@
       "url": "myheritage.com"
     },
     {
-      "name": "Remove Image\rBackground Free and Fast",
+      "name": "Remove Image\n              Background Free and Fast",
       "url": "picwish.com"
     },
     {
@@ -3947,6 +3415,616 @@
     {
       "name": "Beautiful FREE stock photos",
       "url": "picjumbo.com"
+    }
+  ],
+  "Colors": [
+    {
+      "name": "Gradient Maker",
+      "url": "meshgradient.com"
+    },
+    {
+      "name": "Extract colors from websites online",
+      "url": "alwane.io"
+    },
+    {
+      "name": "Gradient Maker 2",
+      "url": "uigradients.com"
+    },
+    {
+      "name": "Color gradients + Download PNG + Color CSS",
+      "url": "meshy.uxie.io"
+    },
+    {
+      "name": "Gradient Maker 3",
+      "url": "grabient.com"
+    },
+    {
+      "name": "Generate beautiful mesh gradients",
+      "url": "meshgradient.in"
+    },
+    {
+      "name": "Gradient Maker 4",
+      "url": "gradienthunt.com"
+    },
+    {
+      "name": "Color gradients",
+      "url": "pigment.shapefactory.co"
+    },
+    {
+      "name": "Blend Gradients",
+      "url": "gradientsguru.com"
+    },
+    {
+      "name": "Colors from words",
+      "url": "picular.co"
+    },
+    {
+      "name": "Who can use this color combination?",
+      "url": "whocanuse.com"
+    },
+    {
+      "name": "The biggest collection of official brand colors",
+      "url": "brandcolors.net"
+    },
+    {
+      "name": "Colors work",
+      "url": "colors.dopely.top"
+    },
+    {
+      "name": "Generate color palettes",
+      "url": "coolors.co"
+    },
+    {
+      "name": "Color Palettes for Designers and Artists",
+      "url": "colorhunt.co"
+    },
+    {
+      "name": "Colors Palette Generator",
+      "url": "pixelfika.com"
+    },
+    {
+      "name": "Colors Palette 3",
+      "url": "farbvelo.elastiq.ch"
+    },
+    {
+      "name": "Colors Palette 2",
+      "url": "colors.lol"
+    },
+    {
+      "name": "Colors Palette",
+      "url": "webdesignrankings.com"
+    },
+    {
+      "name": "Gradient maker",
+      "url": "gradients.app"
+    },
+    {
+      "name": "Converting Colors",
+      "url": "convertingcolors.com"
+    }
+  ],
+  "Developer": [
+    {
+      "name": "Create small, fast, secure, cross-platform applications",
+      "url": "tauri.app"
+    },
+    {
+      "name": "Build full featured iOS, Android & Desktop apps",
+      "url": "framework7.io"
+    },
+    {
+      "name": "Next-Gen UI Interactions",
+      "url": "vengenceui.com"
+    },
+    {
+      "name": "Self-hosted GPS tracking for Android. Your data, your server, your rules.",
+      "url": "colota.app"
+    },
+    {
+      "name": "React components for creative developers",
+      "url": "reactbits.dev"
+    },
+    {
+      "name": "Cloud disk providing 1024GB for free",
+      "url": "terabox.com"
+    },
+    {
+      "name": "Online CSS Photo Filters",
+      "url": "baseline.is"
+    },
+    {
+      "name": "Online SVG code editor",
+      "url": "editsvgcode.com"
+    },
+    {
+      "name": "Recognition service\n              text from images",
+      "url": "img2txt.com/en"
+    },
+    {
+      "name": "Test webdite Online",
+      "url": "nibbler.silktide.com"
+    },
+    {
+      "name": "Web Archive",
+      "url": "archive.org/web"
+    },
+    {
+      "name": "Powerful AI to increase image resolution",
+      "url": "letsenhance.io"
+    },
+    {
+      "name": "Online Transliteration from RU to EN",
+      "url": "transliteration.aspx"
+    },
+    {
+      "name": "Web Archive 2",
+      "url": "archive.ph"
+    },
+    {
+      "name": "Speed software plugin for Websites",
+      "url": "nitropack.io"
+    },
+    {
+      "name": "Free Frontend Libraries",
+      "url": "freefrontend.com"
+    },
+    {
+      "name": "Web Archive 3",
+      "url": "web-arhive.ru"
+    },
+    {
+      "name": "files, tamplates for sketch/figma",
+      "url": "sketchrepo.com"
+    },
+    {
+      "name": "Cheat Sheets",
+      "url": "devhints.io"
+    },
+    {
+      "name": "SANDBOX ONLINE / DeDIC",
+      "url": "tria.ge"
+    },
+    {
+      "name": "Map Bilder + compare with SVG",
+      "url": "snazzymaps.com"
+    },
+    {
+      "name": "Features for DEVs",
+      "url": "caniuse.com"
+    },
+    {
+      "name": "Animations-Code",
+      "url": "ui.aceternity.com"
+    },
+    {
+      "name": "Online Test Responsive Tool",
+      "url": "responsivetesttool.com"
+    },
+    {
+      "name": "Free CSS Templates, CSS Layouts & More",
+      "url": "free-css.com"
+    },
+    {
+      "name": "FreevTemporary mail for 10 minutes",
+      "url": "10minutemail.net"
+    },
+    {
+      "name": "Online Buttons/Text Generator",
+      "url": "leonardocolor.io"
+    },
+    {
+      "name": "Import Fig to Code",
+      "url": "pulpo.usepulpo.com"
+    },
+    {
+      "name": "The Ultimate reference tool for game designers",
+      "url": "gameuidatabase.com"
+    },
+    {
+      "name": "A collection of CSS3 to : buttons, logos, etc.",
+      "url": "ianlunn.github.io"
+    },
+    {
+      "name": "Headless website builder",
+      "url": "prismic.io"
+    },
+    {
+      "name": "The Largest Library of Open-Source UI",
+      "url": "uiverse.io"
+    },
+    {
+      "name": "Just-add-water CSS animations",
+      "url": "animate.style"
+    },
+    {
+      "name": "Free for Developers",
+      "url": "free-for.dev"
+    },
+    {
+      "name": "Animated Favicon",
+      "url": "faviconvideo.com"
+    },
+    {
+      "name": "CSS-animated hamburgers(mobile menu)",
+      "url": "jonsuh.com/hamburgers"
+    },
+    {
+      "name": "Prototype editor",
+      "url": "app.uizard.io"
+    },
+    {
+      "name": "Free Public APIs",
+      "url": "freepublicapis.com"
+    },
+    {
+      "name": "CSS Animation on Demand",
+      "url": "animista.net"
+    },
+    {
+      "name": "No coding website builder",
+      "url": "app.webstudio.so"
+    },
+    {
+      "name": "SVG Viewer",
+      "url": "svgviewer.dev"
+    },
+    {
+      "name": "CSS Effects for Icons, SVG, PNG + copy/code",
+      "url": "minimamente.com"
+    },
+    {
+      "name": "Link shorter 10 links per month",
+      "url": "app.bitly.com"
+    },
+    {
+      "name": "Aspect Ratio Calculator",
+      "url": "calculateaspectratio.com"
+    },
+    {
+      "name": "CSS loading animations with minimal effort!",
+      "url": "whirl.netlify.app"
+    },
+    {
+      "name": "HTML & CSS Code Generator",
+      "url": "htmlcss.tools"
+    },
+    {
+      "name": "Find out what Sr. Developer is talking about",
+      "url": "devpedia.pages.dev"
+    },
+    {
+      "name": "AI-powered visual editing no-code",
+      "url": "raber.app"
+    },
+    {
+      "name": "Scan online Links, documents",
+      "url": "virustotal.com"
+    },
+    {
+      "name": "The AI Engineer’s Handbook",
+      "url": "handbook.exemplar.dev"
+    },
+    {
+      "name": "Online file sender",
+      "url": "dropmefiles.com"
+    },
+    {
+      "name": "Mobile simulator - responsive testing tool",
+      "url": "webmobilefirst.com"
+    },
+    {
+      "name": "Test drive Linux distros online!",
+      "url": "distrosea.com"
+    },
+    {
+      "name": "Online Favicon Generator",
+      "url": "favicon.software"
+    },
+    {
+      "name": "Design and code variants",
+      "url": "v0.dev"
+    },
+    {
+      "name": "Open Source UI components built Tailwind",
+      "url": "kokonutui.com"
+    },
+    {
+      "name": "100+ Open Source SVG Spinners",
+      "url": "magecdn.com"
+    },
+    {
+      "name": "Free all-in-one toolbox",
+      "url": "10015.io"
+    },
+    {
+      "name": "the only cursor animation you need",
+      "url": "cursify.vercel.app"
+    },
+    {
+      "name": "Turn photos into 3D models",
+      "url": "2dto3d.app"
+    },
+    {
+      "name": "The Biggest Collection of Loading Animations",
+      "url": "css-loaders.com"
+    },
+    {
+      "name": "Web Development Resources",
+      "url": "web-dev-resources.com"
+    },
+    {
+      "name": "Public Api Library",
+      "url": "publicapis.dev"
+    },
+    {
+      "name": "JS Animations with code edits",
+      "url": "animejs.com"
+    },
+    {
+      "name": "Website builder",
+      "url": "palet.design"
+    },
+    {
+      "name": "File transfer doesn't need to be complicated",
+      "url": "altsendme.com"
+    },
+    {
+      "name": "Card Generator for Visa, MasterCard, etc.",
+      "url": "neapay.com"
+    },
+    {
+      "name": "Open Source TOOLS\n              for Designer/Developer",
+      "url": "tools.ui-layouts.com"
+    },
+    {
+      "name": "UI Components,\n              & Blocks for Developer",
+      "url": "ui-layouts.com"
+    },
+    {
+      "name": "Free UI 3D components",
+      "url": "21st.dev"
+    },
+    {
+      "name": "WebGL effects, motion — with no code.",
+      "url": "unicorn.studio"
+    },
+    {
+      "name": "Temporary, free, disposable email address",
+      "url": "temp-mail.org"
+    },
+    {
+      "name": "Design beautiful circles Online",
+      "url": "squircley.app"
+    },
+    {
+      "name": "Handy tools for developers",
+      "url": "it-tools.tech"
+    },
+    {
+      "name": "Inspect website URL for Fonts",
+      "url": "fonty.io"
+    },
+    {
+      "name": "Design beautiful patterns Online",
+      "url": "patternpad.com"
+    },
+    {
+      "name": "Check your webpage looks great in every size",
+      "url": "everysize.kibalabs.com"
+    },
+    {
+      "name": "The best way to make maps on the internet",
+      "url": "felt.com"
+    },
+    {
+      "name": "Create Patterns Online",
+      "url": "sandify.org"
+    },
+    {
+      "name": "EPS,AI,PSD - FREE FILE CONVERTER",
+      "url": "cloudconvert.com"
+    },
+    {
+      "name": "App builder",
+      "url": "app.stage.so"
+    },
+    {
+      "name": "Visualization Framework",
+      "url": "app.rawgraphs.io"
+    },
+    {
+      "name": "What Theme is That?",
+      "url": "gochyu.com"
+    },
+    {
+      "name": "Transform Figma design to Code",
+      "url": "function12.io"
+    },
+    {
+      "name": "Online Free Code Editor",
+      "url": "codepen.io"
+    },
+    {
+      "name": "What CMS Is This Site Using?",
+      "url": "whatcms.org"
+    },
+    {
+      "name": "Useful Tools & Utilities to make life easier",
+      "url": "10web.tools"
+    },
+    {
+      "name": "CSS Icons",
+      "url": "css.gg/app"
+    },
+    {
+      "name": "Code AI builder",
+      "url": "bolt.new"
+    },
+    {
+      "name": "All language IT DevDocs",
+      "url": "devdocs.io"
+    },
+    {
+      "name": "CSS Animation Library",
+      "url": "vivify.mkcreative.cz"
+    },
+    {
+      "name": "Tools That Solve Your Files Problem",
+      "url": "tinywow.com"
+    },
+    {
+      "name": "Test any website",
+      "url": "nibbler.insites.com"
+    },
+    {
+      "name": "Capture and share Twitter posts",
+      "url": "poet.so"
+    },
+    {
+      "name": "3D Animation from video with AI",
+      "url": "app.plask.ai"
+    },
+    {
+      "name": "Create images of your source code",
+      "url": "carbon.now.sh"
+    },
+    {
+      "name": "FREE CMS",
+      "url": "getgrav.org"
+    },
+    {
+      "name": "/ Search 'n find FONTS used by World Brands",
+      "url": "fontinlogo.com"
+    },
+    {
+      "name": "Convert Image to HTML CSS",
+      "url": "fronty.com"
+    },
+    {
+      "name": "Free Webflow Tamplates",
+      "url": "flowbase.co/clone"
+    },
+    {
+      "name": "Free Fresh Fonts",
+      "url": "dafont.com"
+    },
+    {
+      "name": "Languages Compiler",
+      "url": "ide.onelang.io"
+    },
+    {
+      "name": "Downloadable Lottie files for your Webflow site",
+      "url": "finsweet.com"
+    },
+    {
+      "name": "New & Fresh Fonts",
+      "url": "1001fonts.com"
+    },
+    {
+      "name": "Hidden Tools a wide collection of tools",
+      "url": "hiddentools.dev"
+    },
+    {
+      "name": "Cool Backgrounds",
+      "url": "coolbackgrounds.io"
+    },
+    {
+      "name": "RemoveBG Online",
+      "url": "remove.bg"
+    },
+    {
+      "name": "Free Tamplates",
+      "url": "onepagelove.com"
+    },
+    {
+      "name": "25 GB Cloud Storage",
+      "url": "mega.nz"
+    },
+    {
+      "name": "Free Online QR-Code generator",
+      "url": "qrcoder.ru"
+    },
+    {
+      "name": "Site map visual builder online",
+      "url": "octopus.do"
+    },
+    {
+      "name": "6 GB Cloud Storage",
+      "url": "ru.files.fm"
+    },
+    {
+      "name": "Email Online Tamplate Maker HTML",
+      "url": "stripo.email"
+    },
+    {
+      "name": "Boostrap/HTML/CSS Themes",
+      "url": "themewagon.com"
+    },
+    {
+      "name": "Pinegrow Web Editor, website builder",
+      "url": "pinegrow.com"
+    },
+    {
+      "name": "Site to see how will colours will look",
+      "url": "abha.page"
+    },
+    {
+      "name": "Ajax Loader, Animated Icons, Live Background",
+      "url": "loading.io"
+    },
+    {
+      "name": "Explore your site - copy content, broken links",
+      "url": "siteliner.com"
+    },
+    {
+      "name": "Free themes for web building",
+      "url": "astro.build"
+    }
+  ],
+  "MUSIC DESIGN": [
+    {
+      "name": "UI sound design, ready to ship.",
+      "url": "uisfx.com"
+    },
+    {
+      "name": "StableDAW: A Full AI Music Studio That Runs on Your Own Computer",
+      "url": "pinokio.co"
+    },
+    {
+      "name": "Free loops, sounds",
+      "url": "freesound.org"
+    },
+    {
+      "name": "Free music and instrumental versions",
+      "url": "ncs.io"
+    },
+    {
+      "name": "Free Music and sound effects",
+      "url": "uppbeat.io"
+    },
+    {
+      "name": "Delete vocal online",
+      "url": "vocalremover.org"
+    },
+    {
+      "name": "Royalty-Free Music",
+      "url": "mubert.com"
+    },
+    {
+      "name": "Noise for games,promotion,video, etc.",
+      "url": "noisefx.ru"
+    },
+    {
+      "name": "Online convert to MP3",
+      "url": "webbrowsertools.com/convert-to-mp3"
+    },
+    {
+      "name": "Sounds for films,games,promotion,video",
+      "url": "zvukipro.com"
+    },
+    {
+      "name": "Online music studio for sampling",
+      "url": "soundtrap.com"
     }
   ],
   "Web Design": [
@@ -4093,6 +4171,504 @@
     {
       "name": "Free open source icons & illustrations",
       "url": "iconduck.com"
+    }
+  ],
+  "Help Online Resources": [
+    {
+      "name": "Own your tools. Forever. Free. Open source. One-time buy. Zero subscriptions.",
+      "url": "nosubscription.org"
+    },
+    {
+      "name": "A free and open-source home for reading and downloading your favourite books, comics and manga.",
+      "url": "bookracy.com"
+    },
+    {
+      "name": "Weekly FREE UI resources",
+      "url": "uidesigndaily.com"
+    },
+    {
+      "name": "Database of the FREE tools & resources",
+      "url": "justfree.io"
+    },
+    {
+      "name": "Generative-ai-for-beginners",
+      "url": "github.com/microsoft"
+    },
+    {
+      "name": "Curated Sites. Curated for You.",
+      "url": "curationofcurations.com"
+    },
+    {
+      "name": "Screenshots UI",
+      "url": "mobbin.com"
+    },
+    {
+      "name": "PROMPT DESIGN AND ENGINEERING",
+      "url": "arxiv.org"
+    },
+    {
+      "name": "Browse a curated collection of websites",
+      "url": "browsingmode.com"
+    },
+    {
+      "name": "Explore hand-picked\napp motion design",
+      "url": "appmotion.design"
+    },
+    {
+      "name": "Руководство по промпт-инжинирингу",
+      "url": "promptingguide.ai"
+    },
+    {
+      "name": "Find the best marketing websites",
+      "url": "awesomemarketingwebsites.com"
+    },
+    {
+      "name": "UI Design Inspiration",
+      "url": "designvault.io"
+    },
+    {
+      "name": "Home to the best navbars on the internet",
+      "url": "navbar.gallery"
+    },
+    {
+      "name": "Inspiring collection of beautiful websites",
+      "url": "baryum.co"
+    },
+    {
+      "name": "UX Patterns",
+      "url": "patttterns.net"
+    },
+    {
+      "name": "FREE Tools",
+      "url": "fmhy.net"
+    },
+    {
+      "name": "International standards for paper sizes",
+      "url": "papersizes.io"
+    },
+    {
+      "name": "Design better user flows from proven products",
+      "url": "pageflows.com"
+    },
+    {
+      "name": "150 Free Video Courses",
+      "url": "github.com"
+    },
+    {
+      "name": "Drag & drop visuals into 1100+ scenes",
+      "url": "mockuuups.studio"
+    },
+    {
+      "name": "UI inspiration & patterns",
+      "url": "uigarage.net"
+    },
+    {
+      "name": "Time difference",
+      "url": "24timezones.com"
+    },
+    {
+      "name": "Create mockups easily and online",
+      "url": "smartmockups.com"
+    },
+    {
+      "name": "Online Illustrations Creator",
+      "url": "app.itg.digital"
+    },
+    {
+      "name": "Inspiring websites",
+      "url": "supercreative.design"
+    },
+    {
+      "name": "SVG Shape Dividers Creator",
+      "url": "shapedividers.com"
+    },
+    {
+      "name": "Free Bootstrap Templates",
+      "url": "themefisher.com"
+    },
+    {
+      "name": "3D Text maker online",
+      "url": "textpop3d.web.app"
+    },
+    {
+      "name": "Free CSS Website Templates",
+      "url": "templatemo.com"
+    },
+    {
+      "name": "Download Free Stock Video Footage",
+      "url": "vidsplay.com"
+    },
+    {
+      "name": "Online notes + many features",
+      "url": "app.milanote.com"
+    },
+    {
+      "name": "Free Stuff Online",
+      "url": "monsterspost.com"
+    },
+    {
+      "name": "Free Fonts Download",
+      "url": "fontsquirrel.com"
+    },
+    {
+      "name": "Test WP WebSites online + plugin tests",
+      "url": "tastewp.com"
+    },
+    {
+      "name": "Templates online for PDF,WEB,Fluers",
+      "url": "easel.ly"
+    },
+    {
+      "name": "PDF edits online",
+      "url": "simplepdf.eu"
+    },
+    {
+      "name": "Open source browser tools for everyday use",
+      "url": "omatsuri.app"
+    },
+    {
+      "name": "Web Design Inspiration Gallery",
+      "url": "land-book.com"
+    },
+    {
+      "name": "Free Fonts",
+      "url": "velvetyne.fr"
+    },
+    {
+      "name": "Build Waves Online",
+      "url": "app.haikei.app"
+    },
+    {
+      "name": "Transform design into a HTML code with AI",
+      "url": "sketch2code.azurewebsites.net"
+    },
+    {
+      "name": "Free Fonts",
+      "url": "myskotom.ru"
+    },
+    {
+      "name": "Free online tools for web developers",
+      "url": "tiny-helpers.dev"
+    },
+    {
+      "name": "Hosting",
+      "url": "airtable.com"
+    },
+    {
+      "name": "Tools Online",
+      "url": "toolfolio.io"
+    },
+    {
+      "name": "Icons+colors+code",
+      "url": "unicode-table.com/en/sets"
+    },
+    {
+      "name": "/ Short code snippets for development needs",
+      "url": "30secondsofcode.org"
+    },
+    {
+      "name": "Join the largest boardgame table in the world",
+      "url": "en.boardgamearena.com"
+    },
+    {
+      "name": "Google fast notes + img into text converter",
+      "url": "keep.google.com"
+    },
+    {
+      "name": "The latest mobile UI design inspiration",
+      "url": "screenlane.com"
+    },
+    {
+      "name": "Explore the magic of 3D design for the web",
+      "url": "3dwebsites.design"
+    },
+    {
+      "name": "Landing Pages Explained",
+      "url": "landingpagesexplained.com"
+    },
+    {
+      "name": "Web design inspiration",
+      "url": "godly.website"
+    },
+    {
+      "name": "UX Hints",
+      "url": "uxhints.com"
+    },
+    {
+      "name": "Web Skills",
+      "url": "andreasbm.github.io"
+    },
+    {
+      "name": "Your Guide to Artificial Intelligence",
+      "url": "learnprompting.org"
+    },
+    {
+      "name": "Explore a World of Repair",
+      "url": "ifixit.com"
+    },
+    {
+      "name": "Temporary Phone Number 24/7",
+      "url": "temporarynumber.com"
+    },
+    {
+      "name": "Free for Developers",
+      "url": "free-for.dev"
+    },
+    {
+      "name": "All info for designers",
+      "url": "dsgners.ru"
+    },
+    {
+      "name": "Free items, elements",
+      "url": "items.design"
+    },
+    {
+      "name": "Font preview and download",
+      "url": "fontstorage.com"
+    },
+    {
+      "name": "Free backgrounds",
+      "url": "grainient.supply"
+    },
+    {
+      "name": "Site of the day",
+      "url": "awwwards.com"
+    },
+    {
+      "name": "Compare\n everything",
+      "url": "versus.com"
+    },
+    {
+      "name": "Video effects with manuals",
+      "url": "eycndy.co"
+    },
+    {
+      "name": "Web design inspiration gallery",
+      "url": "a-fresh.website"
+    },
+    {
+      "name": "Export paper lists in SVG",
+      "url": "paperme.pixzens.com"
+    },
+    {
+      "name": "Inspirational font combinations, color palettes",
+      "url": "typespiration.com"
+    },
+    {
+      "name": "Free OpenClaw Course",
+      "url": "openclaw-course.pages"
+    },
+    {
+      "name": "Hot Keys",
+      "url": "hotkeycheatsheet.com"
+    },
+    {
+      "name": "How it works",
+      "url": "animagraffs.com"
+    },
+    {
+      "name": "400+ UX Resource Pack",
+      "url": "uxwoodsy.notion"
+    },
+    {
+      "name": "Atlas of Telegram channels",
+      "url": "tgpages.com"
+    },
+    {
+      "name": "UI curated experiences for you inspiration",
+      "url": "viewport-ui.design"
+    },
+    {
+      "name": "Get Inspiration from best product illustrations",
+      "url": "illustrationsuniverse.com"
+    },
+    {
+      "name": "Free Online Audio, Video and File Converter",
+      "url": "convertr.org"
+    },
+    {
+      "name": "Explore 560+ best  SaaS and web apps",
+      "url": "nicelydone.club/apps"
+    },
+    {
+      "name": "Copy macOS cursors with ease",
+      "url": "cursor.design"
+    },
+    {
+      "name": "UI and UX Tools",
+      "url": "ls.graphics/ui-ux-tools"
+    },
+    {
+      "name": "Find People Online by Photo",
+      "url": "facecheck.id"
+    },
+    {
+      "name": "Web design inspiration catalog",
+      "url": "curated.design"
+    },
+    {
+      "name": "Useful design tools",
+      "url": "uxpile.com"
+    },
+    {
+      "name": "Screenshots UI/UX Elements for Designers",
+      "url": "calltoinspiration.com"
+    },
+    {
+      "name": "Developer manuals",
+      "url": "thevalleyofcode.com"
+    },
+    {
+      "name": "Laws of UX is a collection of best practices",
+      "url": "lawsofux.com"
+    },
+    {
+      "name": "Fonts to look and download",
+      "url": "fontshare.com"
+    },
+    {
+      "name": "Online generator company name and domain",
+      "url": "namecheck.com"
+    },
+    {
+      "name": "Fonts to look and download",
+      "url": "freefaces.gallery"
+    },
+    {
+      "name": "Real design inspiration",
+      "url": "uisources.com"
+    },
+    {
+      "name": "IU Kits for Download",
+      "url": "worlduiresources.com"
+    },
+    {
+      "name": "Download FLAC from Youtube",
+      "url": "y2down.cc"
+    },
+    {
+      "name": "AI Online image creator",
+      "url": "gaugan.org"
+    },
+    {
+      "name": "CREDIT CARD GENERATOR",
+      "url": "vccgenerator.org"
+    },
+    {
+      "name": "10 GB Free Drive",
+      "url": "app.box.com"
+    },
+    {
+      "name": "Land Collector Online Collection(inspiration)",
+      "url": "land-collector.com"
+    },
+    {
+      "name": "Online Font Creator",
+      "url": "glyphrstudio.com"
+    },
+    {
+      "name": "Inspiration",
+      "url": "vexels.com"
+    },
+    {
+      "name": "Inspiration of products from across the world",
+      "url": "chamjo.design"
+    },
+    {
+      "name": "Inspiration 2",
+      "url": "scrnshts.club"
+    },
+    {
+      "name": "How looks ADS in Google by other companies",
+      "url": "adstransparency.google.com"
+    },
+    {
+      "name": "Design Resourses All in One",
+      "url": "designresourc.es"
+    },
+    {
+      "name": "Fake updates on windows, mac.",
+      "url": "fakeupdate.net"
+    },
+    {
+      "name": "Link Builder",
+      "url": "tiles.bio"
+    },
+    {
+      "name": "Design IMG inspiration with download",
+      "url": "same.energy"
+    },
+    {
+      "name": "eCommerce Website Design  Inspiration",
+      "url": "ecomm.design"
+    },
+    {
+      "name": "Access UX screenshots of top products",
+      "url": "flowstep.design"
+    },
+    {
+      "name": "Where SaaS builders find inspiration",
+      "url": "saasframe.io"
+    },
+    {
+      "name": "Free Fonts",
+      "url": "fonts-online.ru"
+    },
+    {
+      "name": "The platform for knowledge discovery",
+      "url": "learn-anything.xyz"
+    },
+    {
+      "name": "Solution for design resources",
+      "url": "uitoolz.com"
+    },
+    {
+      "name": "Modern websites for inspiration",
+      "url": "sitesee.co"
+    },
+    {
+      "name": "APP Inspiration for designers",
+      "url": "appshots.design"
+    },
+    {
+      "name": "Repository of Design, Development Resources",
+      "url": "codetote.netlify.app"
+    },
+    {
+      "name": "UX timeline websites",
+      "url": "uxtimeline.com"
+    },
+    {
+      "name": "Inspiration for designers",
+      "url": "curations.tech"
+    },
+    {
+      "name": "Text to video",
+      "url": "lalamu.studio"
+    },
+    {
+      "name": "Daily Designer Inspiration",
+      "url": "collectui.com"
+    },
+    {
+      "name": "Landing Page Examples",
+      "url": "landings.dev"
+    },
+    {
+      "name": "Design inspiration",
+      "url": "bentogrids.com"
+    },
+    {
+      "name": "The only bookmark UX/UI designers need",
+      "url": "uxbookmark.com"
+    },
+    {
+      "name": "Randomly generated client briefs",
+      "url": "fakeclients.com"
+    },
+    {
+      "name": "Best examples of product design",
+      "url": "refero.design"
     }
   ]
 }

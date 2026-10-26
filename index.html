@@ -69,14 +69,125 @@
       </div>
       <div class="hero-right">
         <div class="hero-search-wrapper reveal">
-          <input type="text" class="hero-search-input" id="heroSearch" placeholder="Search resources...">
+          <input type="text" class="hero-search-input" id="heroSearch" placeholder="Search 1,160+ resources across all categories..." autocomplete="off">
           <i data-lucide="search" class="search-icon"></i>
+          <button type="button" class="search-clear-btn" id="searchClear" aria-label="Clear search" style="display: none;">✕</button>
+
+          <!-- Search Results Dropdown -->
+          <div class="search-results-dropdown" id="searchResults" style="display: none;">
+            <div class="search-results-header">
+              <span class="search-results-count" id="resultsCount">0 resources found</span>
+              <span class="search-results-hint">ESC to close</span>
+            </div>
+            <div class="search-results-list" id="resultsList"></div>
+          </div>
         </div>
-        <div class="hero-visual">
-          <div class="orbit-ring r1"></div>
-          <div class="orbit-ring r2"></div>
-          <div class="orbit-ring r3"></div>
-          <div class="orbit-center">⬡</div>
+
+        <div class="recent-links-section reveal">
+          <div class="recent-links-header">
+            <div class="recent-title-wrap">
+              <span class="recent-live-dot"></span>
+              <span class="recent-heading">RECENT ADDITIONS</span>
+            </div>
+            <div class="recent-filter-pills">
+              <button type="button" class="recent-pill active" data-filter="all">All</button>
+              <button type="button" class="recent-pill" data-filter="AI Services">AI</button>
+              <button type="button" class="recent-pill" data-filter="Software">Software</button>
+            </div>
+          </div>
+
+          <div class="recent-plaques-grid" id="recentPlaquesGrid">
+            <!-- 10 Plaques -->
+            <a href="https://solidcraft.io/download/" class="recent-plaque" target="_blank" rel="noopener" data-cat="Software" style="--cat-color: #ff6b35;">
+              <div class="plaque-header">
+                <span class="plaque-cat" style="color: #ff6b35;">Software</span>
+                <span class="plaque-arrow">↗</span>
+              </div>
+              <div class="plaque-name" title="Open-source parametric CAD.Built in Rust.">Open-source parametric CAD in Rust</div>
+              <div class="plaque-url">solidcraft.io</div>
+            </a>
+
+            <a href="https://www.scrolltide.co/" class="recent-plaque" target="_blank" rel="noopener" data-cat="AI Services" style="--cat-color: #00e5ff;">
+              <div class="plaque-header">
+                <span class="plaque-cat" style="color: #00e5ff;">AI Services</span>
+                <span class="plaque-arrow">↗</span>
+              </div>
+              <div class="plaque-name" title="A curated library of scroll-driven templates and prompts. Copy one, paste it into your AI, and launch a site that doesn't look AI-made.">Scroll-driven templates & prompts for AI</div>
+              <div class="plaque-url">scrolltide.co</div>
+            </a>
+
+            <a href="https://concat.standalones.org/#download" class="recent-plaque" target="_blank" rel="noopener" data-cat="Software" style="--cat-color: #ff6b35;">
+              <div class="plaque-header">
+                <span class="plaque-cat" style="color: #ff6b35;">Software</span>
+                <span class="plaque-arrow">↗</span>
+              </div>
+              <div class="plaque-name" title="The free, open-source CapCut replacement.">Free open-source CapCut replacement</div>
+              <div class="plaque-url">concat.standalones.org</div>
+            </a>
+
+            <a href="https://sceneai.art/" class="recent-plaque" target="_blank" rel="noopener" data-cat="AI Services" style="--cat-color: #00e5ff;">
+              <div class="plaque-header">
+                <span class="plaque-cat" style="color: #00e5ff;">AI Services</span>
+                <span class="plaque-arrow">↗</span>
+              </div>
+              <div class="plaque-name" title="Beautiful AI Prompt Library, Made for Creators">AI Prompt Library for Creators</div>
+              <div class="plaque-url">sceneai.art</div>
+            </a>
+
+            <a href="https://rea.tools/" class="recent-plaque" target="_blank" rel="noopener" data-cat="Software" style="--cat-color: #ff6b35;">
+              <div class="plaque-header">
+                <span class="plaque-cat" style="color: #ff6b35;">Software</span>
+                <span class="plaque-arrow">↗</span>
+              </div>
+              <div class="plaque-name" title="Reverse engineer anything with agents, from app behavior down to native binaries.">Reverse engineer anything with agents</div>
+              <div class="plaque-url">rea.tools</div>
+            </a>
+
+            <a href="https://www.ui-skills.com/" class="recent-plaque" target="_blank" rel="noopener" data-cat="AI Services" style="--cat-color: #00e5ff;">
+              <div class="plaque-header">
+                <span class="plaque-cat" style="color: #00e5ff;">AI Services</span>
+                <span class="plaque-arrow">↗</span>
+              </div>
+              <div class="plaque-name" title="Curated skills for design engineering">Curated skills for design engineering</div>
+              <div class="plaque-url">ui-skills.com</div>
+            </a>
+
+            <a href="https://imageflow.dev/" class="recent-plaque" target="_blank" rel="noopener" data-cat="Software" style="--cat-color: #ff6b35;">
+              <div class="plaque-header">
+                <span class="plaque-cat" style="color: #ff6b35;">Software</span>
+                <span class="plaque-arrow">↗</span>
+              </div>
+              <div class="plaque-name" title="Professional image editing in your browser. PSDs · Layers · Masks · Effects · AI-powered tools">Browser image editor (PSDs, layers, AI)</div>
+              <div class="plaque-url">imageflow.dev</div>
+            </a>
+
+            <a href="https://promptag.app" class="recent-plaque" target="_blank" rel="noopener" data-cat="AI Services" style="--cat-color: #00e5ff;">
+              <div class="plaque-header">
+                <span class="plaque-cat" style="color: #00e5ff;">AI Services</span>
+                <span class="plaque-arrow">↗</span>
+              </div>
+              <div class="plaque-name" title="Professional Image Prompt Library">Professional Image Prompt Library</div>
+              <div class="plaque-url">promptag.app</div>
+            </a>
+
+            <a href="https://js.wiki/" class="recent-plaque" target="_blank" rel="noopener" data-cat="Software" style="--cat-color: #ff6b35;">
+              <div class="plaque-header">
+                <span class="plaque-cat" style="color: #ff6b35;">Software</span>
+                <span class="plaque-arrow">↗</span>
+              </div>
+              <div class="plaque-name" title="The most powerful and extensible open source Wiki software">Extensible open source Wiki software</div>
+              <div class="plaque-url">js.wiki</div>
+            </a>
+
+            <a href="https://sceneai.art/landing-pages" class="recent-plaque" target="_blank" rel="noopener" data-cat="AI Services" style="--cat-color: #00e5ff;">
+              <div class="plaque-header">
+                <span class="plaque-cat" style="color: #00e5ff;">AI Services</span>
+                <span class="plaque-arrow">↗</span>
+              </div>
+              <div class="plaque-name" title="Beautiful Landing Pages & Web Section">Landing Pages & Web Sections</div>
+              <div class="plaque-url">sceneai.art/landing-pages</div>
+            </a>
+          </div>
         </div>
       </div>
     </section>
@@ -177,6 +288,7 @@
     </div>
   </footer>
 
+  <script src="links-data.js"></script>
   <script src="main.js"></script>
   <script>
     lucide.createIcons();
