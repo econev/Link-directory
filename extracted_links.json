@@ -387,6 +387,10 @@
   ],
   "AI Services": [
     {
+      "name": "agent-qa — self-improving web/mobile QA with memidex memory, CLI and MCP",
+      "url": "vostride.com"
+    },
+    {
       "name": "A curated library of scroll-driven templates and prompts. Copy one, paste it into your AI, and launch a site that doesn't look AI-made.",
       "url": "scrolltide.co"
     },
