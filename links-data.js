@@ -1,6 +1,6 @@
 // Auto-generated data for Generalist Bible 2.0
-// Total links: 1163
-// Generated on: 2026-10-26T09:03:28.211Z
+// Total links: 1167
+// Generated on: 2026-11-10T21:10:35.509Z
 
 window.GB_CATEGORIES = [
   {
@@ -921,6 +921,38 @@ window.ALL_LINKS = [
     "category": "UI / UX",
     "page": "uiux.html",
     "color": "#f5c518"
+  },
+  {
+    "name": "agent-qa — web/mobile QA with memidex memory, validated self-improvement and CLI/MCP",
+    "url": "vostride.com",
+    "href": "https://vostride.com",
+    "category": "AI Services",
+    "page": "ai-services.html",
+    "color": "#00e5ff"
+  },
+  {
+    "name": "Reverse engineer anything",
+    "url": "awesomerea.org",
+    "href": "https://awesomerea.org/",
+    "category": "AI Services",
+    "page": "ai-services.html",
+    "color": "#00e5ff"
+  },
+  {
+    "name": "Edit Text in Image Online",
+    "url": "photext.ai",
+    "href": "https://photext.ai/",
+    "category": "AI Services",
+    "page": "ai-services.html",
+    "color": "#00e5ff"
+  },
+  {
+    "name": "Render Anything Engine",
+    "url": "raea.io",
+    "href": "https://raea.io/",
+    "category": "AI Services",
+    "page": "ai-services.html",
+    "color": "#00e5ff"
   },
   {
     "name": "A curated library of scroll-driven templates and prompts. Copy one, paste it into your AI, and launch a site that doesn't look AI-made.",
