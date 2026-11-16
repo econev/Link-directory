@@ -1,65 +1,75 @@
 // Auto-generated data for Generalist Bible 2.0
-// Total links: 1163
-// Generated on: 2026-10-26T09:03:28.211Z
+// Total links: 1174
+// Updated: 2026-11-16T08:23:39.520Z
 
 window.GB_CATEGORIES = [
   {
     "file": "uiux.html",
     "title": "UI / UX",
+    "shortTitle": "UI/UX",
     "color": "#f5c518",
     "key": "UX"
   },
   {
     "file": "ai-services.html",
     "title": "AI Services",
+    "shortTitle": "AI",
     "color": "#00e5ff",
     "key": "AI Services"
   },
   {
     "file": "software.html",
     "title": "Software",
+    "shortTitle": "Software",
     "color": "#ff6b35",
     "key": "Software"
   },
   {
     "file": "illustrations.html",
     "title": "Illustrations",
+    "shortTitle": "Illustrations",
     "color": "#a855f7",
     "key": "Illustrations"
   },
   {
     "file": "photos-video.html",
     "title": "Photos / Video",
+    "shortTitle": "Photos",
     "color": "#22d3ee",
     "key": "Video"
   },
   {
     "file": "colors.html",
     "title": "Colors",
+    "shortTitle": "Colors",
     "color": "#f5c518",
     "key": "Colors"
   },
   {
     "file": "developer.html",
     "title": "Developer",
+    "shortTitle": "Developer",
     "color": "#4ade80",
     "key": "Developer"
   },
   {
     "file": "music.html",
     "title": "Music Design",
+    "shortTitle": "Music",
     "color": "#f472b6",
     "key": "MUSIC DESIGN"
   },
   {
     "file": "web-design.html",
     "title": "Web Design",
+    "shortTitle": "Web",
     "color": "#fb923c",
     "key": "Web Design"
   },
   {
     "file": "help.html",
     "title": "Help Resources",
+    "shortTitle": "Help",
     "color": "#818cf8",
     "key": "Help Online Resources"
   }
@@ -67,87 +77,92 @@ window.GB_CATEGORIES = [
 
 window.GB_RECENT_LINKS = [
   {
-    "name": "Open-source parametric CAD.Built in Rust.",
-    "url": "solidcraft.io",
-    "href": "https://solidcraft.io/download/",
-    "category": "Software",
-    "page": "software.html",
-    "color": "#ff6b35"
+    "name": "Explore 207 polished React and Next.js components, organized across 30 categories.",
+    "url": "opensourceui.in",
+    "href": "https://opensourceui.in/components",
+    "category": "UI / UX",
+    "shortCategory": "UI/UX",
+    "page": "uiux.html",
+    "color": "#f5c518"
   },
   {
-    "name": "Scroll-driven templates & prompts for AI",
-    "fullName": "A curated library of scroll-driven templates and prompts. Copy one, paste it into your AI, and launch a site that doesn't look AI-made.",
-    "url": "scrolltide.co",
-    "href": "https://www.scrolltide.co/",
+    "name": "Open-Source UI elements made with CSS or Tailwind",
+    "url": "uiverse.io",
+    "href": "https://uiverse.io/elements",
+    "category": "UI / UX",
+    "shortCategory": "UI/UX",
+    "page": "uiux.html",
+    "color": "#f5c518"
+  },
+  {
+    "name": "Animated Components",
+    "url": "ui.watermelon.sh",
+    "href": "https://ui.watermelon.sh/home",
+    "category": "UI / UX",
+    "shortCategory": "UI/UX",
+    "page": "uiux.html",
+    "color": "#f5c518"
+  },
+  {
+    "name": "154 animated components, all free. Including 58 just added. Open source, built to drop into any shadcn/ui project.",
+    "url": "cult-ui.com",
+    "href": "https://www.cult-ui.com/",
+    "category": "UI / UX",
+    "shortCategory": "UI/UX",
+    "page": "uiux.html",
+    "color": "#f5c518"
+  },
+  {
+    "name": "React Components",
+    "url": "reactbits.dev",
+    "href": "https://reactbits.dev/get-started/index",
+    "category": "UI / UX",
+    "shortCategory": "UI/UX",
+    "page": "uiux.html",
+    "color": "#f5c518"
+  },
+  {
+    "name": "React UI Components",
+    "url": "ui.aceternity.com",
+    "href": "https://ui.aceternity.com/components",
+    "category": "UI / UX",
+    "shortCategory": "UI/UX",
+    "page": "uiux.html",
+    "color": "#f5c518"
+  },
+  {
+    "name": "Free animated React components",
+    "url": "uselayouts.com",
+    "href": "https://uselayouts.com/components",
+    "category": "UI / UX",
+    "shortCategory": "UI/UX",
+    "page": "uiux.html",
+    "color": "#f5c518"
+  },
+  {
+    "name": "Seamless-loop WebGL backgrounds. Preview any of them in motion, then copy the code or grab the MP4",
+    "url": "scrollshaders.com",
+    "href": "https://scrollshaders.com/shaders",
+    "category": "UI / UX",
+    "shortCategory": "UI/UX",
+    "page": "uiux.html",
+    "color": "#f5c518"
+  },
+  {
+    "name": "Reverse engineer anything",
+    "url": "awesomerea.org",
+    "href": "https://awesomerea.org/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
   {
-    "name": "The free, open-source CapCut replacement",
-    "fullName": "The free, open-source CapCut replacement.",
-    "url": "concat.standalones.org",
-    "href": "https://concat.standalones.org/#download",
-    "category": "Software",
-    "page": "software.html",
-    "color": "#ff6b35"
-  },
-  {
-    "name": "Beautiful AI Prompt Library, Made for Creators",
-    "url": "sceneai.art",
-    "href": "https://sceneai.art/",
+    "name": "Edit Text in Image Online",
+    "url": "photext.ai",
+    "href": "https://photext.ai/",
     "category": "AI Services",
-    "page": "ai-services.html",
-    "color": "#00e5ff"
-  },
-  {
-    "name": "Reverse engineer anything with agents",
-    "fullName": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "url": "rea.tools",
-    "href": "https://rea.tools/",
-    "category": "Software",
-    "page": "software.html",
-    "color": "#ff6b35"
-  },
-  {
-    "name": "Curated skills for design engineering",
-    "url": "ui-skills.com",
-    "href": "https://www.ui-skills.com/",
-    "category": "AI Services",
-    "page": "ai-services.html",
-    "color": "#00e5ff"
-  },
-  {
-    "name": "Professional image editing in your browser",
-    "fullName": "Professional image editing in your browser. PSDs · Layers · Masks · Effects · AI-powered tools",
-    "url": "imageflow.dev",
-    "href": "https://imageflow.dev/",
-    "category": "Software",
-    "page": "software.html",
-    "color": "#ff6b35"
-  },
-  {
-    "name": "Professional Image Prompt Library",
-    "url": "promptag.app",
-    "href": "https://promptag.app",
-    "category": "AI Services",
-    "page": "ai-services.html",
-    "color": "#00e5ff"
-  },
-  {
-    "name": "Extensible open source Wiki software",
-    "fullName": "The most powerful and extensible open source Wiki software",
-    "url": "js.wiki",
-    "href": "https://js.wiki/",
-    "category": "Software",
-    "page": "software.html",
-    "color": "#ff6b35"
-  },
-  {
-    "name": "Beautiful Landing Pages & Web Section",
-    "url": "sceneai.art/landing-pages",
-    "href": "https://sceneai.art/landing-pages",
-    "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   }
@@ -155,10 +170,83 @@ window.GB_RECENT_LINKS = [
 
 window.ALL_LINKS = [
   {
+    "name": "Explore 207 polished React and Next.js components, organized across 30 categories.",
+    "url": "opensourceui.in",
+    "href": "https://opensourceui.in/components",
+    "category": "UI / UX",
+    "shortCategory": "UI/UX",
+    "page": "uiux.html",
+    "color": "#f5c518"
+  },
+  {
+    "name": "Open-Source UI elements made with CSS or Tailwind",
+    "url": "uiverse.io",
+    "href": "https://uiverse.io/elements",
+    "category": "UI / UX",
+    "shortCategory": "UI/UX",
+    "page": "uiux.html",
+    "color": "#f5c518"
+  },
+  {
+    "name": "Animated Components",
+    "url": "ui.watermelon.sh",
+    "href": "https://ui.watermelon.sh/home",
+    "category": "UI / UX",
+    "shortCategory": "UI/UX",
+    "page": "uiux.html",
+    "color": "#f5c518"
+  },
+  {
+    "name": "154 animated components, all free. Including 58 just added. Open source, built to drop into any shadcn/ui project.",
+    "url": "cult-ui.com",
+    "href": "https://www.cult-ui.com/",
+    "category": "UI / UX",
+    "shortCategory": "UI/UX",
+    "page": "uiux.html",
+    "color": "#f5c518"
+  },
+  {
+    "name": "React Components",
+    "url": "reactbits.dev",
+    "href": "https://reactbits.dev/get-started/index",
+    "category": "UI / UX",
+    "shortCategory": "UI/UX",
+    "page": "uiux.html",
+    "color": "#f5c518"
+  },
+  {
+    "name": "React UI Components",
+    "url": "ui.aceternity.com",
+    "href": "https://ui.aceternity.com/components",
+    "category": "UI / UX",
+    "shortCategory": "UI/UX",
+    "page": "uiux.html",
+    "color": "#f5c518"
+  },
+  {
+    "name": "Free animated React components",
+    "url": "uselayouts.com",
+    "href": "https://uselayouts.com/components",
+    "category": "UI / UX",
+    "shortCategory": "UI/UX",
+    "page": "uiux.html",
+    "color": "#f5c518"
+  },
+  {
+    "name": "Seamless-loop WebGL backgrounds. Preview any of them in motion, then copy the code or grab the MP4",
+    "url": "scrollshaders.com",
+    "href": "https://scrollshaders.com/shaders",
+    "category": "UI / UX",
+    "shortCategory": "UI/UX",
+    "page": "uiux.html",
+    "color": "#f5c518"
+  },
+  {
     "name": "Browse the best footer designs",
     "url": "footer.design",
     "href": "https://www.footer.design/",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -167,6 +255,7 @@ window.ALL_LINKS = [
     "url": "unsection.com",
     "href": "https://unsection.com/",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -175,6 +264,7 @@ window.ALL_LINKS = [
     "url": "404s.design",
     "href": "https://www.404s.design/",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -183,6 +273,7 @@ window.ALL_LINKS = [
     "url": "cta.gallery",
     "href": "https://www.cta.gallery/",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -191,6 +282,7 @@ window.ALL_LINKS = [
     "url": "footer.design",
     "href": "https://www.footer.design/browse",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -199,6 +291,7 @@ window.ALL_LINKS = [
     "url": "navbar.gallery",
     "href": "https://www.navbar.gallery/",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -207,6 +300,7 @@ window.ALL_LINKS = [
     "url": "picflow.com",
     "href": "https://picflow.com/convert/svg-to-webp",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -215,6 +309,7 @@ window.ALL_LINKS = [
     "url": "netviz.shadowarcanist.com",
     "href": "https://netviz.shadowarcanist.com/",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -223,6 +318,7 @@ window.ALL_LINKS = [
     "url": "websitevice.com",
     "href": "https://websitevice.com/",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -231,6 +327,7 @@ window.ALL_LINKS = [
     "url": "mindmap.site",
     "href": "https://mindmap.site/",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -239,6 +336,7 @@ window.ALL_LINKS = [
     "url": "detail.design",
     "href": "https://detail.design/",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -247,6 +345,7 @@ window.ALL_LINKS = [
     "url": "dark.design",
     "href": "https://www.dark.design/",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -255,6 +354,7 @@ window.ALL_LINKS = [
     "url": "getdesign.md",
     "href": "https://getdesign.md/",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -263,6 +363,7 @@ window.ALL_LINKS = [
     "url": "openpencil.dev",
     "href": "https://openpencil.dev/",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -271,6 +372,7 @@ window.ALL_LINKS = [
     "url": "variant.com",
     "href": "https://variant.com/community",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -279,6 +381,7 @@ window.ALL_LINKS = [
     "url": "unicornui.com",
     "href": "https://unicornui.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -287,6 +390,7 @@ window.ALL_LINKS = [
     "url": "dopeui.co",
     "href": "https://dopeui.co",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -295,6 +399,7 @@ window.ALL_LINKS = [
     "url": "slidesgo.com",
     "href": "https://slidesgo.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -303,6 +408,7 @@ window.ALL_LINKS = [
     "url": "designsystemsforfigma.com",
     "href": "https://designsystemsforfigma.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -311,6 +417,7 @@ window.ALL_LINKS = [
     "url": "mockup.ceacle.com",
     "href": "https://mockup.ceacle.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -319,6 +426,7 @@ window.ALL_LINKS = [
     "url": "logozanaat.app",
     "href": "https://logozanaat.app",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -327,6 +435,7 @@ window.ALL_LINKS = [
     "url": "templatesjungle.com",
     "href": "https://templatesjungle.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -335,6 +444,7 @@ window.ALL_LINKS = [
     "url": "lookup.design",
     "href": "https://lookup.design",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -343,6 +453,7 @@ window.ALL_LINKS = [
     "url": "404s.design",
     "href": "https://404s.design",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -351,6 +462,7 @@ window.ALL_LINKS = [
     "url": "figmaelements.com",
     "href": "https://figmaelements.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -359,6 +471,7 @@ window.ALL_LINKS = [
     "url": "lapa.ninja",
     "href": "https://lapa.ninja",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -367,6 +480,7 @@ window.ALL_LINKS = [
     "url": "setproduct.com",
     "href": "https://setproduct.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -375,6 +489,7 @@ window.ALL_LINKS = [
     "url": "piechartmaker.co",
     "href": "https://piechartmaker.co",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -383,6 +498,7 @@ window.ALL_LINKS = [
     "url": "uxcrush.com",
     "href": "https://uxcrush.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -391,6 +507,7 @@ window.ALL_LINKS = [
     "url": "isocons.app",
     "href": "https://isocons.app",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -399,6 +516,7 @@ window.ALL_LINKS = [
     "url": "figmacomponents.com",
     "href": "https://figmacomponents.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -407,6 +525,7 @@ window.ALL_LINKS = [
     "url": "uxsnaps.com",
     "href": "https://uxsnaps.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -415,6 +534,7 @@ window.ALL_LINKS = [
     "url": "slidescarnival.com",
     "href": "https://slidescarnival.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -423,6 +543,7 @@ window.ALL_LINKS = [
     "url": "reallygooddesigns.com",
     "href": "https://reallygooddesigns.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -431,6 +552,7 @@ window.ALL_LINKS = [
     "url": "griiid.ink",
     "href": "https://griiid.ink",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -439,6 +561,7 @@ window.ALL_LINKS = [
     "url": "relume.io",
     "href": "https://relume.io",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -447,6 +570,7 @@ window.ALL_LINKS = [
     "url": "krumzi.com",
     "href": "https://krumzi.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -455,6 +579,7 @@ window.ALL_LINKS = [
     "url": "magicpattern.design",
     "href": "https://magicpattern.design",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -463,6 +588,7 @@ window.ALL_LINKS = [
     "url": "spacetypegenerator.com",
     "href": "https://spacetypegenerator.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -471,6 +597,7 @@ window.ALL_LINKS = [
     "url": "akaricons.com",
     "href": "https://akaricons.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -479,6 +606,7 @@ window.ALL_LINKS = [
     "url": "pixeltrue.com",
     "href": "https://pixeltrue.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -487,6 +615,7 @@ window.ALL_LINKS = [
     "url": "uifaces.co",
     "href": "https://uifaces.co",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -495,6 +624,7 @@ window.ALL_LINKS = [
     "url": "svg.framerlists.com",
     "href": "https://svg.framerlists.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -503,6 +633,7 @@ window.ALL_LINKS = [
     "url": "app.siter.io",
     "href": "https://app.siter.io",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -511,6 +642,7 @@ window.ALL_LINKS = [
     "url": "saaslandingpage.com",
     "href": "https://saaslandingpage.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -519,6 +651,7 @@ window.ALL_LINKS = [
     "url": "landingly.co",
     "href": "https://landingly.co",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -527,6 +660,7 @@ window.ALL_LINKS = [
     "url": "reactbits.dev",
     "href": "https://reactbits.dev",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -535,6 +669,7 @@ window.ALL_LINKS = [
     "url": "colorifyai.art",
     "href": "https://colorifyai.art",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -543,6 +678,7 @@ window.ALL_LINKS = [
     "url": "uihut.com",
     "href": "https://uihut.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -551,6 +687,7 @@ window.ALL_LINKS = [
     "url": "screen.traction.one",
     "href": "https://screen.traction.one",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -559,6 +696,7 @@ window.ALL_LINKS = [
     "url": "sketchrepo.com/all",
     "href": "https://sketchrepo.com/all",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -567,6 +705,7 @@ window.ALL_LINKS = [
     "url": "svgwave.in",
     "href": "https://svgwave.in",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -575,6 +714,7 @@ window.ALL_LINKS = [
     "url": "my.crate.as",
     "href": "https://my.crate.as",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -583,6 +723,7 @@ window.ALL_LINKS = [
     "url": "wordmark.it",
     "href": "https://wordmark.it",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -591,6 +732,7 @@ window.ALL_LINKS = [
     "url": "magicul.io",
     "href": "https://magicul.io",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -599,6 +741,7 @@ window.ALL_LINKS = [
     "url": "emptystat.es",
     "href": "https://emptystat.es",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -607,6 +750,7 @@ window.ALL_LINKS = [
     "url": "angle.sh/downloads",
     "href": "https://angle.sh/downloads",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -615,6 +759,7 @@ window.ALL_LINKS = [
     "url": "useanimations.com",
     "href": "https://useanimations.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -623,6 +768,7 @@ window.ALL_LINKS = [
     "url": "glyphcatalog.com",
     "href": "https://glyphcatalog.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -631,6 +777,7 @@ window.ALL_LINKS = [
     "url": "cleanup.pictures",
     "href": "https://cleanup.pictures",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -639,6 +786,7 @@ window.ALL_LINKS = [
     "url": "lordicon.com",
     "href": "https://lordicon.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -647,6 +795,7 @@ window.ALL_LINKS = [
     "url": "hotkeycheatsheet.com",
     "href": "https://hotkeycheatsheet.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -655,6 +804,7 @@ window.ALL_LINKS = [
     "url": "simpleicons.org",
     "href": "https://simpleicons.org",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -663,6 +813,7 @@ window.ALL_LINKS = [
     "url": "logosystem.co",
     "href": "https://logosystem.co",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -671,6 +822,7 @@ window.ALL_LINKS = [
     "url": "getwaves.io",
     "href": "https://getwaves.io",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -679,6 +831,7 @@ window.ALL_LINKS = [
     "url": "logofury.com",
     "href": "https://logofury.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -687,6 +840,7 @@ window.ALL_LINKS = [
     "url": "iconer.app",
     "href": "https://iconer.app",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -695,6 +849,7 @@ window.ALL_LINKS = [
     "url": "thenounproject.com",
     "href": "https://thenounproject.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -703,6 +858,7 @@ window.ALL_LINKS = [
     "url": "fonts.google.com",
     "href": "https://fonts.google.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -711,6 +867,7 @@ window.ALL_LINKS = [
     "url": "infograph.venngage.com",
     "href": "https://infograph.venngage.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -719,6 +876,7 @@ window.ALL_LINKS = [
     "url": "kolumna.dazlog.com",
     "href": "https://kolumna.dazlog.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -727,6 +885,7 @@ window.ALL_LINKS = [
     "url": "free3dicon.com",
     "href": "https://free3dicon.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -735,6 +894,7 @@ window.ALL_LINKS = [
     "url": "uideck.com",
     "href": "https://uideck.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -743,6 +903,7 @@ window.ALL_LINKS = [
     "url": "figcomponents.com",
     "href": "https://figcomponents.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -751,6 +912,7 @@ window.ALL_LINKS = [
     "url": "emojipedia.org",
     "href": "https://emojipedia.org",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -759,6 +921,7 @@ window.ALL_LINKS = [
     "url": "worldvectorlogo.com",
     "href": "https://worldvectorlogo.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -767,6 +930,7 @@ window.ALL_LINKS = [
     "url": "thestocks.im",
     "href": "https://thestocks.im",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -775,6 +939,7 @@ window.ALL_LINKS = [
     "url": "bgjar.com",
     "href": "https://bgjar.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -783,6 +948,7 @@ window.ALL_LINKS = [
     "url": "iconsax.io",
     "href": "https://iconsax.io",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -791,6 +957,7 @@ window.ALL_LINKS = [
     "url": "inkpx.com",
     "href": "https://inkpx.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -799,6 +966,7 @@ window.ALL_LINKS = [
     "url": "uxfol.io",
     "href": "https://uxfol.io",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -807,6 +975,7 @@ window.ALL_LINKS = [
     "url": "flaticon.com",
     "href": "https://flaticon.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -815,6 +984,7 @@ window.ALL_LINKS = [
     "url": "uidesigntemplates.com",
     "href": "https://uidesigntemplates.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -823,6 +993,7 @@ window.ALL_LINKS = [
     "url": "uistore.design",
     "href": "https://uistore.design",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -831,6 +1002,7 @@ window.ALL_LINKS = [
     "url": "uxarchive.com",
     "href": "https://uxarchive.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -839,6 +1011,7 @@ window.ALL_LINKS = [
     "url": "freedesignresources.net",
     "href": "https://freedesignresources.net",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -847,6 +1020,7 @@ window.ALL_LINKS = [
     "url": "freebiesbug.com",
     "href": "https://freebiesbug.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -855,6 +1029,7 @@ window.ALL_LINKS = [
     "url": "shape.so",
     "href": "https://shape.so",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -863,6 +1038,7 @@ window.ALL_LINKS = [
     "url": "uibundle.com",
     "href": "https://uibundle.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -871,6 +1047,7 @@ window.ALL_LINKS = [
     "url": "animatedbackgrounds.me",
     "href": "https://animatedbackgrounds.me",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -879,6 +1056,7 @@ window.ALL_LINKS = [
     "url": "uifreebies.net/sketch",
     "href": "https://uifreebies.net/sketch",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -887,6 +1065,7 @@ window.ALL_LINKS = [
     "url": "uplabs.com",
     "href": "https://uplabs.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -895,6 +1074,7 @@ window.ALL_LINKS = [
     "url": "designermill.com",
     "href": "https://designermill.com",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -903,6 +1083,7 @@ window.ALL_LINKS = [
     "url": "freebiesupply.com/free-figma",
     "href": "https://freebiesupply.com/free-figma",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -911,6 +1092,7 @@ window.ALL_LINKS = [
     "url": "interfacer.xyz",
     "href": "https://interfacer.xyz",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
   },
@@ -919,14 +1101,43 @@ window.ALL_LINKS = [
     "url": "uispace.net",
     "href": "https://uispace.net",
     "category": "UI / UX",
+    "shortCategory": "UI/UX",
     "page": "uiux.html",
     "color": "#f5c518"
+  },
+  {
+    "name": "Reverse engineer anything",
+    "url": "awesomerea.org",
+    "href": "https://awesomerea.org/",
+    "category": "AI Services",
+    "shortCategory": "AI",
+    "page": "ai-services.html",
+    "color": "#00e5ff"
+  },
+  {
+    "name": "Edit Text in Image Online",
+    "url": "photext.ai",
+    "href": "https://photext.ai/",
+    "category": "AI Services",
+    "shortCategory": "AI",
+    "page": "ai-services.html",
+    "color": "#00e5ff"
+  },
+  {
+    "name": "Render Anything Engine",
+    "url": "raea.io",
+    "href": "https://raea.io/",
+    "category": "AI Services",
+    "shortCategory": "AI",
+    "page": "ai-services.html",
+    "color": "#00e5ff"
   },
   {
     "name": "A curated library of scroll-driven templates and prompts. Copy one, paste it into your AI, and launch a site that doesn't look AI-made.",
     "url": "scrolltide.co",
     "href": "https://www.scrolltide.co/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -935,6 +1146,7 @@ window.ALL_LINKS = [
     "url": "sceneai.art",
     "href": "https://sceneai.art/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -943,6 +1155,7 @@ window.ALL_LINKS = [
     "url": "ui-skills.com",
     "href": "https://www.ui-skills.com/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -951,6 +1164,7 @@ window.ALL_LINKS = [
     "url": "promptag.app",
     "href": "https://promptag.app",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -959,6 +1173,7 @@ window.ALL_LINKS = [
     "url": "sceneai.art",
     "href": "https://sceneai.art/landing-pages",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -967,6 +1182,7 @@ window.ALL_LINKS = [
     "url": "60fps.design",
     "href": "https://60fps.design/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -975,6 +1191,7 @@ window.ALL_LINKS = [
     "url": "jiro.build",
     "href": "https://jiro.build/components/free",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -983,6 +1200,7 @@ window.ALL_LINKS = [
     "url": "pirateface.co",
     "href": "https://pirateface.co/models",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -991,6 +1209,7 @@ window.ALL_LINKS = [
     "url": "melies.co",
     "href": "https://melies.co/cinematic-techniques",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -999,6 +1218,7 @@ window.ALL_LINKS = [
     "url": "designsystems.one",
     "href": "https://www.designsystems.one/design-systems",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1007,6 +1227,7 @@ window.ALL_LINKS = [
     "url": "nanobananapro.org",
     "href": "https://www.nanobananapro.org/prompts?category=portrait-photography",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1015,6 +1236,7 @@ window.ALL_LINKS = [
     "url": "bananaprompts.org",
     "href": "https://bananaprompts.org/nano-banana-pro-prompts",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1023,6 +1245,7 @@ window.ALL_LINKS = [
     "url": "nanobananaprompt.com",
     "href": "https://nanobananaprompt.com/prompts?category=portrait",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1031,6 +1254,7 @@ window.ALL_LINKS = [
     "url": "bananaprompts.org",
     "href": "https://bananaprompts.org/nano-banana-pro-curated-prompts",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1039,6 +1263,7 @@ window.ALL_LINKS = [
     "url": "nbpro.org",
     "href": "https://nbpro.org/prompts",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1047,6 +1272,7 @@ window.ALL_LINKS = [
     "url": "carephoto.art",
     "href": "https://www.carephoto.art/prompt-bank#gallery",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1055,6 +1281,7 @@ window.ALL_LINKS = [
     "url": "bananapro.site",
     "href": "https://www.bananapro.site/prompts",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1063,6 +1290,7 @@ window.ALL_LINKS = [
     "url": "nano-banana2.org",
     "href": "https://nano-banana2.org/banana-prompts",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1071,6 +1299,7 @@ window.ALL_LINKS = [
     "url": "nanobanana.org",
     "href": "https://nanobanana.org/banana-prompts",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1079,6 +1308,7 @@ window.ALL_LINKS = [
     "url": "newbananaprompts.com",
     "href": "https://newbananaprompts.com/explore",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1087,6 +1317,7 @@ window.ALL_LINKS = [
     "url": "aixploria.com",
     "href": "https://www.aixploria.com/en/nano-banana-prompt-list-free/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1095,6 +1326,7 @@ window.ALL_LINKS = [
     "url": "nano-banana-pro.ai",
     "href": "https://nano-banana-pro.ai/prompts",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1103,6 +1335,7 @@ window.ALL_LINKS = [
     "url": "nanobananaprompt.club",
     "href": "https://nanobananaprompt.club/prompts",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1111,6 +1344,7 @@ window.ALL_LINKS = [
     "url": "aiwind.org",
     "href": "https://www.aiwind.org/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1119,6 +1353,7 @@ window.ALL_LINKS = [
     "url": "beautifului.dev",
     "href": "https://www.beautifului.dev/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1127,6 +1362,7 @@ window.ALL_LINKS = [
     "url": "libraries.dev",
     "href": "https://libraries.dev/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1135,6 +1371,7 @@ window.ALL_LINKS = [
     "url": "inspomcp.dev",
     "href": "https://inspomcp.dev/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1143,6 +1380,7 @@ window.ALL_LINKS = [
     "url": "design-md.hyperbrowser.ai",
     "href": "https://design-md.hyperbrowser.ai/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1151,6 +1389,7 @@ window.ALL_LINKS = [
     "url": "neuform.ai",
     "href": "https://neuform.ai/community/featured",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1159,6 +1398,7 @@ window.ALL_LINKS = [
     "url": "aura.build",
     "href": "https://www.aura.build/browse/components",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1167,6 +1407,7 @@ window.ALL_LINKS = [
     "url": "designmd.supply",
     "href": "https://www.designmd.supply/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1175,6 +1416,7 @@ window.ALL_LINKS = [
     "url": "ux-ui-agent-skills",
     "href": "https://github.com/plugin87/ux-ui-agent-skills",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1183,6 +1425,7 @@ window.ALL_LINKS = [
     "url": "dembrandt.com",
     "href": "https://www.dembrandt.com/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1191,6 +1434,7 @@ window.ALL_LINKS = [
     "url": "componentry.dev",
     "href": "https://componentry.dev/docs",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1199,6 +1443,7 @@ window.ALL_LINKS = [
     "url": "uupm.cc",
     "href": "https://www.uupm.cc/#styles",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1207,6 +1452,7 @@ window.ALL_LINKS = [
     "url": "freecodingmodels.vercel.app",
     "href": "https://freecodingmodels.vercel.app/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1215,6 +1461,7 @@ window.ALL_LINKS = [
     "url": "threeui.com",
     "href": "https://threeui.com/browse",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1223,6 +1470,7 @@ window.ALL_LINKS = [
     "url": "voicestudio.sh",
     "href": "https://voicestudio.sh/models",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1231,6 +1479,7 @@ window.ALL_LINKS = [
     "url": "impeccable.style",
     "href": "https://impeccable.style/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1239,6 +1488,7 @@ window.ALL_LINKS = [
     "url": "prompts.chat",
     "href": "https://prompts.chat/prompts",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1247,6 +1497,7 @@ window.ALL_LINKS = [
     "url": "faceswap.dev",
     "href": "https://faceswap.dev/download/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1255,6 +1506,7 @@ window.ALL_LINKS = [
     "url": "onorca.dev",
     "href": "https://www.onorca.dev/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1263,6 +1515,7 @@ window.ALL_LINKS = [
     "url": "nosignups.net",
     "href": "https://nosignups.net/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1271,6 +1524,7 @@ window.ALL_LINKS = [
     "url": "code.claude.com",
     "href": "https://code.claude.com/docs/en/prompt-library",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1279,6 +1533,7 @@ window.ALL_LINKS = [
     "url": "huggingbay.xyz",
     "href": "https://huggingbay.xyz/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1287,6 +1542,7 @@ window.ALL_LINKS = [
     "url": "aicameramovements.com",
     "href": "https://aicameramovements.com/#grid",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1295,6 +1551,7 @@ window.ALL_LINKS = [
     "url": "promptcard.net",
     "href": "https://promptcard.net/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1303,6 +1560,7 @@ window.ALL_LINKS = [
     "url": "vllm.ai",
     "href": "https://vllm.ai/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1311,6 +1569,7 @@ window.ALL_LINKS = [
     "url": "hub.minimax.io",
     "href": "https://hub.minimax.io/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1319,6 +1578,7 @@ window.ALL_LINKS = [
     "url": "styles.refero.design",
     "href": "https://styles.refero.design/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1327,6 +1587,7 @@ window.ALL_LINKS = [
     "url": "hermes-ai.net",
     "href": "https://www.hermes-ai.net/desktop/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1335,6 +1596,7 @@ window.ALL_LINKS = [
     "url": "anythingllm.com",
     "href": "https://anythingllm.com/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1343,6 +1605,7 @@ window.ALL_LINKS = [
     "url": "pascal.app",
     "href": "https://editor.pascal.app/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1351,6 +1614,7 @@ window.ALL_LINKS = [
     "url": "research.myshell.ai",
     "href": "https://research.myshell.ai/open-voice",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1359,6 +1623,7 @@ window.ALL_LINKS = [
     "url": "longcat.chat",
     "href": "https://longcat.chat/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1367,6 +1632,7 @@ window.ALL_LINKS = [
     "url": "removerized.yoss.pro",
     "href": "https://removerized.yoss.pro/removerized",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1375,6 +1641,7 @@ window.ALL_LINKS = [
     "url": "motionsites.ai",
     "href": "https://motionsites.ai/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1383,6 +1650,7 @@ window.ALL_LINKS = [
     "url": "privategpt.dev",
     "href": "https://privategpt.dev/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1391,6 +1659,7 @@ window.ALL_LINKS = [
     "url": "nukebg.app",
     "href": "https://nukebg.app/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1399,6 +1668,7 @@ window.ALL_LINKS = [
     "url": "designmd.me",
     "href": "https://designmd.me/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1407,6 +1677,7 @@ window.ALL_LINKS = [
     "url": "zcode.z.ai",
     "href": "https://zcode.z.ai/en",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1415,6 +1686,7 @@ window.ALL_LINKS = [
     "url": "lazyweb.com",
     "href": "https://www.lazyweb.com/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1423,6 +1695,7 @@ window.ALL_LINKS = [
     "url": "stitch.withgoogle",
     "href": "https://stitch.withgoogle.com/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1431,6 +1704,7 @@ window.ALL_LINKS = [
     "url": "open-design.ai",
     "href": "https://open-design.ai/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1439,6 +1713,7 @@ window.ALL_LINKS = [
     "url": "adam.new",
     "href": "https://adam.new/cadam",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1447,6 +1722,7 @@ window.ALL_LINKS = [
     "url": "labs.google",
     "href": "https://labs.google/fx/ru/tools/flow/project/d4becc91-02b9-41f8-9f21-cf2f9a1567bf",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1455,6 +1731,7 @@ window.ALL_LINKS = [
     "url": "pipedream.com",
     "href": "https://pipedream.com/string",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1463,6 +1740,7 @@ window.ALL_LINKS = [
     "url": "windmill.dev",
     "href": "https://www.windmill.dev/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1471,6 +1749,7 @@ window.ALL_LINKS = [
     "url": "make.com",
     "href": "https://www.make.com/en",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1479,6 +1758,7 @@ window.ALL_LINKS = [
     "url": "huginn.sh",
     "href": "https://huginn.sh/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1487,6 +1767,7 @@ window.ALL_LINKS = [
     "url": "quiver.ai",
     "href": "https://quiver.ai/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1495,6 +1776,7 @@ window.ALL_LINKS = [
     "url": "openshorts.app",
     "href": "https://www.openshorts.app/#",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1503,6 +1785,7 @@ window.ALL_LINKS = [
     "url": "aishort.top",
     "href": "https://www.aishort.top/en/?tags=code",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1511,6 +1794,7 @@ window.ALL_LINKS = [
     "url": "app.cityweft.com",
     "href": "https://app.cityweft.com/projects",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1519,6 +1803,7 @@ window.ALL_LINKS = [
     "url": "developers.openai.com",
     "href": "https://developers.openai.com/api/docs/guides/prompt-guidance?model=gpt-5.5",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1527,6 +1812,7 @@ window.ALL_LINKS = [
     "url": "flame-engine.org",
     "href": "https://flame-engine.org/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1535,6 +1821,7 @@ window.ALL_LINKS = [
     "url": "awesomeosai.com",
     "href": "https://awesomeosai.com/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1543,6 +1830,7 @@ window.ALL_LINKS = [
     "url": "vibeui.online",
     "href": "https://vibeui.online/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1551,6 +1839,7 @@ window.ALL_LINKS = [
     "url": "meigen.ai",
     "href": "https://www.meigen.ai/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1559,6 +1848,7 @@ window.ALL_LINKS = [
     "url": "modly3d.app",
     "href": "https://modly3d.app/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1567,6 +1857,7 @@ window.ALL_LINKS = [
     "url": "evolink.ai/gpt-image-2-prompts",
     "href": "https://evolink.ai/gpt-image-2-prompts",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1575,6 +1866,7 @@ window.ALL_LINKS = [
     "url": "youmind.com/gpt-image-2-prompts",
     "href": "https://youmind.com/gpt-image-2-prompts",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1583,6 +1875,7 @@ window.ALL_LINKS = [
     "url": "huggingface.co/HauhauCS/Qwen3.6",
     "href": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1591,6 +1884,7 @@ window.ALL_LINKS = [
     "url": "chat.z.ai",
     "href": "https://chat.z.ai/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1599,6 +1893,7 @@ window.ALL_LINKS = [
     "url": "github.com/claraverse-space",
     "href": "https://github.com/claraverse-space/ClaraVerse-Desktop/releases",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1607,6 +1902,7 @@ window.ALL_LINKS = [
     "url": "astrosp.github.io",
     "href": "https://astrosp.github.io/osint-web/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1615,6 +1911,7 @@ window.ALL_LINKS = [
     "url": "typeui.sh",
     "href": "https://www.typeui.sh/design-skills",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1623,6 +1920,7 @@ window.ALL_LINKS = [
     "url": "orchestra-research.com",
     "href": "https://www.orchestra-research.com/ai-research-skills",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1631,6 +1929,7 @@ window.ALL_LINKS = [
     "url": "voicebox.sh",
     "href": "https://voicebox.sh/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1639,6 +1938,7 @@ window.ALL_LINKS = [
     "url": "ppofficial.netlify.app",
     "href": "https://ppofficial.netlify.app/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1647,6 +1947,7 @@ window.ALL_LINKS = [
     "url": "qwen.ai/qwenchat",
     "href": "https://qwen.ai/qwenchat",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1655,6 +1956,7 @@ window.ALL_LINKS = [
     "url": "toonflow.net",
     "href": "https://toonflow.net/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1663,6 +1965,7 @@ window.ALL_LINKS = [
     "url": "developers.openai.com",
     "href": "https://developers.openai.com/codex/use-cases",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1671,6 +1974,7 @@ window.ALL_LINKS = [
     "url": "seomachine.io",
     "href": "https://www.seomachine.io/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1679,6 +1983,7 @@ window.ALL_LINKS = [
     "url": "floci.io",
     "href": "https://floci.io/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1687,6 +1992,7 @@ window.ALL_LINKS = [
     "url": "huggingface.co/HauhauCS",
     "href": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1695,6 +2001,7 @@ window.ALL_LINKS = [
     "url": "streamdown.ai",
     "href": "https://streamdown.ai/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1703,6 +2010,7 @@ window.ALL_LINKS = [
     "url": "code-review-graph.com",
     "href": "https://code-review-graph.com/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1711,6 +2019,7 @@ window.ALL_LINKS = [
     "url": "gohugo.io",
     "href": "https://gohugo.io/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1719,6 +2028,7 @@ window.ALL_LINKS = [
     "url": "usesubstudio.com",
     "href": "https://www.usesubstudio.com/",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1727,6 +2037,7 @@ window.ALL_LINKS = [
     "url": "create.wan.video",
     "href": "https://create.wan.video/generate",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1735,6 +2046,7 @@ window.ALL_LINKS = [
     "url": "promptlibrary.space",
     "href": "https://promptlibrary.space",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1743,6 +2055,7 @@ window.ALL_LINKS = [
     "url": "bestfreeaiwebsites.com",
     "href": "https://bestfreeaiwebsites.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1751,6 +2064,7 @@ window.ALL_LINKS = [
     "url": "idx.google.com",
     "href": "https://idx.google.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1759,6 +2073,7 @@ window.ALL_LINKS = [
     "url": "nanabanana.io",
     "href": "https://nanabanana.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1767,6 +2082,7 @@ window.ALL_LINKS = [
     "url": "agent-tars.com",
     "href": "https://agent-tars.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1775,6 +2091,7 @@ window.ALL_LINKS = [
     "url": "flames.blue",
     "href": "https://flames.blue",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1783,6 +2100,7 @@ window.ALL_LINKS = [
     "url": "prompthero.com",
     "href": "https://prompthero.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1791,6 +2109,7 @@ window.ALL_LINKS = [
     "url": "gpt5-coding-examples.vercel.app",
     "href": "https://gpt5-coding-examples.vercel.app",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1799,6 +2118,7 @@ window.ALL_LINKS = [
     "url": "lbrty.ai",
     "href": "https://lbrty.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1807,6 +2127,7 @@ window.ALL_LINKS = [
     "url": "nanobananaprompt.org",
     "href": "https://nanobananaprompt.org",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1815,6 +2136,7 @@ window.ALL_LINKS = [
     "url": "huggingface.co",
     "href": "https://huggingface.co",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1823,6 +2145,7 @@ window.ALL_LINKS = [
     "url": "chat.libertai.io",
     "href": "https://chat.libertai.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1831,6 +2154,7 @@ window.ALL_LINKS = [
     "url": "nanobanana-bot.ru",
     "href": "https://nanobanana-bot.ru",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1839,6 +2163,7 @@ window.ALL_LINKS = [
     "url": "altsociety.ai",
     "href": "https://altsociety.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1847,6 +2172,7 @@ window.ALL_LINKS = [
     "url": "localbanana.io",
     "href": "https://localbanana.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1855,6 +2181,7 @@ window.ALL_LINKS = [
     "url": "drawthings.ai",
     "href": "https://drawthings.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1863,6 +2190,7 @@ window.ALL_LINKS = [
     "url": "opennana.com",
     "href": "https://opennana.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1871,6 +2199,7 @@ window.ALL_LINKS = [
     "url": "lmarena.ai",
     "href": "https://lmarena.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1879,6 +2208,7 @@ window.ALL_LINKS = [
     "url": "tihubb.com",
     "href": "https://tihubb.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1887,6 +2217,7 @@ window.ALL_LINKS = [
     "url": "pxbee.com",
     "href": "https://pxbee.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1895,6 +2226,7 @@ window.ALL_LINKS = [
     "url": "chatgptimage.art",
     "href": "https://chatgptimage.art",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1903,6 +2235,7 @@ window.ALL_LINKS = [
     "url": "app.loki.build",
     "href": "https://app.loki.build",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1911,6 +2244,7 @@ window.ALL_LINKS = [
     "url": "nanobanana-showcase.com",
     "href": "https://nanobanana-showcase.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1919,6 +2253,7 @@ window.ALL_LINKS = [
     "url": "playground.bfl.ai",
     "href": "https://playground.bfl.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1927,6 +2262,7 @@ window.ALL_LINKS = [
     "url": "fotor.com",
     "href": "https://fotor.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1935,6 +2271,7 @@ window.ALL_LINKS = [
     "url": "modelscope.ai",
     "href": "https://modelscope.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1943,6 +2280,7 @@ window.ALL_LINKS = [
     "url": "runable.com",
     "href": "https://runable.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1951,6 +2289,7 @@ window.ALL_LINKS = [
     "url": "modelscope.cn",
     "href": "https://modelscope.cn",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1959,6 +2298,7 @@ window.ALL_LINKS = [
     "url": "screen.vision",
     "href": "https://screen.vision",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1967,6 +2307,7 @@ window.ALL_LINKS = [
     "url": "free.upscaler.video",
     "href": "https://free.upscaler.video",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1975,6 +2316,7 @@ window.ALL_LINKS = [
     "url": "chatgpt.com/translate",
     "href": "https://chatgpt.com/translate",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1983,6 +2325,7 @@ window.ALL_LINKS = [
     "url": "app.banani.co",
     "href": "https://app.banani.co",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1991,6 +2334,7 @@ window.ALL_LINKS = [
     "url": "academy.openai.com",
     "href": "https://academy.openai.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -1999,6 +2343,7 @@ window.ALL_LINKS = [
     "url": "flowchartai.org",
     "href": "https://flowchartai.org",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2007,6 +2352,7 @@ window.ALL_LINKS = [
     "url": "elevenreader.io",
     "href": "https://elevenreader.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2015,6 +2361,7 @@ window.ALL_LINKS = [
     "url": "chat.openai.com",
     "href": "https://chat.openai.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2023,6 +2370,7 @@ window.ALL_LINKS = [
     "url": "photoscissors.com",
     "href": "https://photoscissors.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2031,6 +2379,7 @@ window.ALL_LINKS = [
     "url": "futuretools.io",
     "href": "https://futuretools.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2039,6 +2388,7 @@ window.ALL_LINKS = [
     "url": "bigjpg.com",
     "href": "https://bigjpg.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2047,6 +2397,7 @@ window.ALL_LINKS = [
     "url": "bito.co",
     "href": "https://bito.co",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2055,6 +2406,7 @@ window.ALL_LINKS = [
     "url": "convert.leiapix.com",
     "href": "https://convert.leiapix.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2063,6 +2415,7 @@ window.ALL_LINKS = [
     "url": "prompts.aituts.com",
     "href": "https://prompts.aituts.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2071,6 +2424,7 @@ window.ALL_LINKS = [
     "url": "aicyclopedia.com",
     "href": "https://aicyclopedia.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2079,6 +2433,7 @@ window.ALL_LINKS = [
     "url": "ailib.ru",
     "href": "https://ailib.ru",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2087,6 +2442,7 @@ window.ALL_LINKS = [
     "url": "fake.png",
     "href": "https://fake.png",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2095,6 +2451,7 @@ window.ALL_LINKS = [
     "url": "true.png",
     "href": "https://true.png",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2103,6 +2460,7 @@ window.ALL_LINKS = [
     "url": "namechk.com",
     "href": "https://namechk.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2111,6 +2469,7 @@ window.ALL_LINKS = [
     "url": "imglarger.com/Enhancer",
     "href": "https://imglarger.com/Enhancer",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2119,6 +2478,7 @@ window.ALL_LINKS = [
     "url": "avaturn.me",
     "href": "https://avaturn.me",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2127,6 +2487,7 @@ window.ALL_LINKS = [
     "url": "scribblediffusion.com",
     "href": "https://scribblediffusion.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2135,6 +2496,7 @@ window.ALL_LINKS = [
     "url": "bgeraser.com",
     "href": "https://bgeraser.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2143,6 +2505,7 @@ window.ALL_LINKS = [
     "url": "gptforslides.app",
     "href": "https://gptforslides.app",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2151,6 +2514,7 @@ window.ALL_LINKS = [
     "url": "everypixel.com",
     "href": "https://everypixel.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2159,6 +2523,7 @@ window.ALL_LINKS = [
     "url": "imglarger.com/Denoiser",
     "href": "https://imglarger.com/Denoiser",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2167,6 +2532,7 @@ window.ALL_LINKS = [
     "url": "zebracat.ai",
     "href": "https://zebracat.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2175,6 +2541,7 @@ window.ALL_LINKS = [
     "url": "pixlr.com",
     "href": "https://pixlr.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2183,6 +2550,7 @@ window.ALL_LINKS = [
     "url": "imglarger.com/Cartoonizer",
     "href": "https://imglarger.com/Cartoonizer",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2191,6 +2559,7 @@ window.ALL_LINKS = [
     "url": "learn-anything.xyz",
     "href": "https://learn-anything.xyz",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2199,6 +2568,7 @@ window.ALL_LINKS = [
     "url": "research.runwayml.com",
     "href": "https://research.runwayml.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2207,6 +2577,7 @@ window.ALL_LINKS = [
     "url": "mostrecommendedbooks.com",
     "href": "https://mostrecommendedbooks.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2215,6 +2586,7 @@ window.ALL_LINKS = [
     "url": "app.pixelz.ai",
     "href": "https://app.pixelz.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2223,6 +2595,7 @@ window.ALL_LINKS = [
     "url": "pixai.art",
     "href": "https://pixai.art",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2231,6 +2604,7 @@ window.ALL_LINKS = [
     "url": "dreamlike.art",
     "href": "https://dreamlike.art",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2239,6 +2613,7 @@ window.ALL_LINKS = [
     "url": "scout.asseter.ai",
     "href": "https://scout.asseter.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2247,6 +2622,7 @@ window.ALL_LINKS = [
     "url": "imageeditor.ai",
     "href": "https://imageeditor.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2255,6 +2631,7 @@ window.ALL_LINKS = [
     "url": "app.vizcom.ai",
     "href": "https://app.vizcom.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2263,6 +2640,7 @@ window.ALL_LINKS = [
     "url": "rudalle.ru/demo_emoji",
     "href": "https://rudalle.ru/demo_emoji",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2271,6 +2649,7 @@ window.ALL_LINKS = [
     "url": "phygital-plus.phgtlsm.com",
     "href": "https://phygital-plus.phgtlsm.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2279,6 +2658,7 @@ window.ALL_LINKS = [
     "url": "hama.app",
     "href": "https://hama.app",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2287,6 +2667,7 @@ window.ALL_LINKS = [
     "url": "rudalle.ru/demo",
     "href": "https://rudalle.ru/demo",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2295,6 +2676,7 @@ window.ALL_LINKS = [
     "url": "musiclab.chromeexperiments.com",
     "href": "https://musiclab.chromeexperiments.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2303,6 +2685,7 @@ window.ALL_LINKS = [
     "url": "krea.ai",
     "href": "https://krea.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2311,6 +2694,7 @@ window.ALL_LINKS = [
     "url": "rudalle.ru/kandinsky2",
     "href": "https://rudalle.ru/kandinsky2",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2319,6 +2703,7 @@ window.ALL_LINKS = [
     "url": "roomgpt.io/dream",
     "href": "https://roomgpt.io/dream",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2327,6 +2712,7 @@ window.ALL_LINKS = [
     "url": "mage.space",
     "href": "https://mage.space",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2335,6 +2721,7 @@ window.ALL_LINKS = [
     "url": "useadrenaline.com",
     "href": "https://useadrenaline.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2343,6 +2730,7 @@ window.ALL_LINKS = [
     "url": "upscayl.github.io",
     "href": "https://upscayl.github.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2351,6 +2739,7 @@ window.ALL_LINKS = [
     "url": "diffusion.land",
     "href": "https://diffusion.land",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2359,6 +2748,7 @@ window.ALL_LINKS = [
     "url": "publicprompts.art",
     "href": "https://publicprompts.art",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2367,6 +2757,7 @@ window.ALL_LINKS = [
     "url": "examphotoaid.comple",
     "href": "https://examphotoaid.comple",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2375,6 +2766,7 @@ window.ALL_LINKS = [
     "url": "playgroundai.com",
     "href": "https://playgroundai.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2383,6 +2775,7 @@ window.ALL_LINKS = [
     "url": "pixela.ai",
     "href": "https://pixela.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2391,6 +2784,7 @@ window.ALL_LINKS = [
     "url": "nvidia.com",
     "href": "https://nvidia.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2399,6 +2793,7 @@ window.ALL_LINKS = [
     "url": "libraire.ai",
     "href": "https://libraire.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2407,6 +2802,7 @@ window.ALL_LINKS = [
     "url": "harrisonvanderbyl.github.io/WriterBot",
     "href": "https://harrisonvanderbyl.github.io/WriterBot",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2415,6 +2811,7 @@ window.ALL_LINKS = [
     "url": "diagram.com",
     "href": "https://diagram.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2423,6 +2820,7 @@ window.ALL_LINKS = [
     "url": "aitool.ai",
     "href": "https://aitool.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2431,6 +2829,7 @@ window.ALL_LINKS = [
     "url": "mockey.ai",
     "href": "https://mockey.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2439,6 +2838,7 @@ window.ALL_LINKS = [
     "url": "aiscout.net",
     "href": "https://aiscout.net",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2447,6 +2847,7 @@ window.ALL_LINKS = [
     "url": "reroom.ai",
     "href": "https://reroom.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2455,6 +2856,7 @@ window.ALL_LINKS = [
     "url": "perplexity.ai",
     "href": "https://perplexity.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2463,6 +2865,7 @@ window.ALL_LINKS = [
     "url": "skybox.blockadelabs.com",
     "href": "https://skybox.blockadelabs.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2471,6 +2874,7 @@ window.ALL_LINKS = [
     "url": "neuneu.net",
     "href": "https://neuneu.net",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2479,6 +2883,7 @@ window.ALL_LINKS = [
     "url": "chatgptplugins.thesamur.ai",
     "href": "https://chatgptplugins.thesamur.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2487,6 +2892,7 @@ window.ALL_LINKS = [
     "url": "toolify.ai",
     "href": "https://toolify.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2495,6 +2901,7 @@ window.ALL_LINKS = [
     "url": "elevenlabs.io",
     "href": "https://elevenlabs.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2503,6 +2910,7 @@ window.ALL_LINKS = [
     "url": "photoroom.com",
     "href": "https://photoroom.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2511,6 +2919,7 @@ window.ALL_LINKS = [
     "url": "agentgpt.reworkd.ai",
     "href": "https://agentgpt.reworkd.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2519,6 +2928,7 @@ window.ALL_LINKS = [
     "url": "gamma.app",
     "href": "https://gamma.app",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2527,6 +2937,7 @@ window.ALL_LINKS = [
     "url": "shapeshifter.design",
     "href": "https://shapeshifter.design",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2535,6 +2946,7 @@ window.ALL_LINKS = [
     "url": "theresanaiforthat.com",
     "href": "https://theresanaiforthat.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2543,6 +2955,7 @@ window.ALL_LINKS = [
     "url": "firefly.adobe.com",
     "href": "https://firefly.adobe.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2551,6 +2964,7 @@ window.ALL_LINKS = [
     "url": "uncody.com",
     "href": "https://uncody.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2559,6 +2973,7 @@ window.ALL_LINKS = [
     "url": "imaginarysoundscape.net",
     "href": "https://imaginarysoundscape.net",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2567,6 +2982,7 @@ window.ALL_LINKS = [
     "url": "my.10web.io",
     "href": "https://my.10web.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2575,6 +2991,7 @@ window.ALL_LINKS = [
     "url": "cohesive.so",
     "href": "https://cohesive.so",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2583,6 +3000,7 @@ window.ALL_LINKS = [
     "url": "aicolors.co",
     "href": "https://aicolors.co",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2591,6 +3009,7 @@ window.ALL_LINKS = [
     "url": "restorephotos.io",
     "href": "https://restorephotos.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2599,6 +3018,7 @@ window.ALL_LINKS = [
     "url": "blendnow.com",
     "href": "https://blendnow.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2607,6 +3027,7 @@ window.ALL_LINKS = [
     "url": "stunning.so",
     "href": "https://stunning.so",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2615,6 +3036,7 @@ window.ALL_LINKS = [
     "url": "tome.app",
     "href": "https://tome.app",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2623,6 +3045,7 @@ window.ALL_LINKS = [
     "url": "promptmakr.com/create",
     "href": "https://promptmakr.com/create",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2631,6 +3054,7 @@ window.ALL_LINKS = [
     "url": "designer.microsoft.com",
     "href": "https://designer.microsoft.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2639,6 +3063,7 @@ window.ALL_LINKS = [
     "url": "chatx.ai/midjourney-prompt-generator",
     "href": "https://chatx.ai/midjourney-prompt-generator",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2647,6 +3072,7 @@ window.ALL_LINKS = [
     "url": "imglarger.com",
     "href": "https://imglarger.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2655,6 +3081,7 @@ window.ALL_LINKS = [
     "url": "blinkshot.io",
     "href": "https://blinkshot.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2663,6 +3090,7 @@ window.ALL_LINKS = [
     "url": "blog.user.today/midjourney",
     "href": "https://blog.user.today/midjourney",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2671,6 +3099,7 @@ window.ALL_LINKS = [
     "url": "pfpmaker.com",
     "href": "https://pfpmaker.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2679,6 +3108,7 @@ window.ALL_LINKS = [
     "url": "lunroo.com",
     "href": "https://lunroo.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2687,6 +3117,7 @@ window.ALL_LINKS = [
     "url": "nat.dev",
     "href": "https://nat.dev",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2695,6 +3126,7 @@ window.ALL_LINKS = [
     "url": "prompthunt.com",
     "href": "https://prompthunt.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2703,6 +3135,7 @@ window.ALL_LINKS = [
     "url": "browseraikit.com",
     "href": "https://browseraikit.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2711,6 +3144,7 @@ window.ALL_LINKS = [
     "url": "fotobee.io",
     "href": "https://fotobee.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2719,6 +3153,7 @@ window.ALL_LINKS = [
     "url": "namecheap.com/logo-maker",
     "href": "https://namecheap.com/logo-maker",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2727,6 +3162,7 @@ window.ALL_LINKS = [
     "url": "prompt1.ru",
     "href": "https://prompt1.ru",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2735,6 +3171,7 @@ window.ALL_LINKS = [
     "url": "dora.run",
     "href": "https://dora.run",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2743,6 +3180,7 @@ window.ALL_LINKS = [
     "url": "examrandomus.ruple",
     "href": "https://examrandomus.ruple",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2751,6 +3189,7 @@ window.ALL_LINKS = [
     "url": "prompt-llama.com",
     "href": "https://prompt-llama.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2759,6 +3198,7 @@ window.ALL_LINKS = [
     "url": "ai-code-translator.vercel.app",
     "href": "https://ai-code-translator.vercel.app",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2767,6 +3207,7 @@ window.ALL_LINKS = [
     "url": "supertools.therundown.ai",
     "href": "https://supertools.therundown.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2775,6 +3216,7 @@ window.ALL_LINKS = [
     "url": "jan.ai",
     "href": "https://jan.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2783,6 +3225,7 @@ window.ALL_LINKS = [
     "url": "x-minus.pro",
     "href": "https://x-minus.pro",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2791,6 +3234,7 @@ window.ALL_LINKS = [
     "url": "rompt.ai",
     "href": "https://rompt.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2799,6 +3243,7 @@ window.ALL_LINKS = [
     "url": "vitalentum.net",
     "href": "https://vitalentum.net",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2807,6 +3252,7 @@ window.ALL_LINKS = [
     "url": "superlook.ai",
     "href": "https://superlook.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2815,6 +3261,7 @@ window.ALL_LINKS = [
     "url": "quickpenai.com",
     "href": "https://quickpenai.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2823,6 +3270,7 @@ window.ALL_LINKS = [
     "url": "gptea.io",
     "href": "https://gptea.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2831,6 +3279,7 @@ window.ALL_LINKS = [
     "url": "SeaArt.AI",
     "href": "https://SeaArt.AI",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2839,6 +3288,7 @@ window.ALL_LINKS = [
     "url": "gptgo.ai",
     "href": "https://gptgo.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2847,6 +3297,7 @@ window.ALL_LINKS = [
     "url": "openworldai.com",
     "href": "https://openworldai.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2855,6 +3306,7 @@ window.ALL_LINKS = [
     "url": "getfidia.com",
     "href": "https://getfidia.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2863,6 +3315,7 @@ window.ALL_LINKS = [
     "url": "3dpresso.ai",
     "href": "https://3dpresso.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2871,6 +3324,7 @@ window.ALL_LINKS = [
     "url": "extrapolate.app",
     "href": "https://extrapolate.app",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2879,6 +3333,7 @@ window.ALL_LINKS = [
     "url": "colourgpt.app",
     "href": "https://colourgpt.app",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2887,6 +3342,7 @@ window.ALL_LINKS = [
     "url": "clipdrop.co",
     "href": "https://clipdrop.co",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2895,6 +3351,7 @@ window.ALL_LINKS = [
     "url": "paintbytext.chat",
     "href": "https://paintbytext.chat",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2903,6 +3360,7 @@ window.ALL_LINKS = [
     "url": "wepik.com",
     "href": "https://wepik.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2911,6 +3369,7 @@ window.ALL_LINKS = [
     "url": "magicstudio.com",
     "href": "https://magicstudio.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2919,6 +3378,7 @@ window.ALL_LINKS = [
     "url": "unstability.ai",
     "href": "https://unstability.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2927,6 +3387,7 @@ window.ALL_LINKS = [
     "url": "siteexplainer.com",
     "href": "https://siteexplainer.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2935,6 +3396,7 @@ window.ALL_LINKS = [
     "url": "logoipsum.com",
     "href": "https://logoipsum.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2943,6 +3405,7 @@ window.ALL_LINKS = [
     "url": "pixian.ai",
     "href": "https://pixian.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2951,6 +3414,7 @@ window.ALL_LINKS = [
     "url": "logicballs.com",
     "href": "https://logicballs.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2959,6 +3423,7 @@ window.ALL_LINKS = [
     "url": "pixspy.com",
     "href": "https://pixspy.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2967,6 +3432,7 @@ window.ALL_LINKS = [
     "url": "caspa.ai",
     "href": "https://caspa.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2975,6 +3441,7 @@ window.ALL_LINKS = [
     "url": "pixfix.com",
     "href": "https://pixfix.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2983,6 +3450,7 @@ window.ALL_LINKS = [
     "url": "slangthesaurus.com",
     "href": "https://slangthesaurus.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2991,6 +3459,7 @@ window.ALL_LINKS = [
     "url": "beta.dreamstudio.ai",
     "href": "https://beta.dreamstudio.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -2999,6 +3468,7 @@ window.ALL_LINKS = [
     "url": "recompressor.com",
     "href": "https://recompressor.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3007,6 +3477,7 @@ window.ALL_LINKS = [
     "url": "awesomegptprompts.com",
     "href": "https://awesomegptprompts.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3015,6 +3486,7 @@ window.ALL_LINKS = [
     "url": "stablediffusionweb.com",
     "href": "https://stablediffusionweb.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3023,6 +3495,7 @@ window.ALL_LINKS = [
     "url": "vectorizer.ai",
     "href": "https://vectorizer.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3031,6 +3504,7 @@ window.ALL_LINKS = [
     "url": "workspace.google.com",
     "href": "https://workspace.google.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3039,6 +3513,7 @@ window.ALL_LINKS = [
     "url": "allprompts.com",
     "href": "https://allprompts.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3047,6 +3522,7 @@ window.ALL_LINKS = [
     "url": "aiter.io",
     "href": "https://aiter.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3055,6 +3531,7 @@ window.ALL_LINKS = [
     "url": "aicodeconvert.com",
     "href": "https://aicodeconvert.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3063,6 +3540,7 @@ window.ALL_LINKS = [
     "url": "flutterflow.io",
     "href": "https://flutterflow.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3071,6 +3549,7 @@ window.ALL_LINKS = [
     "url": "henshu.ai",
     "href": "https://henshu.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3079,6 +3558,7 @@ window.ALL_LINKS = [
     "url": "swiftcover.ai",
     "href": "https://swiftcover.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3087,6 +3567,7 @@ window.ALL_LINKS = [
     "url": "picoapps.xyz",
     "href": "https://picoapps.xyz",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3095,6 +3576,7 @@ window.ALL_LINKS = [
     "url": "nolanai.app",
     "href": "https://nolanai.app",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3103,6 +3585,7 @@ window.ALL_LINKS = [
     "url": "unlimitedbg.com",
     "href": "https://unlimitedbg.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3111,6 +3594,7 @@ window.ALL_LINKS = [
     "url": "aitextdetector.online",
     "href": "https://aitextdetector.online",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3119,6 +3603,7 @@ window.ALL_LINKS = [
     "url": "auphonic.com",
     "href": "https://auphonic.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3127,6 +3612,7 @@ window.ALL_LINKS = [
     "url": "aitoolkit.org",
     "href": "https://aitoolkit.org",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3135,6 +3621,7 @@ window.ALL_LINKS = [
     "url": "read2me.online",
     "href": "https://read2me.online",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3143,6 +3630,7 @@ window.ALL_LINKS = [
     "url": "framer.com",
     "href": "https://framer.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3151,6 +3639,7 @@ window.ALL_LINKS = [
     "url": "aitooltracker.com",
     "href": "https://aitooltracker.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3159,6 +3648,7 @@ window.ALL_LINKS = [
     "url": "brandbird.app",
     "href": "https://brandbird.app",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3167,6 +3657,7 @@ window.ALL_LINKS = [
     "url": "dreaminterpreter.ai",
     "href": "https://dreaminterpreter.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3175,6 +3666,7 @@ window.ALL_LINKS = [
     "url": "gptnext.co",
     "href": "https://gptnext.co",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3183,6 +3675,7 @@ window.ALL_LINKS = [
     "url": "icongeneratorai.com",
     "href": "https://icongeneratorai.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3191,6 +3684,7 @@ window.ALL_LINKS = [
     "url": "codeium.com",
     "href": "https://codeium.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3199,6 +3693,7 @@ window.ALL_LINKS = [
     "url": "imagevariations.com",
     "href": "https://imagevariations.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3207,6 +3702,7 @@ window.ALL_LINKS = [
     "url": "bard.google.com",
     "href": "https://bard.google.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3215,6 +3711,7 @@ window.ALL_LINKS = [
     "url": "anything-ai.com",
     "href": "https://anything-ai.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3223,6 +3720,7 @@ window.ALL_LINKS = [
     "url": "aivalley.ai",
     "href": "https://aivalley.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3231,6 +3729,7 @@ window.ALL_LINKS = [
     "url": "app.songr.ai",
     "href": "https://app.songr.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3239,6 +3738,7 @@ window.ALL_LINKS = [
     "url": "pixelcut.ai",
     "href": "https://pixelcut.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3247,6 +3747,7 @@ window.ALL_LINKS = [
     "url": "marsx.dev",
     "href": "https://marsx.dev",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3255,6 +3756,7 @@ window.ALL_LINKS = [
     "url": "aalab.com",
     "href": "https://aalab.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3263,6 +3765,7 @@ window.ALL_LINKS = [
     "url": "my.soundful.com",
     "href": "https://my.soundful.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3271,6 +3774,7 @@ window.ALL_LINKS = [
     "url": "prompto.chat",
     "href": "https://prompto.chat",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3279,6 +3783,7 @@ window.ALL_LINKS = [
     "url": "zoo.replicate.dev",
     "href": "https://zoo.replicate.dev",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3287,6 +3792,7 @@ window.ALL_LINKS = [
     "url": "promptingguide.ai",
     "href": "https://promptingguide.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3295,6 +3801,7 @@ window.ALL_LINKS = [
     "url": "unscreen.com",
     "href": "https://unscreen.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3303,6 +3810,7 @@ window.ALL_LINKS = [
     "url": "replicate.com",
     "href": "https://replicate.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3311,6 +3819,7 @@ window.ALL_LINKS = [
     "url": "playarti.com",
     "href": "https://playarti.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3319,6 +3828,7 @@ window.ALL_LINKS = [
     "url": "app.pagic.io",
     "href": "https://app.pagic.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3327,6 +3837,7 @@ window.ALL_LINKS = [
     "url": "online.hitpaw.com",
     "href": "https://online.hitpaw.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3335,6 +3846,7 @@ window.ALL_LINKS = [
     "url": "postgenerator.app",
     "href": "https://postgenerator.app",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3343,6 +3855,7 @@ window.ALL_LINKS = [
     "url": "aixploria.com",
     "href": "https://aixploria.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3351,6 +3864,7 @@ window.ALL_LINKS = [
     "url": "anonchatgpt.com",
     "href": "https://anonchatgpt.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3359,6 +3873,7 @@ window.ALL_LINKS = [
     "url": "generated.photos",
     "href": "https://generated.photos",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3367,6 +3882,7 @@ window.ALL_LINKS = [
     "url": "osschat.io",
     "href": "https://osschat.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3375,6 +3891,7 @@ window.ALL_LINKS = [
     "url": "stockimg.ai",
     "href": "https://stockimg.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3383,6 +3900,7 @@ window.ALL_LINKS = [
     "url": "iask.ai",
     "href": "https://iask.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3391,6 +3909,7 @@ window.ALL_LINKS = [
     "url": "usethisprompt.io",
     "href": "https://usethisprompt.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3399,6 +3918,7 @@ window.ALL_LINKS = [
     "url": "craiyon.com",
     "href": "https://craiyon.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3407,6 +3927,7 @@ window.ALL_LINKS = [
     "url": "loyae.com",
     "href": "https://loyae.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3415,6 +3936,7 @@ window.ALL_LINKS = [
     "url": "textero.ai",
     "href": "https://textero.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3423,6 +3945,7 @@ window.ALL_LINKS = [
     "url": "lexica.art",
     "href": "https://lexica.art",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3431,6 +3954,7 @@ window.ALL_LINKS = [
     "url": "easy-peasy.ai",
     "href": "https://easy-peasy.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3439,6 +3963,7 @@ window.ALL_LINKS = [
     "url": "itch.io",
     "href": "https://itch.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3447,6 +3972,7 @@ window.ALL_LINKS = [
     "url": "instantart.io",
     "href": "https://instantart.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3455,6 +3981,7 @@ window.ALL_LINKS = [
     "url": "mofi.loud.red",
     "href": "https://mofi.loud.red",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3463,6 +3990,7 @@ window.ALL_LINKS = [
     "url": "storybird.ai",
     "href": "https://storybird.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3471,6 +3999,7 @@ window.ALL_LINKS = [
     "url": "freeconvert.com",
     "href": "https://freeconvert.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3479,6 +4008,7 @@ window.ALL_LINKS = [
     "url": "vectormaker.co",
     "href": "https://vectormaker.co",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3487,6 +4017,7 @@ window.ALL_LINKS = [
     "url": "blocks.glass",
     "href": "https://blocks.glass",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3495,6 +4026,7 @@ window.ALL_LINKS = [
     "url": "ai.mobirise.com",
     "href": "https://ai.mobirise.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3503,6 +4035,7 @@ window.ALL_LINKS = [
     "url": "neurascapes.com",
     "href": "https://neurascapes.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3511,6 +4044,7 @@ window.ALL_LINKS = [
     "url": "acetone.ai",
     "href": "https://acetone.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3519,6 +4053,7 @@ window.ALL_LINKS = [
     "url": "beta.frvr.ai/creator",
     "href": "https://beta.frvr.ai/creator",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3527,6 +4062,7 @@ window.ALL_LINKS = [
     "url": "upscayl.org",
     "href": "https://upscayl.org",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3535,6 +4071,7 @@ window.ALL_LINKS = [
     "url": "huggingface.co/falcon-180b-demo",
     "href": "https://huggingface.co/falcon-180b-demo",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3543,6 +4080,7 @@ window.ALL_LINKS = [
     "url": "supertools.therundown.ai/gpts",
     "href": "https://supertools.therundown.ai/gpts",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3551,6 +4089,7 @@ window.ALL_LINKS = [
     "url": "kiwi-path-612.notion.site",
     "href": "https://kiwi-path-612.notion.site",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3559,6 +4098,7 @@ window.ALL_LINKS = [
     "url": "magicslides.app",
     "href": "https://magicslides.app",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3567,6 +4107,7 @@ window.ALL_LINKS = [
     "url": "restorephotos.one",
     "href": "https://restorephotos.one",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3575,6 +4116,7 @@ window.ALL_LINKS = [
     "url": "emojis.alexandru.so",
     "href": "https://emojis.alexandru.so",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3583,6 +4125,7 @@ window.ALL_LINKS = [
     "url": "presearch.com",
     "href": "https://presearch.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3591,6 +4134,7 @@ window.ALL_LINKS = [
     "url": "lumaai.notion.site",
     "href": "https://lumaai.notion.site",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3599,6 +4143,7 @@ window.ALL_LINKS = [
     "url": "imggen.ai/tools/sharpen-portraits",
     "href": "https://imggen.ai/tools/sharpen-portraits",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3607,6 +4152,7 @@ window.ALL_LINKS = [
     "url": "coproducer.output.com",
     "href": "https://coproducer.output.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3615,6 +4161,7 @@ window.ALL_LINKS = [
     "url": "slant.co",
     "href": "https://slant.co",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3623,6 +4170,7 @@ window.ALL_LINKS = [
     "url": "imggen.ai/tools/image-restoration",
     "href": "https://imggen.ai/tools/image-restoration",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3631,6 +4179,7 @@ window.ALL_LINKS = [
     "url": "shakker.ai",
     "href": "https://shakker.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3639,6 +4188,7 @@ window.ALL_LINKS = [
     "url": "app.layer.ai",
     "href": "https://app.layer.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3647,6 +4197,7 @@ window.ALL_LINKS = [
     "url": "imggen.ai/tools/ai-headshot-generator",
     "href": "https://imggen.ai/tools/ai-headshot-generator",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3655,6 +4206,7 @@ window.ALL_LINKS = [
     "url": "usegalileo.ai",
     "href": "https://usegalileo.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3663,6 +4215,7 @@ window.ALL_LINKS = [
     "url": "imggen.ai/tools/watermark-remover",
     "href": "https://imggen.ai/tools/watermark-remover",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3671,6 +4224,7 @@ window.ALL_LINKS = [
     "url": "dewatermark.ai",
     "href": "https://dewatermark.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3679,6 +4233,7 @@ window.ALL_LINKS = [
     "url": "geospy.ai",
     "href": "https://geospy.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3687,6 +4242,7 @@ window.ALL_LINKS = [
     "url": "imggen.ai/tools/background-remover",
     "href": "https://imggen.ai/tools/background-remover",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3695,6 +4251,7 @@ window.ALL_LINKS = [
     "url": "piclite.in",
     "href": "https://piclite.in",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3703,6 +4260,7 @@ window.ALL_LINKS = [
     "url": "perchance.org",
     "href": "https://perchance.org",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3711,6 +4269,7 @@ window.ALL_LINKS = [
     "url": "aigenprompt.com",
     "href": "https://aigenprompt.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3719,6 +4278,7 @@ window.ALL_LINKS = [
     "url": "imggen.ai",
     "href": "https://imggen.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3727,6 +4287,7 @@ window.ALL_LINKS = [
     "url": "svg.io",
     "href": "https://svg.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3735,6 +4296,7 @@ window.ALL_LINKS = [
     "url": "ailibri.com",
     "href": "https://ailibri.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3743,6 +4305,7 @@ window.ALL_LINKS = [
     "url": "imggen.ai/tools/upscale-image",
     "href": "https://imggen.ai/tools/upscale-image",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3751,6 +4314,7 @@ window.ALL_LINKS = [
     "url": "bing.com",
     "href": "https://bing.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3759,6 +4323,7 @@ window.ALL_LINKS = [
     "url": "pngmaker.ai",
     "href": "https://pngmaker.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3767,6 +4332,7 @@ window.ALL_LINKS = [
     "url": "aifaceswap.io",
     "href": "https://aifaceswap.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3775,6 +4341,7 @@ window.ALL_LINKS = [
     "url": "png2svg.com",
     "href": "https://png2svg.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3783,6 +4350,7 @@ window.ALL_LINKS = [
     "url": "app.decohere.ai",
     "href": "https://app.decohere.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3791,6 +4359,7 @@ window.ALL_LINKS = [
     "url": "openui.fly.dev",
     "href": "https://openui.fly.dev",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3799,6 +4368,7 @@ window.ALL_LINKS = [
     "url": "podcast.adobe.com",
     "href": "https://podcast.adobe.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3807,6 +4377,7 @@ window.ALL_LINKS = [
     "url": "repixify.com",
     "href": "https://repixify.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3815,6 +4386,7 @@ window.ALL_LINKS = [
     "url": "chat.stability.ai",
     "href": "https://chat.stability.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3823,6 +4395,7 @@ window.ALL_LINKS = [
     "url": "aitoptools.com",
     "href": "https://aitoptools.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3831,6 +4404,7 @@ window.ALL_LINKS = [
     "url": "rewriteguru.com",
     "href": "https://rewriteguru.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3839,6 +4413,7 @@ window.ALL_LINKS = [
     "url": "ideogram.ai",
     "href": "https://ideogram.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3847,6 +4422,7 @@ window.ALL_LINKS = [
     "url": "neuralwriter.com",
     "href": "https://neuralwriter.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3855,6 +4431,7 @@ window.ALL_LINKS = [
     "url": "huggingface.co/Image-to-Story",
     "href": "https://huggingface.co/Image-to-Story",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3863,6 +4440,7 @@ window.ALL_LINKS = [
     "url": "hashnode.com",
     "href": "https://hashnode.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3871,6 +4449,7 @@ window.ALL_LINKS = [
     "url": "webcrumbs.org",
     "href": "https://webcrumbs.org",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3879,6 +4458,7 @@ window.ALL_LINKS = [
     "url": "segmind.com",
     "href": "https://segmind.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3887,6 +4467,7 @@ window.ALL_LINKS = [
     "url": "gptgame.app",
     "href": "https://gptgame.app",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3895,6 +4476,7 @@ window.ALL_LINKS = [
     "url": "fastflux.ai",
     "href": "https://fastflux.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3903,6 +4485,7 @@ window.ALL_LINKS = [
     "url": "new.express.adobe.com",
     "href": "https://new.express.adobe.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3911,6 +4494,7 @@ window.ALL_LINKS = [
     "url": "3d.csm.ai",
     "href": "https://3d.csm.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3919,6 +4503,7 @@ window.ALL_LINKS = [
     "url": "pngmaker.io",
     "href": "https://pngmaker.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3927,6 +4512,7 @@ window.ALL_LINKS = [
     "url": "sync.beatoven.ai",
     "href": "https://sync.beatoven.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3935,6 +4521,7 @@ window.ALL_LINKS = [
     "url": "molypix.ai",
     "href": "https://molypix.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3943,6 +4530,7 @@ window.ALL_LINKS = [
     "url": "artbreeder.com",
     "href": "https://artbreeder.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3951,6 +4539,7 @@ window.ALL_LINKS = [
     "url": "brev.ai",
     "href": "https://brev.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3959,6 +4548,7 @@ window.ALL_LINKS = [
     "url": "llamatutor.together.ai",
     "href": "https://llamatutor.together.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3967,6 +4557,7 @@ window.ALL_LINKS = [
     "url": "hey-photo.com",
     "href": "https://hey-photo.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3975,6 +4566,7 @@ window.ALL_LINKS = [
     "url": "aivideocut.com",
     "href": "https://aivideocut.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3983,6 +4575,7 @@ window.ALL_LINKS = [
     "url": "pornworks.ai",
     "href": "https://pornworks.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3991,6 +4584,7 @@ window.ALL_LINKS = [
     "url": "superupscaler.com",
     "href": "https://superupscaler.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -3999,6 +4593,7 @@ window.ALL_LINKS = [
     "url": "app.recraft.ai",
     "href": "https://app.recraft.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4007,6 +4602,7 @@ window.ALL_LINKS = [
     "url": "gamifai.net",
     "href": "https://gamifai.net",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4015,6 +4611,7 @@ window.ALL_LINKS = [
     "url": "amuse-ai.com",
     "href": "https://amuse-ai.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4023,6 +4620,7 @@ window.ALL_LINKS = [
     "url": "app.kittl.com",
     "href": "https://app.kittl.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4031,6 +4629,7 @@ window.ALL_LINKS = [
     "url": "vizard.ai",
     "href": "https://vizard.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4039,6 +4638,7 @@ window.ALL_LINKS = [
     "url": "create.pixelcut.ai",
     "href": "https://create.pixelcut.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4047,6 +4647,7 @@ window.ALL_LINKS = [
     "url": "virtualthreads.io",
     "href": "https://virtualthreads.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4055,6 +4656,7 @@ window.ALL_LINKS = [
     "url": "2moonsai.com",
     "href": "https://2moonsai.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4063,6 +4665,7 @@ window.ALL_LINKS = [
     "url": "meshy.ai",
     "href": "https://meshy.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4071,6 +4674,7 @@ window.ALL_LINKS = [
     "url": "editor.fusionbrain.ai",
     "href": "https://editor.fusionbrain.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4079,6 +4683,7 @@ window.ALL_LINKS = [
     "url": "bagoodex.io",
     "href": "https://bagoodex.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4087,6 +4692,7 @@ window.ALL_LINKS = [
     "url": "promptlist.pro",
     "href": "https://promptlist.pro",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4095,6 +4701,7 @@ window.ALL_LINKS = [
     "url": "learnprompting.org",
     "href": "https://learnprompting.org",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4103,6 +4710,7 @@ window.ALL_LINKS = [
     "url": "zoo.dev",
     "href": "https://zoo.dev",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4111,6 +4719,7 @@ window.ALL_LINKS = [
     "url": "promptmatic.ai",
     "href": "https://promptmatic.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4119,6 +4728,7 @@ window.ALL_LINKS = [
     "url": "made.porn",
     "href": "https://made.porn",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4127,6 +4737,7 @@ window.ALL_LINKS = [
     "url": "imggen.ai/tools/unblur-image",
     "href": "https://imggen.ai/tools/unblur-image",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4135,6 +4746,7 @@ window.ALL_LINKS = [
     "url": "felo.ai",
     "href": "https://felo.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4143,6 +4755,7 @@ window.ALL_LINKS = [
     "url": "imggen.ai/tools/retouch-photo",
     "href": "https://imggen.ai/tools/retouch-photo",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4151,6 +4764,7 @@ window.ALL_LINKS = [
     "url": "imggen.ai/tools/color-correction",
     "href": "https://imggen.ai/tools/color-correction",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4159,6 +4773,7 @@ window.ALL_LINKS = [
     "url": "ailist.ru",
     "href": "https://ailist.ru",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4167,6 +4782,7 @@ window.ALL_LINKS = [
     "url": "imggen.ai/tools/text-remover",
     "href": "https://imggen.ai/tools/text-remover",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4175,6 +4791,7 @@ window.ALL_LINKS = [
     "url": "imggen.ai/tools/personalized",
     "href": "https://imggen.ai/tools/personalized",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4183,6 +4800,7 @@ window.ALL_LINKS = [
     "url": "tripo3d.ai",
     "href": "https://tripo3d.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4191,6 +4809,7 @@ window.ALL_LINKS = [
     "url": "aimusic.so",
     "href": "https://aimusic.so",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4199,6 +4818,7 @@ window.ALL_LINKS = [
     "url": "chat.deepseek.com",
     "href": "https://chat.deepseek.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4207,6 +4827,7 @@ window.ALL_LINKS = [
     "url": "illustration.app",
     "href": "https://illustration.app",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4215,6 +4836,7 @@ window.ALL_LINKS = [
     "url": "aider.chat",
     "href": "https://aider.chat",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4223,6 +4845,7 @@ window.ALL_LINKS = [
     "url": "studio.firebase.google.com",
     "href": "https://studio.firebase.google.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4231,6 +4854,7 @@ window.ALL_LINKS = [
     "url": "replicate.com/explore",
     "href": "https://replicate.com/explore",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4239,6 +4863,7 @@ window.ALL_LINKS = [
     "url": "app.yanus.ai",
     "href": "https://app.yanus.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4247,6 +4872,7 @@ window.ALL_LINKS = [
     "url": "emojis.com",
     "href": "https://emojis.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4255,6 +4881,7 @@ window.ALL_LINKS = [
     "url": "promptlibrary.org",
     "href": "https://promptlibrary.org",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4263,6 +4890,7 @@ window.ALL_LINKS = [
     "url": "riffusion.com",
     "href": "https://riffusion.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4271,6 +4899,7 @@ window.ALL_LINKS = [
     "url": "rork.app",
     "href": "https://rork.app",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4279,6 +4908,7 @@ window.ALL_LINKS = [
     "url": "app.leonardo.ai",
     "href": "https://app.leonardo.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4287,6 +4917,7 @@ window.ALL_LINKS = [
     "url": "chat.mistral.ai",
     "href": "https://chat.mistral.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4295,6 +4926,7 @@ window.ALL_LINKS = [
     "url": "pinokio.computer",
     "href": "https://pinokio.computer",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4303,6 +4935,7 @@ window.ALL_LINKS = [
     "url": "llamacoder.together.ai",
     "href": "https://llamacoder.together.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4311,6 +4944,7 @@ window.ALL_LINKS = [
     "url": "makeplush.com",
     "href": "https://makeplush.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4319,6 +4953,7 @@ window.ALL_LINKS = [
     "url": "promptjesus.com",
     "href": "https://promptjesus.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4327,6 +4962,7 @@ window.ALL_LINKS = [
     "url": "app.chathub.gg",
     "href": "https://app.chathub.gg",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4335,6 +4971,7 @@ window.ALL_LINKS = [
     "url": "magicpatterns.com",
     "href": "https://magicpatterns.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4343,6 +4980,7 @@ window.ALL_LINKS = [
     "url": "app.emergent.sh",
     "href": "https://app.emergent.sh",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4351,6 +4989,7 @@ window.ALL_LINKS = [
     "url": "bolt.new",
     "href": "https://bolt.new",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4359,6 +4998,7 @@ window.ALL_LINKS = [
     "url": "hicompress.com",
     "href": "https://hicompress.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4367,6 +5007,7 @@ window.ALL_LINKS = [
     "url": "enzostvs-deepsite.hf.space",
     "href": "https://enzostvs-deepsite.hf.space",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4375,6 +5016,7 @@ window.ALL_LINKS = [
     "url": "recraft.ai",
     "href": "https://recraft.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4383,6 +5025,7 @@ window.ALL_LINKS = [
     "url": "lovable.dev",
     "href": "https://lovable.dev",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4391,6 +5034,7 @@ window.ALL_LINKS = [
     "url": "kimi.ai",
     "href": "https://kimi.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4399,6 +5043,7 @@ window.ALL_LINKS = [
     "url": "kimi.com",
     "href": "https://kimi.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4407,6 +5052,7 @@ window.ALL_LINKS = [
     "url": "chat.qwenlm.ai",
     "href": "https://chat.qwenlm.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4415,6 +5061,7 @@ window.ALL_LINKS = [
     "url": "powerfulai.tools",
     "href": "https://powerfulai.tools",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4423,6 +5070,7 @@ window.ALL_LINKS = [
     "url": "promptcannon.com",
     "href": "https://promptcannon.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4431,6 +5079,7 @@ window.ALL_LINKS = [
     "url": "gptunnel.ru",
     "href": "https://gptunnel.ru",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4439,6 +5088,7 @@ window.ALL_LINKS = [
     "url": "create.xyz",
     "href": "https://create.xyz",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4447,6 +5097,7 @@ window.ALL_LINKS = [
     "url": "prompts.chat",
     "href": "https://prompts.chat",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4455,6 +5106,7 @@ window.ALL_LINKS = [
     "url": "blendergpt.org",
     "href": "https://blendergpt.org",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4463,6 +5115,7 @@ window.ALL_LINKS = [
     "url": "app.iki.ai",
     "href": "https://app.iki.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4471,6 +5124,7 @@ window.ALL_LINKS = [
     "url": "vidu.com",
     "href": "https://vidu.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4479,6 +5133,7 @@ window.ALL_LINKS = [
     "url": "ryne.ai",
     "href": "https://ryne.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4487,6 +5142,7 @@ window.ALL_LINKS = [
     "url": "raphael.app",
     "href": "https://raphael.app",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4495,6 +5151,7 @@ window.ALL_LINKS = [
     "url": "easyedit.io",
     "href": "https://easyedit.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4503,6 +5160,7 @@ window.ALL_LINKS = [
     "url": "hailuo.ai",
     "href": "https://hailuo.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4511,6 +5169,7 @@ window.ALL_LINKS = [
     "url": "promptengine.cc",
     "href": "https://promptengine.cc",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4519,6 +5178,7 @@ window.ALL_LINKS = [
     "url": "preview.reve.art",
     "href": "https://preview.reve.art",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4527,6 +5187,7 @@ window.ALL_LINKS = [
     "url": "getmozart.ai",
     "href": "https://getmozart.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4535,6 +5196,7 @@ window.ALL_LINKS = [
     "url": "alice.yandex.ru",
     "href": "https://alice.yandex.ru",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4543,6 +5205,7 @@ window.ALL_LINKS = [
     "url": "github.com",
     "href": "https://github.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4551,6 +5214,7 @@ window.ALL_LINKS = [
     "url": "neuralframes.com",
     "href": "https://neuralframes.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4559,6 +5223,7 @@ window.ALL_LINKS = [
     "url": "app.sigmabrowser.com",
     "href": "https://app.sigmabrowser.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4567,6 +5232,7 @@ window.ALL_LINKS = [
     "url": "grok.com",
     "href": "https://grok.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4575,6 +5241,7 @@ window.ALL_LINKS = [
     "url": "pixpal.chat",
     "href": "https://pixpal.chat",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4583,6 +5250,7 @@ window.ALL_LINKS = [
     "url": "phind.com",
     "href": "https://phind.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4591,6 +5259,7 @@ window.ALL_LINKS = [
     "url": "pi.ai/talk",
     "href": "https://pi.ai/talk",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4599,6 +5268,7 @@ window.ALL_LINKS = [
     "url": "imagine.art",
     "href": "https://imagine.art",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4607,6 +5277,7 @@ window.ALL_LINKS = [
     "url": "genspark.ai",
     "href": "https://genspark.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4615,6 +5286,7 @@ window.ALL_LINKS = [
     "url": "pickmybot.com",
     "href": "https://pickmybot.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4623,6 +5295,7 @@ window.ALL_LINKS = [
     "url": "midgenai.com",
     "href": "https://midgenai.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4631,6 +5304,7 @@ window.ALL_LINKS = [
     "url": "gemini.google.com",
     "href": "https://gemini.google.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4639,6 +5313,7 @@ window.ALL_LINKS = [
     "url": "lmstudio.ai",
     "href": "https://lmstudio.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4647,6 +5322,7 @@ window.ALL_LINKS = [
     "url": "furoku.github.io",
     "href": "https://furoku.github.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4655,6 +5331,7 @@ window.ALL_LINKS = [
     "url": "promptefy.online",
     "href": "https://promptefy.online",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4663,6 +5340,7 @@ window.ALL_LINKS = [
     "url": "hackerai.co",
     "href": "https://hackerai.co",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4671,6 +5349,7 @@ window.ALL_LINKS = [
     "url": "github.com/Tongyi-MAI/Z-Image",
     "href": "https://github.com/Tongyi-MAI/Z-Image",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4679,6 +5358,7 @@ window.ALL_LINKS = [
     "url": "youmind.com",
     "href": "https://youmind.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4687,6 +5367,7 @@ window.ALL_LINKS = [
     "url": "nanobanana.im",
     "href": "https://nanobanana.im",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4695,6 +5376,7 @@ window.ALL_LINKS = [
     "url": "canvai.co",
     "href": "https://canvai.co",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4703,6 +5385,7 @@ window.ALL_LINKS = [
     "url": "cybercut.ai",
     "href": "https://cybercut.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4711,6 +5394,7 @@ window.ALL_LINKS = [
     "url": "foundrylocal.ai",
     "href": "https://foundrylocal.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4719,6 +5403,7 @@ window.ALL_LINKS = [
     "url": "cheatsheets.zip",
     "href": "https://cheatsheets.zip",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4727,6 +5412,7 @@ window.ALL_LINKS = [
     "url": "stable-diffusion-web.com",
     "href": "https://stable-diffusion-web.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4735,6 +5421,7 @@ window.ALL_LINKS = [
     "url": "app.reve.com",
     "href": "https://app.reve.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4743,6 +5430,7 @@ window.ALL_LINKS = [
     "url": "imastudio.com",
     "href": "https://imastudio.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4751,6 +5439,7 @@ window.ALL_LINKS = [
     "url": "cursor.com",
     "href": "https://cursor.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4759,6 +5448,7 @@ window.ALL_LINKS = [
     "url": "easemate.ai",
     "href": "https://easemate.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4767,6 +5457,7 @@ window.ALL_LINKS = [
     "url": "promptmania.site",
     "href": "https://promptmania.site",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4775,6 +5466,7 @@ window.ALL_LINKS = [
     "url": "ghibli.org",
     "href": "https://ghibli.org",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4783,6 +5475,7 @@ window.ALL_LINKS = [
     "url": "sleek.design",
     "href": "https://sleek.design",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4791,6 +5484,7 @@ window.ALL_LINKS = [
     "url": "app.chirpz.ai",
     "href": "https://app.chirpz.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4799,6 +5493,7 @@ window.ALL_LINKS = [
     "url": "openrouter.ai",
     "href": "https://openrouter.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4807,6 +5502,7 @@ window.ALL_LINKS = [
     "url": "bohrium.com",
     "href": "https://bohrium.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4815,6 +5511,7 @@ window.ALL_LINKS = [
     "url": "minimax.io",
     "href": "https://minimax.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4823,6 +5520,7 @@ window.ALL_LINKS = [
     "url": "cline.bot",
     "href": "https://cline.bot",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4831,6 +5529,7 @@ window.ALL_LINKS = [
     "url": "flowith.io",
     "href": "https://flowith.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4839,6 +5538,7 @@ window.ALL_LINKS = [
     "url": "labs.google.com/pomelli",
     "href": "https://labs.google.com/pomelli",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4847,6 +5547,7 @@ window.ALL_LINKS = [
     "url": "ernie.baidu.com",
     "href": "https://ernie.baidu.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4855,6 +5556,7 @@ window.ALL_LINKS = [
     "url": "app.quadratichq.com",
     "href": "https://app.quadratichq.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4863,6 +5565,7 @@ window.ALL_LINKS = [
     "url": "dreamina.capcut.com",
     "href": "https://dreamina.capcut.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4871,6 +5574,7 @@ window.ALL_LINKS = [
     "url": "civitai.com",
     "href": "https://civitai.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4879,6 +5583,7 @@ window.ALL_LINKS = [
     "url": "palette.fm",
     "href": "https://palette.fm",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4887,6 +5592,7 @@ window.ALL_LINKS = [
     "url": "fusionbrain.ai/diffusion",
     "href": "https://fusionbrain.ai/diffusion",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4895,6 +5601,7 @@ window.ALL_LINKS = [
     "url": "creator.nolibox.com",
     "href": "https://creator.nolibox.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4903,6 +5610,7 @@ window.ALL_LINKS = [
     "url": "S.Diffusion",
     "href": "https://S.Diffusion",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4911,6 +5619,7 @@ window.ALL_LINKS = [
     "url": "artsio.xyz",
     "href": "https://artsio.xyz",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4919,6 +5628,7 @@ window.ALL_LINKS = [
     "url": "dust.tt",
     "href": "https://dust.tt",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4927,6 +5637,7 @@ window.ALL_LINKS = [
     "url": "uberduck.ai",
     "href": "https://uberduck.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4935,6 +5646,7 @@ window.ALL_LINKS = [
     "url": "watermarkremover.io",
     "href": "https://watermarkremover.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4943,6 +5655,7 @@ window.ALL_LINKS = [
     "url": "futurepedia.io",
     "href": "https://futurepedia.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4951,6 +5664,7 @@ window.ALL_LINKS = [
     "url": "deepl.com",
     "href": "https://deepl.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4959,6 +5673,7 @@ window.ALL_LINKS = [
     "url": "you.com",
     "href": "https://you.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4967,6 +5682,7 @@ window.ALL_LINKS = [
     "url": "speedwrite.com",
     "href": "https://speedwrite.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4975,6 +5691,7 @@ window.ALL_LINKS = [
     "url": "thiswallpaperdoesnotexist.org",
     "href": "https://thiswallpaperdoesnotexist.org",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4983,6 +5700,7 @@ window.ALL_LINKS = [
     "url": "aidesignresource.com",
     "href": "https://aidesignresource.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4991,6 +5709,7 @@ window.ALL_LINKS = [
     "url": "aiartapps.com",
     "href": "https://aiartapps.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -4999,6 +5718,7 @@ window.ALL_LINKS = [
     "url": "turbologo.ru",
     "href": "https://turbologo.ru",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -5007,6 +5727,7 @@ window.ALL_LINKS = [
     "url": "sketch.metademolab.com",
     "href": "https://sketch.metademolab.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -5015,6 +5736,7 @@ window.ALL_LINKS = [
     "url": "pollinations.ai",
     "href": "https://pollinations.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -5023,6 +5745,7 @@ window.ALL_LINKS = [
     "url": "chatba.com",
     "href": "https://chatba.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -5031,6 +5754,7 @@ window.ALL_LINKS = [
     "url": "pornpen.ai",
     "href": "https://pornpen.ai",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -5039,6 +5763,7 @@ window.ALL_LINKS = [
     "url": "create.starryai.com",
     "href": "https://create.starryai.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -5047,6 +5772,7 @@ window.ALL_LINKS = [
     "url": "image-to-text-ocr.netlify.app",
     "href": "https://image-to-text-ocr.netlify.app",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -5055,6 +5781,7 @@ window.ALL_LINKS = [
     "url": "gaugan.org",
     "href": "https://gaugan.org",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -5063,6 +5790,7 @@ window.ALL_LINKS = [
     "url": "compressimage.io",
     "href": "https://compressimage.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -5071,6 +5799,7 @@ window.ALL_LINKS = [
     "url": "colorize.cc",
     "href": "https://colorize.cc",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -5079,6 +5808,7 @@ window.ALL_LINKS = [
     "url": "wombo.art",
     "href": "https://wombo.art",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -5087,6 +5817,7 @@ window.ALL_LINKS = [
     "url": "app.photoroom.com",
     "href": "https://app.photoroom.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -5095,6 +5826,7 @@ window.ALL_LINKS = [
     "url": "remove.bg",
     "href": "https://remove.bg",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -5103,6 +5835,7 @@ window.ALL_LINKS = [
     "url": "interiorai.com",
     "href": "https://interiorai.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -5111,6 +5844,7 @@ window.ALL_LINKS = [
     "url": "cybervoice.io",
     "href": "https://cybervoice.io",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -5119,6 +5853,7 @@ window.ALL_LINKS = [
     "url": "svgstorm.com",
     "href": "https://svgstorm.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -5127,6 +5862,7 @@ window.ALL_LINKS = [
     "url": "vocalremover.org",
     "href": "https://vocalremover.org",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -5135,6 +5871,7 @@ window.ALL_LINKS = [
     "url": "ostagram.me",
     "href": "https://ostagram.me",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -5143,6 +5880,7 @@ window.ALL_LINKS = [
     "url": "01100010.wtf",
     "href": "https://01100010.wtf",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -5151,6 +5889,7 @@ window.ALL_LINKS = [
     "url": "myheritage.com",
     "href": "https://myheritage.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -5159,6 +5898,7 @@ window.ALL_LINKS = [
     "url": "thispersondoesnotexist.com",
     "href": "https://thispersondoesnotexist.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -5167,6 +5907,7 @@ window.ALL_LINKS = [
     "url": "prompt.noonshot.com",
     "href": "https://prompt.noonshot.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -5175,6 +5916,7 @@ window.ALL_LINKS = [
     "url": "looka.com",
     "href": "https://looka.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -5183,6 +5925,7 @@ window.ALL_LINKS = [
     "url": "fusionbrain.ai/styletransfer",
     "href": "https://fusionbrain.ai/styletransfer",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -5191,6 +5934,7 @@ window.ALL_LINKS = [
     "url": "app.onemoreai.com",
     "href": "https://app.onemoreai.com",
     "category": "AI Services",
+    "shortCategory": "AI",
     "page": "ai-services.html",
     "color": "#00e5ff"
   },
@@ -5199,6 +5943,7 @@ window.ALL_LINKS = [
     "url": "solidcraft.io",
     "href": "https://solidcraft.io/download/",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5207,6 +5952,7 @@ window.ALL_LINKS = [
     "url": "concat.standalones.org",
     "href": "https://concat.standalones.org/#download",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5215,6 +5961,7 @@ window.ALL_LINKS = [
     "url": "rea.tools",
     "href": "https://rea.tools/",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5223,6 +5970,7 @@ window.ALL_LINKS = [
     "url": "imageflow.dev",
     "href": "https://imageflow.dev/",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5231,6 +5979,7 @@ window.ALL_LINKS = [
     "url": "js.wiki",
     "href": "https://js.wiki/",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5239,6 +5988,7 @@ window.ALL_LINKS = [
     "url": "sniffnet.app",
     "href": "https://sniffnet.app/",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5247,6 +5997,7 @@ window.ALL_LINKS = [
     "url": "radiancekit.de",
     "href": "https://www.radiancekit.de/",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5255,6 +6006,7 @@ window.ALL_LINKS = [
     "url": "saerasoft.com",
     "href": "https://saerasoft.com/caesium/",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5263,6 +6015,7 @@ window.ALL_LINKS = [
     "url": "playcover.io",
     "href": "https://playcover.io/",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5271,6 +6024,7 @@ window.ALL_LINKS = [
     "url": "app.openreel.video",
     "href": "https://app.openreel.video/",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5279,6 +6033,7 @@ window.ALL_LINKS = [
     "url": "trykimu.com",
     "href": "https://trykimu.com/",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5287,6 +6042,7 @@ window.ALL_LINKS = [
     "url": "shotcut.org",
     "href": "https://www.shotcut.org/",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5295,6 +6051,7 @@ window.ALL_LINKS = [
     "url": "revpdf.com",
     "href": "https://revpdf.com/",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5303,6 +6060,7 @@ window.ALL_LINKS = [
     "url": "developer.android.com/emulator",
     "href": "https://developer.android.com/games/playgames/emulator?hl=ru",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5311,6 +6069,7 @@ window.ALL_LINKS = [
     "url": "byebyedpi.xyz",
     "href": "https://byebyedpi.xyz/",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5319,6 +6078,7 @@ window.ALL_LINKS = [
     "url": "free-qr-code-generator.com",
     "href": "https://free-qr-code-generator.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5327,6 +6087,7 @@ window.ALL_LINKS = [
     "url": "imgeditor.zmo.ai",
     "href": "https://imgeditor.zmo.ai",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5335,6 +6096,7 @@ window.ALL_LINKS = [
     "url": "pikimov.com",
     "href": "https://pikimov.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5343,6 +6105,7 @@ window.ALL_LINKS = [
     "url": "edit-videos-online.com",
     "href": "https://edit-videos-online.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5351,6 +6114,7 @@ window.ALL_LINKS = [
     "url": "rmbackground.softcloud.pro",
     "href": "https://rmbackground.softcloud.pro",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5359,6 +6123,7 @@ window.ALL_LINKS = [
     "url": "cobalt.tools",
     "href": "https://cobalt.tools",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5367,6 +6132,7 @@ window.ALL_LINKS = [
     "url": "yasic.vercel.app",
     "href": "https://yasic.vercel.app",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5375,6 +6141,7 @@ window.ALL_LINKS = [
     "url": "huemint.com",
     "href": "https://huemint.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5383,6 +6150,7 @@ window.ALL_LINKS = [
     "url": "text-to-cad.zoo.dev",
     "href": "https://text-to-cad.zoo.dev",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5391,6 +6159,7 @@ window.ALL_LINKS = [
     "url": "floo.app",
     "href": "https://floo.app",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5399,6 +6168,7 @@ window.ALL_LINKS = [
     "url": "locofy.ai",
     "href": "https://locofy.ai",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5407,6 +6177,7 @@ window.ALL_LINKS = [
     "url": "cursor.com",
     "href": "https://cursor.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5415,6 +6186,7 @@ window.ALL_LINKS = [
     "url": "filezipper.site",
     "href": "https://filezipper.site",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5423,6 +6195,7 @@ window.ALL_LINKS = [
     "url": "motionity.app",
     "href": "https://motionity.app",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5431,6 +6204,7 @@ window.ALL_LINKS = [
     "url": "app.dungeonscrawl.com",
     "href": "https://app.dungeonscrawl.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5439,6 +6213,7 @@ window.ALL_LINKS = [
     "url": "bgremover.realbrain.cc",
     "href": "https://bgremover.realbrain.cc",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5447,6 +6222,7 @@ window.ALL_LINKS = [
     "url": "veed.io",
     "href": "https://veed.io",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5455,6 +6231,7 @@ window.ALL_LINKS = [
     "url": "responsively.app",
     "href": "https://responsively.app",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5463,6 +6240,7 @@ window.ALL_LINKS = [
     "url": "removebg.dev",
     "href": "https://removebg.dev",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5471,6 +6249,7 @@ window.ALL_LINKS = [
     "url": "logofury.com",
     "href": "https://logofury.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5479,6 +6258,7 @@ window.ALL_LINKS = [
     "url": "vert.sh",
     "href": "https://vert.sh",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5487,6 +6267,7 @@ window.ALL_LINKS = [
     "url": "edit.photo",
     "href": "https://edit.photo",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5495,6 +6276,7 @@ window.ALL_LINKS = [
     "url": "fakedetail.com",
     "href": "https://fakedetail.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5503,6 +6285,7 @@ window.ALL_LINKS = [
     "url": "remove.photos",
     "href": "https://remove.photos",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5511,6 +6294,7 @@ window.ALL_LINKS = [
     "url": "twinone.eu",
     "href": "https://twinone.eu",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5519,6 +6303,7 @@ window.ALL_LINKS = [
     "url": "brandbird.app",
     "href": "https://brandbird.app",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5527,6 +6312,7 @@ window.ALL_LINKS = [
     "url": "zoo.dev",
     "href": "https://zoo.dev",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5535,6 +6321,7 @@ window.ALL_LINKS = [
     "url": "pixso.net",
     "href": "https://pixso.net",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5543,6 +6330,7 @@ window.ALL_LINKS = [
     "url": "printfriendly.com",
     "href": "https://printfriendly.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5551,6 +6339,7 @@ window.ALL_LINKS = [
     "url": "jumpshare.com",
     "href": "https://jumpshare.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5559,6 +6348,7 @@ window.ALL_LINKS = [
     "url": "designer.microsoft.com",
     "href": "https://designer.microsoft.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5567,6 +6357,7 @@ window.ALL_LINKS = [
     "url": "fontark.net",
     "href": "https://fontark.net",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5575,6 +6366,7 @@ window.ALL_LINKS = [
     "url": "planyourroom.com",
     "href": "https://planyourroom.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5583,6 +6375,7 @@ window.ALL_LINKS = [
     "url": "upscale.media",
     "href": "https://upscale.media",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5591,6 +6384,7 @@ window.ALL_LINKS = [
     "url": "stockai.com",
     "href": "https://stockai.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5599,6 +6393,7 @@ window.ALL_LINKS = [
     "url": "penpot.app",
     "href": "https://penpot.app",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5607,6 +6402,7 @@ window.ALL_LINKS = [
     "url": "kite.com",
     "href": "https://kite.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5615,6 +6411,7 @@ window.ALL_LINKS = [
     "url": "antlii.work",
     "href": "https://antlii.work",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5623,6 +6420,7 @@ window.ALL_LINKS = [
     "url": "pdftovideo.ai",
     "href": "https://pdftovideo.ai",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5631,6 +6429,7 @@ window.ALL_LINKS = [
     "url": "metatags.io",
     "href": "https://metatags.io",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5639,6 +6438,7 @@ window.ALL_LINKS = [
     "url": "tinywow.com",
     "href": "https://tinywow.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5647,6 +6447,7 @@ window.ALL_LINKS = [
     "url": "fliiipbook.com",
     "href": "https://fliiipbook.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5655,6 +6456,7 @@ window.ALL_LINKS = [
     "url": "app.runwayml.com",
     "href": "https://app.runwayml.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5663,6 +6465,7 @@ window.ALL_LINKS = [
     "url": "my.readymag.com",
     "href": "https://my.readymag.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5671,6 +6474,7 @@ window.ALL_LINKS = [
     "url": "wickedbackgrounds.com",
     "href": "https://wickedbackgrounds.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5679,6 +6483,7 @@ window.ALL_LINKS = [
     "url": "freeconvert.com",
     "href": "https://freeconvert.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5687,6 +6492,7 @@ window.ALL_LINKS = [
     "url": "witeboard.com",
     "href": "https://witeboard.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5695,6 +6501,7 @@ window.ALL_LINKS = [
     "url": "8designers.com",
     "href": "https://8designers.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5703,6 +6510,7 @@ window.ALL_LINKS = [
     "url": "extract.me",
     "href": "https://extract.me",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5711,6 +6519,7 @@ window.ALL_LINKS = [
     "url": "github.com/YanWenKun",
     "href": "https://github.com/YanWenKun",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5719,6 +6528,7 @@ window.ALL_LINKS = [
     "url": "github.com/itsOwen/CyberScraper-2077",
     "href": "https://github.com/itsOwen/CyberScraper-2077",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5727,6 +6537,7 @@ window.ALL_LINKS = [
     "url": "github.com",
     "href": "https://github.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5735,6 +6546,7 @@ window.ALL_LINKS = [
     "url": "benzin.io",
     "href": "https://benzin.io",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5743,6 +6555,7 @@ window.ALL_LINKS = [
     "url": "pixcut.wondershare.com",
     "href": "https://pixcut.wondershare.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5751,6 +6564,7 @@ window.ALL_LINKS = [
     "url": "qrcoder.ru",
     "href": "https://qrcoder.ru",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5759,6 +6573,7 @@ window.ALL_LINKS = [
     "url": "zapbg.com",
     "href": "https://zapbg.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5767,6 +6582,7 @@ window.ALL_LINKS = [
     "url": "slazzer.com",
     "href": "https://slazzer.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5775,6 +6591,7 @@ window.ALL_LINKS = [
     "url": "imagecompressor.com",
     "href": "https://imagecompressor.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5783,6 +6600,7 @@ window.ALL_LINKS = [
     "url": "sketch.metademolab.com",
     "href": "https://sketch.metademolab.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5791,6 +6609,7 @@ window.ALL_LINKS = [
     "url": "jitter.video",
     "href": "https://jitter.video",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5799,6 +6618,7 @@ window.ALL_LINKS = [
     "url": "pika.rishimohan.me",
     "href": "https://pika.rishimohan.me",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5807,6 +6627,7 @@ window.ALL_LINKS = [
     "url": "venngage.com",
     "href": "https://venngage.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5815,6 +6636,7 @@ window.ALL_LINKS = [
     "url": "natrongithub.github.io",
     "href": "https://natrongithub.github.io",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5823,6 +6645,7 @@ window.ALL_LINKS = [
     "url": "qrcod.ru",
     "href": "https://qrcod.ru",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5831,6 +6654,7 @@ window.ALL_LINKS = [
     "url": "erase.bg",
     "href": "https://erase.bg",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5839,6 +6663,7 @@ window.ALL_LINKS = [
     "url": "screenshot-background.nightspite.me",
     "href": "https://screenshot-background.nightspite.me",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5847,6 +6672,7 @@ window.ALL_LINKS = [
     "url": "iloveimg.com",
     "href": "https://iloveimg.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5855,6 +6681,7 @@ window.ALL_LINKS = [
     "url": "brandcrowd.com",
     "href": "https://brandcrowd.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5863,6 +6690,7 @@ window.ALL_LINKS = [
     "url": "alternativeto.net",
     "href": "https://alternativeto.net",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5871,6 +6699,7 @@ window.ALL_LINKS = [
     "url": "aspose.app",
     "href": "https://aspose.app",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5879,6 +6708,7 @@ window.ALL_LINKS = [
     "url": "teleporthq.io",
     "href": "https://teleporthq.io",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5887,6 +6717,7 @@ window.ALL_LINKS = [
     "url": "svgartista.net",
     "href": "https://svgartista.net",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5895,6 +6726,7 @@ window.ALL_LINKS = [
     "url": "unzip-online.com",
     "href": "https://unzip-online.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5903,6 +6735,7 @@ window.ALL_LINKS = [
     "url": "rytr.me",
     "href": "https://rytr.me",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5911,6 +6744,7 @@ window.ALL_LINKS = [
     "url": "autodraw.com",
     "href": "https://autodraw.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5919,6 +6753,7 @@ window.ALL_LINKS = [
     "url": "3u.com",
     "href": "https://3u.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5927,6 +6762,7 @@ window.ALL_LINKS = [
     "url": "vectorink.io",
     "href": "https://vectorink.io",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5935,6 +6771,7 @@ window.ALL_LINKS = [
     "url": "vectorink.io/app",
     "href": "https://vectorink.io/app",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5943,6 +6780,7 @@ window.ALL_LINKS = [
     "url": "magicslides.app",
     "href": "https://magicslides.app",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5951,6 +6789,7 @@ window.ALL_LINKS = [
     "url": "extractcss.com",
     "href": "https://extractcss.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5959,6 +6798,7 @@ window.ALL_LINKS = [
     "url": "pixlr.com",
     "href": "https://pixlr.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5967,6 +6807,7 @@ window.ALL_LINKS = [
     "url": "econev.invoicely.com",
     "href": "https://econev.invoicely.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5975,6 +6816,7 @@ window.ALL_LINKS = [
     "url": "sublimetext.com",
     "href": "https://sublimetext.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5983,6 +6825,7 @@ window.ALL_LINKS = [
     "url": "inkscape.org",
     "href": "https://inkscape.org",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5991,6 +6834,7 @@ window.ALL_LINKS = [
     "url": "imgupscaler.com",
     "href": "https://imgupscaler.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -5999,6 +6843,7 @@ window.ALL_LINKS = [
     "url": "canva.com",
     "href": "https://canva.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -6007,6 +6852,7 @@ window.ALL_LINKS = [
     "url": "photopea.com",
     "href": "https://photopea.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -6015,6 +6861,7 @@ window.ALL_LINKS = [
     "url": "gifrun.com",
     "href": "https://gifrun.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -6023,6 +6870,7 @@ window.ALL_LINKS = [
     "url": "figma.com",
     "href": "https://figma.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -6031,6 +6879,7 @@ window.ALL_LINKS = [
     "url": "gdevelop-app.com",
     "href": "https://gdevelop-app.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -6039,6 +6888,7 @@ window.ALL_LINKS = [
     "url": "4in1crop.com",
     "href": "https://4in1crop.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -6047,6 +6897,7 @@ window.ALL_LINKS = [
     "url": "soundtrap.com",
     "href": "https://soundtrap.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -6055,6 +6906,7 @@ window.ALL_LINKS = [
     "url": "godotengine.org",
     "href": "https://godotengine.org",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -6063,6 +6915,7 @@ window.ALL_LINKS = [
     "url": "securesha.re",
     "href": "https://securesha.re",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -6071,6 +6924,7 @@ window.ALL_LINKS = [
     "url": "befunky.com",
     "href": "https://befunky.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -6079,6 +6933,7 @@ window.ALL_LINKS = [
     "url": "localwp.com",
     "href": "https://localwp.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -6087,6 +6942,7 @@ window.ALL_LINKS = [
     "url": "compressor.io",
     "href": "https://compressor.io",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -6095,6 +6951,7 @@ window.ALL_LINKS = [
     "url": "desktop.captions.ai",
     "href": "https://desktop.captions.ai",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -6103,6 +6960,7 @@ window.ALL_LINKS = [
     "url": "ospanel.io",
     "href": "https://ospanel.io",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -6111,6 +6969,7 @@ window.ALL_LINKS = [
     "url": "skyconvert.net",
     "href": "https://skyconvert.net",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -6119,6 +6978,7 @@ window.ALL_LINKS = [
     "url": "tasksboard.com",
     "href": "https://tasksboard.com",
     "category": "Software",
+    "shortCategory": "Software",
     "page": "software.html",
     "color": "#ff6b35"
   },
@@ -6127,6 +6987,7 @@ window.ALL_LINKS = [
     "url": "fffuel.co/aaabstract",
     "href": "https://fffuel.co/aaabstract",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6135,6 +6996,7 @@ window.ALL_LINKS = [
     "url": "vectorportal.com",
     "href": "https://vectorportal.com",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6143,6 +7005,7 @@ window.ALL_LINKS = [
     "url": "reshot.com",
     "href": "https://reshot.com",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6151,6 +7014,7 @@ window.ALL_LINKS = [
     "url": "xiaonail.com",
     "href": "https://xiaonail.com",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6159,6 +7023,7 @@ window.ALL_LINKS = [
     "url": "freepik.com",
     "href": "https://freepik.com",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6167,6 +7032,7 @@ window.ALL_LINKS = [
     "url": "storyset.com",
     "href": "https://storyset.com",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6175,6 +7041,7 @@ window.ALL_LINKS = [
     "url": "pixelied.com",
     "href": "https://pixelied.com",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6183,6 +7050,7 @@ window.ALL_LINKS = [
     "url": "pixeltrue.com",
     "href": "https://pixeltrue.com",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6191,6 +7059,7 @@ window.ALL_LINKS = [
     "url": "amcharts.com",
     "href": "https://amcharts.com",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6199,6 +7068,7 @@ window.ALL_LINKS = [
     "url": "copypastecharacter.com",
     "href": "https://copypastecharacter.com",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6207,6 +7077,7 @@ window.ALL_LINKS = [
     "url": "mazwai.com",
     "href": "https://mazwai.com",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6215,6 +7086,7 @@ window.ALL_LINKS = [
     "url": "lordicon.com",
     "href": "https://lordicon.com",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6223,6 +7095,7 @@ window.ALL_LINKS = [
     "url": "coverr.co",
     "href": "https://coverr.co",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6231,6 +7104,7 @@ window.ALL_LINKS = [
     "url": "iconscout.com",
     "href": "https://iconscout.com",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6239,6 +7113,7 @@ window.ALL_LINKS = [
     "url": "pngall.com",
     "href": "https://pngall.com",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6247,6 +7122,7 @@ window.ALL_LINKS = [
     "url": "freevectors.net",
     "href": "https://freevectors.net",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6255,6 +7131,7 @@ window.ALL_LINKS = [
     "url": "pngplay.com",
     "href": "https://pngplay.com",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6263,6 +7140,7 @@ window.ALL_LINKS = [
     "url": "iradesign.io",
     "href": "https://iradesign.io",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6271,6 +7149,7 @@ window.ALL_LINKS = [
     "url": "pngmart.com",
     "href": "https://pngmart.com",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6279,6 +7158,7 @@ window.ALL_LINKS = [
     "url": "manypixels.co",
     "href": "https://manypixels.co",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6287,6 +7167,7 @@ window.ALL_LINKS = [
     "url": "hiclipart.com",
     "href": "https://hiclipart.com",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6295,6 +7176,7 @@ window.ALL_LINKS = [
     "url": "pornpen.ai",
     "href": "https://pornpen.ai",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6303,6 +7185,7 @@ window.ALL_LINKS = [
     "url": "clouddevs.com",
     "href": "https://clouddevs.com",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6311,6 +7194,7 @@ window.ALL_LINKS = [
     "url": "freeillustrations.xyz",
     "href": "https://freeillustrations.xyz",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6319,6 +7203,7 @@ window.ALL_LINKS = [
     "url": "uistore.design",
     "href": "https://uistore.design",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6327,6 +7212,7 @@ window.ALL_LINKS = [
     "url": "designstripe.com",
     "href": "https://designstripe.com",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6335,6 +7221,7 @@ window.ALL_LINKS = [
     "url": "getavataaars.com",
     "href": "https://getavataaars.com",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6343,6 +7230,7 @@ window.ALL_LINKS = [
     "url": "iconoir.com",
     "href": "https://iconoir.com",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6351,6 +7239,7 @@ window.ALL_LINKS = [
     "url": "stubborn.fun",
     "href": "https://stubborn.fun",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6359,6 +7248,7 @@ window.ALL_LINKS = [
     "url": "avamake.com",
     "href": "https://avamake.com",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6367,6 +7257,7 @@ window.ALL_LINKS = [
     "url": "undraw.co",
     "href": "https://undraw.co",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6375,6 +7266,7 @@ window.ALL_LINKS = [
     "url": "app.heazy.studio",
     "href": "https://app.heazy.studio",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6383,6 +7275,7 @@ window.ALL_LINKS = [
     "url": "pixabay.com",
     "href": "https://pixabay.com",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6391,6 +7284,7 @@ window.ALL_LINKS = [
     "url": "remover.zmo.ai",
     "href": "https://remover.zmo.ai",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6399,6 +7293,7 @@ window.ALL_LINKS = [
     "url": "vecteezy.com",
     "href": "https://vecteezy.com",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6407,6 +7302,7 @@ window.ALL_LINKS = [
     "url": "clipdrop.co/image-upscaler",
     "href": "https://clipdrop.co/image-upscaler",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6415,6 +7311,7 @@ window.ALL_LINKS = [
     "url": "cleanup.pictures",
     "href": "https://cleanup.pictures",
     "category": "Illustrations",
+    "shortCategory": "Illustrations",
     "page": "illustrations.html",
     "color": "#a855f7"
   },
@@ -6423,6 +7320,7 @@ window.ALL_LINKS = [
     "url": "screenforge.co",
     "href": "https://screenforge.co/",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6431,6 +7329,7 @@ window.ALL_LINKS = [
     "url": "transitionalhooks.com",
     "href": "https://transitionalhooks.com/social-media-video-hook-library/",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6439,6 +7338,7 @@ window.ALL_LINKS = [
     "url": "gurjotharika.github.io/svgtovector",
     "href": "https://gurjotharika.github.io/svgtovector/",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6447,6 +7347,7 @@ window.ALL_LINKS = [
     "url": "3dsvg.design",
     "href": "https://3dsvg.design/",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6455,6 +7356,7 @@ window.ALL_LINKS = [
     "url": "icons8.com/photos",
     "href": "https://icons8.com/photos",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6463,6 +7365,7 @@ window.ALL_LINKS = [
     "url": "unsplash.com",
     "href": "https://unsplash.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6471,6 +7374,7 @@ window.ALL_LINKS = [
     "url": "purepng.com",
     "href": "https://purepng.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6479,6 +7383,7 @@ window.ALL_LINKS = [
     "url": "stickpng.com",
     "href": "https://stickpng.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6487,6 +7392,7 @@ window.ALL_LINKS = [
     "url": "favpng.com",
     "href": "https://favpng.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6495,6 +7401,7 @@ window.ALL_LINKS = [
     "url": "screenstab.com",
     "href": "https://screenstab.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6503,6 +7410,7 @@ window.ALL_LINKS = [
     "url": "videvo.net",
     "href": "https://videvo.net",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6511,6 +7419,7 @@ window.ALL_LINKS = [
     "url": "isorepublic.com",
     "href": "https://isorepublic.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6519,6 +7428,7 @@ window.ALL_LINKS = [
     "url": "focastock.com",
     "href": "https://focastock.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6527,6 +7437,7 @@ window.ALL_LINKS = [
     "url": "splitshire.com",
     "href": "https://splitshire.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6535,6 +7446,7 @@ window.ALL_LINKS = [
     "url": "foodiesfeed.com",
     "href": "https://foodiesfeed.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6543,6 +7455,7 @@ window.ALL_LINKS = [
     "url": "clipdrop.co/remove-background",
     "href": "https://clipdrop.co/remove-background",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6551,6 +7464,7 @@ window.ALL_LINKS = [
     "url": "magiceraser.io",
     "href": "https://magiceraser.io",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6559,6 +7473,7 @@ window.ALL_LINKS = [
     "url": "everypixel.com",
     "href": "https://everypixel.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6567,6 +7482,7 @@ window.ALL_LINKS = [
     "url": "dareful.com",
     "href": "https://dareful.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6575,6 +7491,7 @@ window.ALL_LINKS = [
     "url": "lummi.ai",
     "href": "https://lummi.ai",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6583,6 +7500,7 @@ window.ALL_LINKS = [
     "url": "free-stock.video",
     "href": "https://free-stock.video",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6591,6 +7509,7 @@ window.ALL_LINKS = [
     "url": "videezy.com",
     "href": "https://videezy.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6599,6 +7518,7 @@ window.ALL_LINKS = [
     "url": "upscalepics.com",
     "href": "https://upscalepics.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6607,6 +7527,7 @@ window.ALL_LINKS = [
     "url": "lifeofpix.com",
     "href": "https://lifeofpix.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6615,6 +7536,7 @@ window.ALL_LINKS = [
     "url": "vintagestockphotos.com",
     "href": "https://vintagestockphotos.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6623,6 +7545,7 @@ window.ALL_LINKS = [
     "url": "sketchappsources.com",
     "href": "https://sketchappsources.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6631,6 +7554,7 @@ window.ALL_LINKS = [
     "url": "freebbble.com",
     "href": "https://freebbble.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6639,6 +7563,7 @@ window.ALL_LINKS = [
     "url": "videoeffects.com",
     "href": "https://videoeffects.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6647,6 +7572,7 @@ window.ALL_LINKS = [
     "url": "cleanpng.com",
     "href": "https://cleanpng.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6655,6 +7581,7 @@ window.ALL_LINKS = [
     "url": "magdeleine.co",
     "href": "https://magdeleine.co",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6663,6 +7590,7 @@ window.ALL_LINKS = [
     "url": "reaktr.vercel.app",
     "href": "https://reaktr.vercel.app",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6671,6 +7599,7 @@ window.ALL_LINKS = [
     "url": "pngmart.com",
     "href": "https://pngmart.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6679,6 +7608,7 @@ window.ALL_LINKS = [
     "url": "coverr.co",
     "href": "https://coverr.co",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6687,6 +7617,7 @@ window.ALL_LINKS = [
     "url": "breakoutclips.com",
     "href": "https://breakoutclips.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6695,6 +7626,7 @@ window.ALL_LINKS = [
     "url": "pngpix.com",
     "href": "https://pngpix.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6703,6 +7635,7 @@ window.ALL_LINKS = [
     "url": "shotstash.com",
     "href": "https://shotstash.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6711,6 +7644,7 @@ window.ALL_LINKS = [
     "url": "generated.photos",
     "href": "https://generated.photos",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6719,6 +7653,7 @@ window.ALL_LINKS = [
     "url": "pngimg.com",
     "href": "https://pngimg.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6727,6 +7662,7 @@ window.ALL_LINKS = [
     "url": "wedistill.io",
     "href": "https://wedistill.io",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6735,6 +7671,7 @@ window.ALL_LINKS = [
     "url": "cutout.pro",
     "href": "https://cutout.pro",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6743,6 +7680,7 @@ window.ALL_LINKS = [
     "url": "freesvg.org",
     "href": "https://freesvg.org",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6751,6 +7689,7 @@ window.ALL_LINKS = [
     "url": "hotpot.ai",
     "href": "https://hotpot.ai",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6759,6 +7698,7 @@ window.ALL_LINKS = [
     "url": "photoroom.com",
     "href": "https://photoroom.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6767,6 +7707,7 @@ window.ALL_LINKS = [
     "url": "burst.shopify.com",
     "href": "https://burst.shopify.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6775,6 +7716,7 @@ window.ALL_LINKS = [
     "url": "mixkit.co",
     "href": "https://mixkit.co",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6783,6 +7725,7 @@ window.ALL_LINKS = [
     "url": "littlevisuals.co",
     "href": "https://littlevisuals.co",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6791,6 +7734,7 @@ window.ALL_LINKS = [
     "url": "barnimages.com",
     "href": "https://barnimages.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6799,6 +7743,7 @@ window.ALL_LINKS = [
     "url": "visualhunt.com",
     "href": "https://visualhunt.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6807,6 +7752,7 @@ window.ALL_LINKS = [
     "url": "freepik.com/videos",
     "href": "https://freepik.com/videos",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6815,6 +7761,7 @@ window.ALL_LINKS = [
     "url": "rawpixel.com",
     "href": "https://rawpixel.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6823,6 +7770,7 @@ window.ALL_LINKS = [
     "url": "jaymantri.com",
     "href": "https://jaymantri.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6831,6 +7779,7 @@ window.ALL_LINKS = [
     "url": "freenaturestock.com",
     "href": "https://freenaturestock.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6839,6 +7788,7 @@ window.ALL_LINKS = [
     "url": "stocksnap.io",
     "href": "https://stocksnap.io",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6847,6 +7797,7 @@ window.ALL_LINKS = [
     "url": "9may.mail.ru",
     "href": "https://9may.mail.ru",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6855,6 +7806,7 @@ window.ALL_LINKS = [
     "url": "uispace.net",
     "href": "https://uispace.net",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6863,6 +7815,7 @@ window.ALL_LINKS = [
     "url": "gratisography.com",
     "href": "https://gratisography.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6871,6 +7824,7 @@ window.ALL_LINKS = [
     "url": "pixabay.com",
     "href": "https://pixabay.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6879,6 +7833,7 @@ window.ALL_LINKS = [
     "url": "stockup.sitebuilderreport.com",
     "href": "https://stockup.sitebuilderreport.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6887,6 +7842,7 @@ window.ALL_LINKS = [
     "url": "freebiesbug.com",
     "href": "https://freebiesbug.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6895,6 +7851,7 @@ window.ALL_LINKS = [
     "url": "pexels.com",
     "href": "https://pexels.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6903,6 +7860,7 @@ window.ALL_LINKS = [
     "url": "flexclip.com",
     "href": "https://flexclip.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6911,6 +7869,7 @@ window.ALL_LINKS = [
     "url": "graphicburger.com",
     "href": "https://graphicburger.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6919,6 +7878,7 @@ window.ALL_LINKS = [
     "url": "myheritage.com",
     "href": "https://myheritage.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6927,6 +7887,7 @@ window.ALL_LINKS = [
     "url": "picwish.com",
     "href": "https://picwish.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6935,6 +7896,7 @@ window.ALL_LINKS = [
     "url": "graphberry.com",
     "href": "https://graphberry.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6943,6 +7905,7 @@ window.ALL_LINKS = [
     "url": "kaboompics.com",
     "href": "https://kaboompics.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6951,6 +7914,7 @@ window.ALL_LINKS = [
     "url": "nonfungiblepixels.fun",
     "href": "https://nonfungiblepixels.fun",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6959,6 +7923,7 @@ window.ALL_LINKS = [
     "url": "unblast.com",
     "href": "https://unblast.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6967,6 +7932,7 @@ window.ALL_LINKS = [
     "url": "picjumbo.com",
     "href": "https://picjumbo.com",
     "category": "Photos / Video",
+    "shortCategory": "Photos",
     "page": "photos-video.html",
     "color": "#22d3ee"
   },
@@ -6975,6 +7941,7 @@ window.ALL_LINKS = [
     "url": "meshgradient.com",
     "href": "https://meshgradient.com",
     "category": "Colors",
+    "shortCategory": "Colors",
     "page": "colors.html",
     "color": "#f5c518"
   },
@@ -6983,6 +7950,7 @@ window.ALL_LINKS = [
     "url": "alwane.io",
     "href": "https://alwane.io",
     "category": "Colors",
+    "shortCategory": "Colors",
     "page": "colors.html",
     "color": "#f5c518"
   },
@@ -6991,6 +7959,7 @@ window.ALL_LINKS = [
     "url": "uigradients.com",
     "href": "https://uigradients.com",
     "category": "Colors",
+    "shortCategory": "Colors",
     "page": "colors.html",
     "color": "#f5c518"
   },
@@ -6999,6 +7968,7 @@ window.ALL_LINKS = [
     "url": "meshy.uxie.io",
     "href": "https://meshy.uxie.io",
     "category": "Colors",
+    "shortCategory": "Colors",
     "page": "colors.html",
     "color": "#f5c518"
   },
@@ -7007,6 +7977,7 @@ window.ALL_LINKS = [
     "url": "grabient.com",
     "href": "https://grabient.com",
     "category": "Colors",
+    "shortCategory": "Colors",
     "page": "colors.html",
     "color": "#f5c518"
   },
@@ -7015,6 +7986,7 @@ window.ALL_LINKS = [
     "url": "meshgradient.in",
     "href": "https://meshgradient.in",
     "category": "Colors",
+    "shortCategory": "Colors",
     "page": "colors.html",
     "color": "#f5c518"
   },
@@ -7023,6 +7995,7 @@ window.ALL_LINKS = [
     "url": "gradienthunt.com",
     "href": "https://gradienthunt.com",
     "category": "Colors",
+    "shortCategory": "Colors",
     "page": "colors.html",
     "color": "#f5c518"
   },
@@ -7031,6 +8004,7 @@ window.ALL_LINKS = [
     "url": "pigment.shapefactory.co",
     "href": "https://pigment.shapefactory.co",
     "category": "Colors",
+    "shortCategory": "Colors",
     "page": "colors.html",
     "color": "#f5c518"
   },
@@ -7039,6 +8013,7 @@ window.ALL_LINKS = [
     "url": "gradientsguru.com",
     "href": "https://gradientsguru.com",
     "category": "Colors",
+    "shortCategory": "Colors",
     "page": "colors.html",
     "color": "#f5c518"
   },
@@ -7047,6 +8022,7 @@ window.ALL_LINKS = [
     "url": "picular.co",
     "href": "https://picular.co",
     "category": "Colors",
+    "shortCategory": "Colors",
     "page": "colors.html",
     "color": "#f5c518"
   },
@@ -7055,6 +8031,7 @@ window.ALL_LINKS = [
     "url": "whocanuse.com",
     "href": "https://whocanuse.com",
     "category": "Colors",
+    "shortCategory": "Colors",
     "page": "colors.html",
     "color": "#f5c518"
   },
@@ -7063,6 +8040,7 @@ window.ALL_LINKS = [
     "url": "brandcolors.net",
     "href": "https://brandcolors.net",
     "category": "Colors",
+    "shortCategory": "Colors",
     "page": "colors.html",
     "color": "#f5c518"
   },
@@ -7071,6 +8049,7 @@ window.ALL_LINKS = [
     "url": "colors.dopely.top",
     "href": "https://colors.dopely.top",
     "category": "Colors",
+    "shortCategory": "Colors",
     "page": "colors.html",
     "color": "#f5c518"
   },
@@ -7079,6 +8058,7 @@ window.ALL_LINKS = [
     "url": "coolors.co",
     "href": "https://coolors.co",
     "category": "Colors",
+    "shortCategory": "Colors",
     "page": "colors.html",
     "color": "#f5c518"
   },
@@ -7087,6 +8067,7 @@ window.ALL_LINKS = [
     "url": "colorhunt.co",
     "href": "https://colorhunt.co",
     "category": "Colors",
+    "shortCategory": "Colors",
     "page": "colors.html",
     "color": "#f5c518"
   },
@@ -7095,6 +8076,7 @@ window.ALL_LINKS = [
     "url": "pixelfika.com",
     "href": "https://pixelfika.com",
     "category": "Colors",
+    "shortCategory": "Colors",
     "page": "colors.html",
     "color": "#f5c518"
   },
@@ -7103,6 +8085,7 @@ window.ALL_LINKS = [
     "url": "farbvelo.elastiq.ch",
     "href": "https://farbvelo.elastiq.ch",
     "category": "Colors",
+    "shortCategory": "Colors",
     "page": "colors.html",
     "color": "#f5c518"
   },
@@ -7111,6 +8094,7 @@ window.ALL_LINKS = [
     "url": "colors.lol",
     "href": "https://colors.lol",
     "category": "Colors",
+    "shortCategory": "Colors",
     "page": "colors.html",
     "color": "#f5c518"
   },
@@ -7119,6 +8103,7 @@ window.ALL_LINKS = [
     "url": "webdesignrankings.com",
     "href": "https://webdesignrankings.com",
     "category": "Colors",
+    "shortCategory": "Colors",
     "page": "colors.html",
     "color": "#f5c518"
   },
@@ -7127,6 +8112,7 @@ window.ALL_LINKS = [
     "url": "gradients.app",
     "href": "https://gradients.app",
     "category": "Colors",
+    "shortCategory": "Colors",
     "page": "colors.html",
     "color": "#f5c518"
   },
@@ -7135,6 +8121,7 @@ window.ALL_LINKS = [
     "url": "convertingcolors.com",
     "href": "https://convertingcolors.com",
     "category": "Colors",
+    "shortCategory": "Colors",
     "page": "colors.html",
     "color": "#f5c518"
   },
@@ -7143,6 +8130,7 @@ window.ALL_LINKS = [
     "url": "tauri.app",
     "href": "https://tauri.app/",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7151,6 +8139,7 @@ window.ALL_LINKS = [
     "url": "framework7.io",
     "href": "https://framework7.io/",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7159,6 +8148,7 @@ window.ALL_LINKS = [
     "url": "vengenceui.com",
     "href": "https://www.vengenceui.com/components/pop-button",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7167,6 +8157,7 @@ window.ALL_LINKS = [
     "url": "colota.app",
     "href": "https://colota.app/",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7175,6 +8166,7 @@ window.ALL_LINKS = [
     "url": "reactbits.dev",
     "href": "https://reactbits.dev/get-started/index",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7183,6 +8175,7 @@ window.ALL_LINKS = [
     "url": "terabox.com",
     "href": "https://terabox.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7191,6 +8184,7 @@ window.ALL_LINKS = [
     "url": "baseline.is",
     "href": "https://baseline.is",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7199,6 +8193,7 @@ window.ALL_LINKS = [
     "url": "editsvgcode.com",
     "href": "https://editsvgcode.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7207,6 +8202,7 @@ window.ALL_LINKS = [
     "url": "img2txt.com/en",
     "href": "https://img2txt.com/en",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7215,6 +8211,7 @@ window.ALL_LINKS = [
     "url": "nibbler.silktide.com",
     "href": "https://nibbler.silktide.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7223,6 +8220,7 @@ window.ALL_LINKS = [
     "url": "archive.org/web",
     "href": "https://archive.org/web",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7231,6 +8229,7 @@ window.ALL_LINKS = [
     "url": "letsenhance.io",
     "href": "https://letsenhance.io",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7239,6 +8238,7 @@ window.ALL_LINKS = [
     "url": "transliteration.aspx",
     "href": "https://transliteration.aspx",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7247,6 +8247,7 @@ window.ALL_LINKS = [
     "url": "archive.ph",
     "href": "https://archive.ph",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7255,6 +8256,7 @@ window.ALL_LINKS = [
     "url": "nitropack.io",
     "href": "https://nitropack.io",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7263,6 +8265,7 @@ window.ALL_LINKS = [
     "url": "freefrontend.com",
     "href": "https://freefrontend.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7271,6 +8274,7 @@ window.ALL_LINKS = [
     "url": "web-arhive.ru",
     "href": "https://web-arhive.ru",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7279,6 +8283,7 @@ window.ALL_LINKS = [
     "url": "sketchrepo.com",
     "href": "https://sketchrepo.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7287,6 +8292,7 @@ window.ALL_LINKS = [
     "url": "devhints.io",
     "href": "https://devhints.io",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7295,6 +8301,7 @@ window.ALL_LINKS = [
     "url": "tria.ge",
     "href": "https://tria.ge",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7303,6 +8310,7 @@ window.ALL_LINKS = [
     "url": "snazzymaps.com",
     "href": "https://snazzymaps.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7311,6 +8319,7 @@ window.ALL_LINKS = [
     "url": "caniuse.com",
     "href": "https://caniuse.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7319,6 +8328,7 @@ window.ALL_LINKS = [
     "url": "ui.aceternity.com",
     "href": "https://ui.aceternity.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7327,6 +8337,7 @@ window.ALL_LINKS = [
     "url": "responsivetesttool.com",
     "href": "https://responsivetesttool.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7335,6 +8346,7 @@ window.ALL_LINKS = [
     "url": "free-css.com",
     "href": "https://free-css.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7343,6 +8355,7 @@ window.ALL_LINKS = [
     "url": "10minutemail.net",
     "href": "https://10minutemail.net",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7351,6 +8364,7 @@ window.ALL_LINKS = [
     "url": "leonardocolor.io",
     "href": "https://leonardocolor.io",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7359,6 +8373,7 @@ window.ALL_LINKS = [
     "url": "pulpo.usepulpo.com",
     "href": "https://pulpo.usepulpo.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7367,6 +8382,7 @@ window.ALL_LINKS = [
     "url": "gameuidatabase.com",
     "href": "https://gameuidatabase.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7375,6 +8391,7 @@ window.ALL_LINKS = [
     "url": "ianlunn.github.io",
     "href": "https://ianlunn.github.io",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7383,6 +8400,7 @@ window.ALL_LINKS = [
     "url": "prismic.io",
     "href": "https://prismic.io",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7391,6 +8409,7 @@ window.ALL_LINKS = [
     "url": "uiverse.io",
     "href": "https://uiverse.io",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7399,6 +8418,7 @@ window.ALL_LINKS = [
     "url": "animate.style",
     "href": "https://animate.style",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7407,6 +8427,7 @@ window.ALL_LINKS = [
     "url": "free-for.dev",
     "href": "https://free-for.dev",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7415,6 +8436,7 @@ window.ALL_LINKS = [
     "url": "faviconvideo.com",
     "href": "https://faviconvideo.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7423,6 +8445,7 @@ window.ALL_LINKS = [
     "url": "jonsuh.com/hamburgers",
     "href": "https://jonsuh.com/hamburgers",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7431,6 +8454,7 @@ window.ALL_LINKS = [
     "url": "app.uizard.io",
     "href": "https://app.uizard.io",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7439,6 +8463,7 @@ window.ALL_LINKS = [
     "url": "freepublicapis.com",
     "href": "https://freepublicapis.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7447,6 +8472,7 @@ window.ALL_LINKS = [
     "url": "animista.net",
     "href": "https://animista.net",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7455,6 +8481,7 @@ window.ALL_LINKS = [
     "url": "app.webstudio.so",
     "href": "https://app.webstudio.so",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7463,6 +8490,7 @@ window.ALL_LINKS = [
     "url": "svgviewer.dev",
     "href": "https://svgviewer.dev",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7471,6 +8499,7 @@ window.ALL_LINKS = [
     "url": "minimamente.com",
     "href": "https://minimamente.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7479,6 +8508,7 @@ window.ALL_LINKS = [
     "url": "app.bitly.com",
     "href": "https://app.bitly.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7487,6 +8517,7 @@ window.ALL_LINKS = [
     "url": "calculateaspectratio.com",
     "href": "https://calculateaspectratio.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7495,6 +8526,7 @@ window.ALL_LINKS = [
     "url": "whirl.netlify.app",
     "href": "https://whirl.netlify.app",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7503,6 +8535,7 @@ window.ALL_LINKS = [
     "url": "htmlcss.tools",
     "href": "https://htmlcss.tools",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7511,6 +8544,7 @@ window.ALL_LINKS = [
     "url": "devpedia.pages.dev",
     "href": "https://devpedia.pages.dev",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7519,6 +8553,7 @@ window.ALL_LINKS = [
     "url": "raber.app",
     "href": "https://raber.app",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7527,6 +8562,7 @@ window.ALL_LINKS = [
     "url": "virustotal.com",
     "href": "https://virustotal.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7535,6 +8571,7 @@ window.ALL_LINKS = [
     "url": "handbook.exemplar.dev",
     "href": "https://handbook.exemplar.dev",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7543,6 +8580,7 @@ window.ALL_LINKS = [
     "url": "dropmefiles.com",
     "href": "https://dropmefiles.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7551,6 +8589,7 @@ window.ALL_LINKS = [
     "url": "webmobilefirst.com",
     "href": "https://webmobilefirst.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7559,6 +8598,7 @@ window.ALL_LINKS = [
     "url": "distrosea.com",
     "href": "https://distrosea.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7567,6 +8607,7 @@ window.ALL_LINKS = [
     "url": "favicon.software",
     "href": "https://favicon.software",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7575,6 +8616,7 @@ window.ALL_LINKS = [
     "url": "v0.dev",
     "href": "https://v0.dev",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7583,6 +8625,7 @@ window.ALL_LINKS = [
     "url": "kokonutui.com",
     "href": "https://kokonutui.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7591,6 +8634,7 @@ window.ALL_LINKS = [
     "url": "magecdn.com",
     "href": "https://magecdn.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7599,6 +8643,7 @@ window.ALL_LINKS = [
     "url": "10015.io",
     "href": "https://10015.io",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7607,6 +8652,7 @@ window.ALL_LINKS = [
     "url": "cursify.vercel.app",
     "href": "https://cursify.vercel.app",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7615,6 +8661,7 @@ window.ALL_LINKS = [
     "url": "2dto3d.app",
     "href": "https://2dto3d.app",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7623,6 +8670,7 @@ window.ALL_LINKS = [
     "url": "css-loaders.com",
     "href": "https://css-loaders.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7631,6 +8679,7 @@ window.ALL_LINKS = [
     "url": "web-dev-resources.com",
     "href": "https://web-dev-resources.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7639,6 +8688,7 @@ window.ALL_LINKS = [
     "url": "publicapis.dev",
     "href": "https://publicapis.dev",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7647,6 +8697,7 @@ window.ALL_LINKS = [
     "url": "animejs.com",
     "href": "https://animejs.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7655,6 +8706,7 @@ window.ALL_LINKS = [
     "url": "palet.design",
     "href": "https://palet.design",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7663,6 +8715,7 @@ window.ALL_LINKS = [
     "url": "altsendme.com",
     "href": "https://altsendme.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7671,6 +8724,7 @@ window.ALL_LINKS = [
     "url": "neapay.com",
     "href": "https://neapay.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7679,6 +8733,7 @@ window.ALL_LINKS = [
     "url": "tools.ui-layouts.com",
     "href": "https://tools.ui-layouts.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7687,6 +8742,7 @@ window.ALL_LINKS = [
     "url": "ui-layouts.com",
     "href": "https://ui-layouts.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7695,6 +8751,7 @@ window.ALL_LINKS = [
     "url": "21st.dev",
     "href": "https://21st.dev",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7703,6 +8760,7 @@ window.ALL_LINKS = [
     "url": "unicorn.studio",
     "href": "https://unicorn.studio",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7711,6 +8769,7 @@ window.ALL_LINKS = [
     "url": "temp-mail.org",
     "href": "https://temp-mail.org",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7719,6 +8778,7 @@ window.ALL_LINKS = [
     "url": "squircley.app",
     "href": "https://squircley.app",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7727,6 +8787,7 @@ window.ALL_LINKS = [
     "url": "it-tools.tech",
     "href": "https://it-tools.tech",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7735,6 +8796,7 @@ window.ALL_LINKS = [
     "url": "fonty.io",
     "href": "https://fonty.io",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7743,6 +8805,7 @@ window.ALL_LINKS = [
     "url": "patternpad.com",
     "href": "https://patternpad.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7751,6 +8814,7 @@ window.ALL_LINKS = [
     "url": "everysize.kibalabs.com",
     "href": "https://everysize.kibalabs.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7759,6 +8823,7 @@ window.ALL_LINKS = [
     "url": "felt.com",
     "href": "https://felt.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7767,6 +8832,7 @@ window.ALL_LINKS = [
     "url": "sandify.org",
     "href": "https://sandify.org",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7775,6 +8841,7 @@ window.ALL_LINKS = [
     "url": "cloudconvert.com",
     "href": "https://cloudconvert.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7783,6 +8850,7 @@ window.ALL_LINKS = [
     "url": "app.stage.so",
     "href": "https://app.stage.so",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7791,6 +8859,7 @@ window.ALL_LINKS = [
     "url": "app.rawgraphs.io",
     "href": "https://app.rawgraphs.io",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7799,6 +8868,7 @@ window.ALL_LINKS = [
     "url": "gochyu.com",
     "href": "https://gochyu.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7807,6 +8877,7 @@ window.ALL_LINKS = [
     "url": "function12.io",
     "href": "https://function12.io",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7815,6 +8886,7 @@ window.ALL_LINKS = [
     "url": "codepen.io",
     "href": "https://codepen.io",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7823,6 +8895,7 @@ window.ALL_LINKS = [
     "url": "whatcms.org",
     "href": "https://whatcms.org",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7831,6 +8904,7 @@ window.ALL_LINKS = [
     "url": "10web.tools",
     "href": "https://10web.tools",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7839,6 +8913,7 @@ window.ALL_LINKS = [
     "url": "css.gg/app",
     "href": "https://css.gg/app",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7847,6 +8922,7 @@ window.ALL_LINKS = [
     "url": "bolt.new",
     "href": "https://bolt.new",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7855,6 +8931,7 @@ window.ALL_LINKS = [
     "url": "devdocs.io",
     "href": "https://devdocs.io",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7863,6 +8940,7 @@ window.ALL_LINKS = [
     "url": "vivify.mkcreative.cz",
     "href": "https://vivify.mkcreative.cz",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7871,6 +8949,7 @@ window.ALL_LINKS = [
     "url": "tinywow.com",
     "href": "https://tinywow.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7879,6 +8958,7 @@ window.ALL_LINKS = [
     "url": "nibbler.insites.com",
     "href": "https://nibbler.insites.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7887,6 +8967,7 @@ window.ALL_LINKS = [
     "url": "poet.so",
     "href": "https://poet.so",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7895,6 +8976,7 @@ window.ALL_LINKS = [
     "url": "app.plask.ai",
     "href": "https://app.plask.ai",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7903,6 +8985,7 @@ window.ALL_LINKS = [
     "url": "carbon.now.sh",
     "href": "https://carbon.now.sh",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7911,6 +8994,7 @@ window.ALL_LINKS = [
     "url": "getgrav.org",
     "href": "https://getgrav.org",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7919,6 +9003,7 @@ window.ALL_LINKS = [
     "url": "fontinlogo.com",
     "href": "https://fontinlogo.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7927,6 +9012,7 @@ window.ALL_LINKS = [
     "url": "fronty.com",
     "href": "https://fronty.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7935,6 +9021,7 @@ window.ALL_LINKS = [
     "url": "flowbase.co/clone",
     "href": "https://flowbase.co/clone",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7943,6 +9030,7 @@ window.ALL_LINKS = [
     "url": "dafont.com",
     "href": "https://dafont.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7951,6 +9039,7 @@ window.ALL_LINKS = [
     "url": "ide.onelang.io",
     "href": "https://ide.onelang.io",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7959,6 +9048,7 @@ window.ALL_LINKS = [
     "url": "finsweet.com",
     "href": "https://finsweet.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7967,6 +9057,7 @@ window.ALL_LINKS = [
     "url": "1001fonts.com",
     "href": "https://1001fonts.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7975,6 +9066,7 @@ window.ALL_LINKS = [
     "url": "hiddentools.dev",
     "href": "https://hiddentools.dev",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7983,6 +9075,7 @@ window.ALL_LINKS = [
     "url": "coolbackgrounds.io",
     "href": "https://coolbackgrounds.io",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7991,6 +9084,7 @@ window.ALL_LINKS = [
     "url": "remove.bg",
     "href": "https://remove.bg",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -7999,6 +9093,7 @@ window.ALL_LINKS = [
     "url": "onepagelove.com",
     "href": "https://onepagelove.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -8007,6 +9102,7 @@ window.ALL_LINKS = [
     "url": "mega.nz",
     "href": "https://mega.nz",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -8015,6 +9111,7 @@ window.ALL_LINKS = [
     "url": "qrcoder.ru",
     "href": "https://qrcoder.ru",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -8023,6 +9120,7 @@ window.ALL_LINKS = [
     "url": "octopus.do",
     "href": "https://octopus.do",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -8031,6 +9129,7 @@ window.ALL_LINKS = [
     "url": "ru.files.fm",
     "href": "https://ru.files.fm",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -8039,6 +9138,7 @@ window.ALL_LINKS = [
     "url": "stripo.email",
     "href": "https://stripo.email",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -8047,6 +9147,7 @@ window.ALL_LINKS = [
     "url": "themewagon.com",
     "href": "https://themewagon.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -8055,6 +9156,7 @@ window.ALL_LINKS = [
     "url": "pinegrow.com",
     "href": "https://pinegrow.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -8063,6 +9165,7 @@ window.ALL_LINKS = [
     "url": "abha.page",
     "href": "https://abha.page",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -8071,6 +9174,7 @@ window.ALL_LINKS = [
     "url": "loading.io",
     "href": "https://loading.io",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -8079,6 +9183,7 @@ window.ALL_LINKS = [
     "url": "siteliner.com",
     "href": "https://siteliner.com",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -8087,6 +9192,7 @@ window.ALL_LINKS = [
     "url": "astro.build",
     "href": "https://astro.build",
     "category": "Developer",
+    "shortCategory": "Developer",
     "page": "developer.html",
     "color": "#4ade80"
   },
@@ -8095,6 +9201,7 @@ window.ALL_LINKS = [
     "url": "uisfx.com",
     "href": "https://uisfx.com/",
     "category": "Music Design",
+    "shortCategory": "Music",
     "page": "music.html",
     "color": "#f472b6"
   },
@@ -8103,6 +9210,7 @@ window.ALL_LINKS = [
     "url": "pinokio.co",
     "href": "https://pinokio.co/posts/01kty98bwb20619q6274768kcm",
     "category": "Music Design",
+    "shortCategory": "Music",
     "page": "music.html",
     "color": "#f472b6"
   },
@@ -8111,6 +9219,7 @@ window.ALL_LINKS = [
     "url": "freesound.org",
     "href": "https://freesound.org",
     "category": "Music Design",
+    "shortCategory": "Music",
     "page": "music.html",
     "color": "#f472b6"
   },
@@ -8119,6 +9228,7 @@ window.ALL_LINKS = [
     "url": "ncs.io",
     "href": "https://ncs.io",
     "category": "Music Design",
+    "shortCategory": "Music",
     "page": "music.html",
     "color": "#f472b6"
   },
@@ -8127,6 +9237,7 @@ window.ALL_LINKS = [
     "url": "uppbeat.io",
     "href": "https://uppbeat.io",
     "category": "Music Design",
+    "shortCategory": "Music",
     "page": "music.html",
     "color": "#f472b6"
   },
@@ -8135,6 +9246,7 @@ window.ALL_LINKS = [
     "url": "vocalremover.org",
     "href": "https://vocalremover.org",
     "category": "Music Design",
+    "shortCategory": "Music",
     "page": "music.html",
     "color": "#f472b6"
   },
@@ -8143,6 +9255,7 @@ window.ALL_LINKS = [
     "url": "mubert.com",
     "href": "https://mubert.com",
     "category": "Music Design",
+    "shortCategory": "Music",
     "page": "music.html",
     "color": "#f472b6"
   },
@@ -8151,6 +9264,7 @@ window.ALL_LINKS = [
     "url": "noisefx.ru",
     "href": "https://noisefx.ru",
     "category": "Music Design",
+    "shortCategory": "Music",
     "page": "music.html",
     "color": "#f472b6"
   },
@@ -8159,6 +9273,7 @@ window.ALL_LINKS = [
     "url": "webbrowsertools.com/convert-to-mp3",
     "href": "https://webbrowsertools.com/convert-to-mp3",
     "category": "Music Design",
+    "shortCategory": "Music",
     "page": "music.html",
     "color": "#f472b6"
   },
@@ -8167,6 +9282,7 @@ window.ALL_LINKS = [
     "url": "zvukipro.com",
     "href": "https://zvukipro.com",
     "category": "Music Design",
+    "shortCategory": "Music",
     "page": "music.html",
     "color": "#f472b6"
   },
@@ -8175,6 +9291,7 @@ window.ALL_LINKS = [
     "url": "soundtrap.com",
     "href": "https://soundtrap.com",
     "category": "Music Design",
+    "shortCategory": "Music",
     "page": "music.html",
     "color": "#f472b6"
   },
@@ -8183,6 +9300,7 @@ window.ALL_LINKS = [
     "url": "sketchrepo.com",
     "href": "https://sketchrepo.com",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8191,6 +9309,7 @@ window.ALL_LINKS = [
     "url": "gameuidatabase.com",
     "href": "https://gameuidatabase.com",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8199,6 +9318,7 @@ window.ALL_LINKS = [
     "url": "html5up.net",
     "href": "https://html5up.net",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8207,6 +9327,7 @@ window.ALL_LINKS = [
     "url": "freedesignresources.net",
     "href": "https://freedesignresources.net",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8215,6 +9336,7 @@ window.ALL_LINKS = [
     "url": "mockupworld.co",
     "href": "https://mockupworld.co",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8223,6 +9345,7 @@ window.ALL_LINKS = [
     "url": "metaflop.com/modulator",
     "href": "https://metaflop.com/modulator",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8231,6 +9354,7 @@ window.ALL_LINKS = [
     "url": "uizard.io",
     "href": "https://uizard.io",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8239,6 +9363,7 @@ window.ALL_LINKS = [
     "url": "mockups-design.com",
     "href": "https://mockups-design.com",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8247,6 +9372,7 @@ window.ALL_LINKS = [
     "url": "figside.com",
     "href": "https://figside.com",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8255,6 +9381,7 @@ window.ALL_LINKS = [
     "url": "themockup.club",
     "href": "https://themockup.club",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8263,6 +9390,7 @@ window.ALL_LINKS = [
     "url": "reallygoodemails.com",
     "href": "https://reallygoodemails.com",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8271,6 +9399,7 @@ window.ALL_LINKS = [
     "url": "psdrepo.com",
     "href": "https://psdrepo.com",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8279,6 +9408,7 @@ window.ALL_LINKS = [
     "url": "ls.graphics",
     "href": "https://ls.graphics",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8287,6 +9417,7 @@ window.ALL_LINKS = [
     "url": "blobs.app",
     "href": "https://blobs.app",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8295,6 +9426,7 @@ window.ALL_LINKS = [
     "url": "brandingstyleguides.com/guide",
     "href": "https://brandingstyleguides.com/guide",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8303,6 +9435,7 @@ window.ALL_LINKS = [
     "url": "logoipsum.com",
     "href": "https://logoipsum.com",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8311,6 +9444,7 @@ window.ALL_LINKS = [
     "url": "artboard.studio",
     "href": "https://artboard.studio",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8319,6 +9453,7 @@ window.ALL_LINKS = [
     "url": "glassgenerator.netlify.app",
     "href": "https://glassgenerator.netlify.app",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8327,6 +9462,7 @@ window.ALL_LINKS = [
     "url": "figmacrush.com",
     "href": "https://figmacrush.com",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8335,6 +9471,7 @@ window.ALL_LINKS = [
     "url": "webthemez.com",
     "href": "https://webthemez.com",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8343,6 +9480,7 @@ window.ALL_LINKS = [
     "url": "unblast.com",
     "href": "https://unblast.com",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8351,6 +9489,7 @@ window.ALL_LINKS = [
     "url": "fonts.google.com/icons",
     "href": "https://fonts.google.com/icons",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8359,6 +9498,7 @@ window.ALL_LINKS = [
     "url": "freebiesui.com",
     "href": "https://freebiesui.com",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8367,6 +9507,7 @@ window.ALL_LINKS = [
     "url": "365cons.com",
     "href": "https://365cons.com",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8375,6 +9516,7 @@ window.ALL_LINKS = [
     "url": "freebiesupply.com",
     "href": "https://freebiesupply.com",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8383,6 +9525,7 @@ window.ALL_LINKS = [
     "url": "fontjoy.com",
     "href": "https://fontjoy.com",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8391,6 +9534,7 @@ window.ALL_LINKS = [
     "url": "xdguru.com",
     "href": "https://xdguru.com",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8399,6 +9543,7 @@ window.ALL_LINKS = [
     "url": "mypopups.com",
     "href": "https://mypopups.com",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8407,6 +9552,7 @@ window.ALL_LINKS = [
     "url": "freepik.com",
     "href": "https://freepik.com",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8415,6 +9561,7 @@ window.ALL_LINKS = [
     "url": "lottiefiles.com",
     "href": "https://lottiefiles.com",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8423,6 +9570,7 @@ window.ALL_LINKS = [
     "url": "glyphy.io",
     "href": "https://glyphy.io",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8431,6 +9579,7 @@ window.ALL_LINKS = [
     "url": "depositphotos.com",
     "href": "https://depositphotos.com",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8439,6 +9588,7 @@ window.ALL_LINKS = [
     "url": "blush.design",
     "href": "https://blush.design",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8447,6 +9597,7 @@ window.ALL_LINKS = [
     "url": "spline.design",
     "href": "https://spline.design",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8455,6 +9606,7 @@ window.ALL_LINKS = [
     "url": "mockupcloud.com",
     "href": "https://mockupcloud.com",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8463,6 +9615,7 @@ window.ALL_LINKS = [
     "url": "iconduck.com",
     "href": "https://iconduck.com",
     "category": "Web Design",
+    "shortCategory": "Web",
     "page": "web-design.html",
     "color": "#fb923c"
   },
@@ -8471,6 +9624,7 @@ window.ALL_LINKS = [
     "url": "nosubscription.org",
     "href": "https://nosubscription.org/",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8479,6 +9633,7 @@ window.ALL_LINKS = [
     "url": "bookracy.com",
     "href": "https://bookracy.com/",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8487,6 +9642,7 @@ window.ALL_LINKS = [
     "url": "uidesigndaily.com",
     "href": "https://uidesigndaily.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8495,6 +9651,7 @@ window.ALL_LINKS = [
     "url": "justfree.io",
     "href": "https://justfree.io",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8503,6 +9660,7 @@ window.ALL_LINKS = [
     "url": "github.com/microsoft",
     "href": "https://github.com/microsoft",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8511,6 +9669,7 @@ window.ALL_LINKS = [
     "url": "curationofcurations.com",
     "href": "https://curationofcurations.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8519,6 +9678,7 @@ window.ALL_LINKS = [
     "url": "mobbin.com",
     "href": "https://mobbin.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8527,6 +9687,7 @@ window.ALL_LINKS = [
     "url": "arxiv.org",
     "href": "https://arxiv.org",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8535,6 +9696,7 @@ window.ALL_LINKS = [
     "url": "browsingmode.com",
     "href": "https://browsingmode.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8543,6 +9705,7 @@ window.ALL_LINKS = [
     "url": "appmotion.design",
     "href": "https://appmotion.design",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8551,6 +9714,7 @@ window.ALL_LINKS = [
     "url": "promptingguide.ai",
     "href": "https://promptingguide.ai",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8559,6 +9723,7 @@ window.ALL_LINKS = [
     "url": "awesomemarketingwebsites.com",
     "href": "https://awesomemarketingwebsites.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8567,6 +9732,7 @@ window.ALL_LINKS = [
     "url": "designvault.io",
     "href": "https://designvault.io",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8575,6 +9741,7 @@ window.ALL_LINKS = [
     "url": "navbar.gallery",
     "href": "https://navbar.gallery",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8583,6 +9750,7 @@ window.ALL_LINKS = [
     "url": "baryum.co",
     "href": "https://baryum.co",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8591,6 +9759,7 @@ window.ALL_LINKS = [
     "url": "patttterns.net",
     "href": "https://patttterns.net",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8599,6 +9768,7 @@ window.ALL_LINKS = [
     "url": "fmhy.net",
     "href": "https://fmhy.net",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8607,6 +9777,7 @@ window.ALL_LINKS = [
     "url": "papersizes.io",
     "href": "https://papersizes.io",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8615,6 +9786,7 @@ window.ALL_LINKS = [
     "url": "pageflows.com",
     "href": "https://pageflows.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8623,6 +9795,7 @@ window.ALL_LINKS = [
     "url": "github.com",
     "href": "https://github.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8631,6 +9804,7 @@ window.ALL_LINKS = [
     "url": "mockuuups.studio",
     "href": "https://mockuuups.studio",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8639,6 +9813,7 @@ window.ALL_LINKS = [
     "url": "uigarage.net",
     "href": "https://uigarage.net",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8647,6 +9822,7 @@ window.ALL_LINKS = [
     "url": "24timezones.com",
     "href": "https://24timezones.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8655,6 +9831,7 @@ window.ALL_LINKS = [
     "url": "smartmockups.com",
     "href": "https://smartmockups.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8663,6 +9840,7 @@ window.ALL_LINKS = [
     "url": "app.itg.digital",
     "href": "https://app.itg.digital",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8671,6 +9849,7 @@ window.ALL_LINKS = [
     "url": "supercreative.design",
     "href": "https://supercreative.design",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8679,6 +9858,7 @@ window.ALL_LINKS = [
     "url": "shapedividers.com",
     "href": "https://shapedividers.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8687,6 +9867,7 @@ window.ALL_LINKS = [
     "url": "themefisher.com",
     "href": "https://themefisher.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8695,6 +9876,7 @@ window.ALL_LINKS = [
     "url": "textpop3d.web.app",
     "href": "https://textpop3d.web.app",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8703,6 +9885,7 @@ window.ALL_LINKS = [
     "url": "templatemo.com",
     "href": "https://templatemo.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8711,6 +9894,7 @@ window.ALL_LINKS = [
     "url": "vidsplay.com",
     "href": "https://vidsplay.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8719,6 +9903,7 @@ window.ALL_LINKS = [
     "url": "app.milanote.com",
     "href": "https://app.milanote.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8727,6 +9912,7 @@ window.ALL_LINKS = [
     "url": "monsterspost.com",
     "href": "https://monsterspost.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8735,6 +9921,7 @@ window.ALL_LINKS = [
     "url": "fontsquirrel.com",
     "href": "https://fontsquirrel.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8743,6 +9930,7 @@ window.ALL_LINKS = [
     "url": "tastewp.com",
     "href": "https://tastewp.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8751,6 +9939,7 @@ window.ALL_LINKS = [
     "url": "easel.ly",
     "href": "https://easel.ly",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8759,6 +9948,7 @@ window.ALL_LINKS = [
     "url": "simplepdf.eu",
     "href": "https://simplepdf.eu",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8767,6 +9957,7 @@ window.ALL_LINKS = [
     "url": "omatsuri.app",
     "href": "https://omatsuri.app",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8775,6 +9966,7 @@ window.ALL_LINKS = [
     "url": "land-book.com",
     "href": "https://land-book.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8783,6 +9975,7 @@ window.ALL_LINKS = [
     "url": "velvetyne.fr",
     "href": "https://velvetyne.fr",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8791,6 +9984,7 @@ window.ALL_LINKS = [
     "url": "app.haikei.app",
     "href": "https://app.haikei.app",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8799,6 +9993,7 @@ window.ALL_LINKS = [
     "url": "sketch2code.azurewebsites.net",
     "href": "https://sketch2code.azurewebsites.net",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8807,6 +10002,7 @@ window.ALL_LINKS = [
     "url": "myskotom.ru",
     "href": "https://myskotom.ru",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8815,6 +10011,7 @@ window.ALL_LINKS = [
     "url": "tiny-helpers.dev",
     "href": "https://tiny-helpers.dev",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8823,6 +10020,7 @@ window.ALL_LINKS = [
     "url": "airtable.com",
     "href": "https://airtable.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8831,6 +10029,7 @@ window.ALL_LINKS = [
     "url": "toolfolio.io",
     "href": "https://toolfolio.io",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8839,6 +10038,7 @@ window.ALL_LINKS = [
     "url": "unicode-table.com/en/sets",
     "href": "https://unicode-table.com/en/sets",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8847,6 +10047,7 @@ window.ALL_LINKS = [
     "url": "30secondsofcode.org",
     "href": "https://30secondsofcode.org",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8855,6 +10056,7 @@ window.ALL_LINKS = [
     "url": "en.boardgamearena.com",
     "href": "https://en.boardgamearena.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8863,6 +10065,7 @@ window.ALL_LINKS = [
     "url": "keep.google.com",
     "href": "https://keep.google.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8871,6 +10074,7 @@ window.ALL_LINKS = [
     "url": "screenlane.com",
     "href": "https://screenlane.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8879,6 +10083,7 @@ window.ALL_LINKS = [
     "url": "3dwebsites.design",
     "href": "https://3dwebsites.design",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8887,6 +10092,7 @@ window.ALL_LINKS = [
     "url": "landingpagesexplained.com",
     "href": "https://landingpagesexplained.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8895,6 +10101,7 @@ window.ALL_LINKS = [
     "url": "godly.website",
     "href": "https://godly.website",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8903,6 +10110,7 @@ window.ALL_LINKS = [
     "url": "uxhints.com",
     "href": "https://uxhints.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8911,6 +10119,7 @@ window.ALL_LINKS = [
     "url": "andreasbm.github.io",
     "href": "https://andreasbm.github.io",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8919,6 +10128,7 @@ window.ALL_LINKS = [
     "url": "learnprompting.org",
     "href": "https://learnprompting.org",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8927,6 +10137,7 @@ window.ALL_LINKS = [
     "url": "ifixit.com",
     "href": "https://ifixit.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8935,6 +10146,7 @@ window.ALL_LINKS = [
     "url": "temporarynumber.com",
     "href": "https://temporarynumber.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8943,6 +10155,7 @@ window.ALL_LINKS = [
     "url": "free-for.dev",
     "href": "https://free-for.dev",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8951,6 +10164,7 @@ window.ALL_LINKS = [
     "url": "dsgners.ru",
     "href": "https://dsgners.ru",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8959,6 +10173,7 @@ window.ALL_LINKS = [
     "url": "items.design",
     "href": "https://items.design",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8967,6 +10182,7 @@ window.ALL_LINKS = [
     "url": "fontstorage.com",
     "href": "https://fontstorage.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8975,6 +10191,7 @@ window.ALL_LINKS = [
     "url": "grainient.supply",
     "href": "https://grainient.supply",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8983,6 +10200,7 @@ window.ALL_LINKS = [
     "url": "awwwards.com",
     "href": "https://awwwards.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8991,6 +10209,7 @@ window.ALL_LINKS = [
     "url": "versus.com",
     "href": "https://versus.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -8999,6 +10218,7 @@ window.ALL_LINKS = [
     "url": "eycndy.co",
     "href": "https://eycndy.co",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9007,6 +10227,7 @@ window.ALL_LINKS = [
     "url": "a-fresh.website",
     "href": "https://a-fresh.website",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9015,6 +10236,7 @@ window.ALL_LINKS = [
     "url": "paperme.pixzens.com",
     "href": "https://paperme.pixzens.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9023,6 +10245,7 @@ window.ALL_LINKS = [
     "url": "typespiration.com",
     "href": "https://typespiration.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9031,6 +10254,7 @@ window.ALL_LINKS = [
     "url": "openclaw-course.pages",
     "href": "https://openclaw-course.pages",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9039,6 +10263,7 @@ window.ALL_LINKS = [
     "url": "hotkeycheatsheet.com",
     "href": "https://hotkeycheatsheet.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9047,6 +10272,7 @@ window.ALL_LINKS = [
     "url": "animagraffs.com",
     "href": "https://animagraffs.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9055,6 +10281,7 @@ window.ALL_LINKS = [
     "url": "uxwoodsy.notion",
     "href": "https://uxwoodsy.notion",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9063,6 +10290,7 @@ window.ALL_LINKS = [
     "url": "tgpages.com",
     "href": "https://tgpages.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9071,6 +10299,7 @@ window.ALL_LINKS = [
     "url": "viewport-ui.design",
     "href": "https://viewport-ui.design",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9079,6 +10308,7 @@ window.ALL_LINKS = [
     "url": "illustrationsuniverse.com",
     "href": "https://illustrationsuniverse.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9087,6 +10317,7 @@ window.ALL_LINKS = [
     "url": "convertr.org",
     "href": "https://convertr.org",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9095,6 +10326,7 @@ window.ALL_LINKS = [
     "url": "nicelydone.club/apps",
     "href": "https://nicelydone.club/apps",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9103,6 +10335,7 @@ window.ALL_LINKS = [
     "url": "cursor.design",
     "href": "https://cursor.design",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9111,6 +10344,7 @@ window.ALL_LINKS = [
     "url": "ls.graphics/ui-ux-tools",
     "href": "https://ls.graphics/ui-ux-tools",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9119,6 +10353,7 @@ window.ALL_LINKS = [
     "url": "facecheck.id",
     "href": "https://facecheck.id",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9127,6 +10362,7 @@ window.ALL_LINKS = [
     "url": "curated.design",
     "href": "https://curated.design",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9135,6 +10371,7 @@ window.ALL_LINKS = [
     "url": "uxpile.com",
     "href": "https://uxpile.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9143,6 +10380,7 @@ window.ALL_LINKS = [
     "url": "calltoinspiration.com",
     "href": "https://calltoinspiration.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9151,6 +10389,7 @@ window.ALL_LINKS = [
     "url": "thevalleyofcode.com",
     "href": "https://thevalleyofcode.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9159,6 +10398,7 @@ window.ALL_LINKS = [
     "url": "lawsofux.com",
     "href": "https://lawsofux.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9167,6 +10407,7 @@ window.ALL_LINKS = [
     "url": "fontshare.com",
     "href": "https://fontshare.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9175,6 +10416,7 @@ window.ALL_LINKS = [
     "url": "namecheck.com",
     "href": "https://namecheck.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9183,6 +10425,7 @@ window.ALL_LINKS = [
     "url": "freefaces.gallery",
     "href": "https://freefaces.gallery",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9191,6 +10434,7 @@ window.ALL_LINKS = [
     "url": "uisources.com",
     "href": "https://uisources.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9199,6 +10443,7 @@ window.ALL_LINKS = [
     "url": "worlduiresources.com",
     "href": "https://worlduiresources.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9207,6 +10452,7 @@ window.ALL_LINKS = [
     "url": "y2down.cc",
     "href": "https://y2down.cc",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9215,6 +10461,7 @@ window.ALL_LINKS = [
     "url": "gaugan.org",
     "href": "https://gaugan.org",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9223,6 +10470,7 @@ window.ALL_LINKS = [
     "url": "vccgenerator.org",
     "href": "https://vccgenerator.org",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9231,6 +10479,7 @@ window.ALL_LINKS = [
     "url": "app.box.com",
     "href": "https://app.box.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9239,6 +10488,7 @@ window.ALL_LINKS = [
     "url": "land-collector.com",
     "href": "https://land-collector.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9247,6 +10497,7 @@ window.ALL_LINKS = [
     "url": "glyphrstudio.com",
     "href": "https://glyphrstudio.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9255,6 +10506,7 @@ window.ALL_LINKS = [
     "url": "vexels.com",
     "href": "https://vexels.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9263,6 +10515,7 @@ window.ALL_LINKS = [
     "url": "chamjo.design",
     "href": "https://chamjo.design",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9271,6 +10524,7 @@ window.ALL_LINKS = [
     "url": "scrnshts.club",
     "href": "https://scrnshts.club",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9279,6 +10533,7 @@ window.ALL_LINKS = [
     "url": "adstransparency.google.com",
     "href": "https://adstransparency.google.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9287,6 +10542,7 @@ window.ALL_LINKS = [
     "url": "designresourc.es",
     "href": "https://designresourc.es",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9295,6 +10551,7 @@ window.ALL_LINKS = [
     "url": "fakeupdate.net",
     "href": "https://fakeupdate.net",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9303,6 +10560,7 @@ window.ALL_LINKS = [
     "url": "tiles.bio",
     "href": "https://tiles.bio",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9311,6 +10569,7 @@ window.ALL_LINKS = [
     "url": "same.energy",
     "href": "https://same.energy",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9319,6 +10578,7 @@ window.ALL_LINKS = [
     "url": "ecomm.design",
     "href": "https://ecomm.design",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9327,6 +10587,7 @@ window.ALL_LINKS = [
     "url": "flowstep.design",
     "href": "https://flowstep.design",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9335,6 +10596,7 @@ window.ALL_LINKS = [
     "url": "saasframe.io",
     "href": "https://saasframe.io",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9343,6 +10605,7 @@ window.ALL_LINKS = [
     "url": "fonts-online.ru",
     "href": "https://fonts-online.ru",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9351,6 +10614,7 @@ window.ALL_LINKS = [
     "url": "learn-anything.xyz",
     "href": "https://learn-anything.xyz",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9359,6 +10623,7 @@ window.ALL_LINKS = [
     "url": "uitoolz.com",
     "href": "https://uitoolz.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9367,6 +10632,7 @@ window.ALL_LINKS = [
     "url": "sitesee.co",
     "href": "https://sitesee.co",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9375,6 +10641,7 @@ window.ALL_LINKS = [
     "url": "appshots.design",
     "href": "https://appshots.design",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9383,6 +10650,7 @@ window.ALL_LINKS = [
     "url": "codetote.netlify.app",
     "href": "https://codetote.netlify.app",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9391,6 +10659,7 @@ window.ALL_LINKS = [
     "url": "uxtimeline.com",
     "href": "https://uxtimeline.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9399,6 +10668,7 @@ window.ALL_LINKS = [
     "url": "curations.tech",
     "href": "https://curations.tech",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9407,6 +10677,7 @@ window.ALL_LINKS = [
     "url": "lalamu.studio",
     "href": "https://lalamu.studio",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9415,6 +10686,7 @@ window.ALL_LINKS = [
     "url": "collectui.com",
     "href": "https://collectui.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9423,6 +10695,7 @@ window.ALL_LINKS = [
     "url": "landings.dev",
     "href": "https://landings.dev",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9431,6 +10704,7 @@ window.ALL_LINKS = [
     "url": "bentogrids.com",
     "href": "https://bentogrids.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9439,6 +10713,7 @@ window.ALL_LINKS = [
     "url": "uxbookmark.com",
     "href": "https://uxbookmark.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9447,6 +10722,7 @@ window.ALL_LINKS = [
     "url": "fakeclients.com",
     "href": "https://fakeclients.com",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   },
@@ -9455,6 +10731,7 @@ window.ALL_LINKS = [
     "url": "refero.design",
     "href": "https://refero.design",
     "category": "Help Resources",
+    "shortCategory": "Help",
     "page": "help.html",
     "color": "#818cf8"
   }

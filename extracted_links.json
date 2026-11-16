@@ -1,6 +1,38 @@
 {
   "UX": [
     {
+      "name": "Explore 207 polished React and Next.js components, organized across 30 categories.",
+      "url": "opensourceui.in"
+    },
+    {
+      "name": "Open-Source UI elements made with CSS or Tailwind",
+      "url": "uiverse.io"
+    },
+    {
+      "name": "Animated Components",
+      "url": "ui.watermelon.sh"
+    },
+    {
+      "name": "154 animated components, all free. Including 58 just added. Open source, built to drop into any shadcn/ui project.",
+      "url": "cult-ui.com"
+    },
+    {
+      "name": "React Components",
+      "url": "reactbits.dev"
+    },
+    {
+      "name": "React UI Components",
+      "url": "ui.aceternity.com"
+    },
+    {
+      "name": "Free animated React components",
+      "url": "uselayouts.com"
+    },
+    {
+      "name": "Seamless-loop WebGL backgrounds. Preview any of them in motion, then copy the code or grab the MP4",
+      "url": "scrollshaders.com"
+    },
+    {
       "name": "Browse the best footer designs",
       "url": "footer.design"
     },
@@ -386,6 +418,18 @@
     }
   ],
   "AI Services": [
+    {
+      "name": "Reverse engineer anything",
+      "url": "awesomerea.org"
+    },
+    {
+      "name": "Edit Text in Image Online",
+      "url": "photext.ai"
+    },
+    {
+      "name": "Render Anything Engine",
+      "url": "raea.io"
+    },
     {
       "name": "A curated library of scroll-driven templates and prompts. Copy one, paste it into your AI, and launch a site that doesn't look AI-made.",
       "url": "scrolltide.co"

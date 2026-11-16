@@ -1,0 +1,18 @@
+{
+  "name": "generalist-bible",
+  "version": "2.0.0",
+  "description": "Generalist Bible - Curated tools, resources & services for creatives",
+  "main": "generate_links_data.js",
+  "scripts": {
+    "sync": "node generate_links_data.js",
+    "watch": "node watch_links.js"
+  },
+  "keywords": [
+    "directory",
+    "resources",
+    "design",
+    "tools"
+  ],
+  "author": "Evghenii Conev",
+  "license": "ISC"
+}

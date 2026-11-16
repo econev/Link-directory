@@ -46,7 +46,6 @@ function initSearch() {
       if (isVisible) visibleCount++;
     });
 
-    // Update count in header if present
     const countEl = document.querySelector('.links-count');
     if (countEl) {
       if (q) {
@@ -56,6 +55,34 @@ function initSearch() {
       }
     }
   });
+}
+
+// ===== ESCAPE UTILS =====
+function escapeHtml(str) {
+  if (!str) return '';
+  return str
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#039;');
+}
+
+function escapeRegExp(str) {
+  return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+function highlight(text, query) {
+  if (!text) return '';
+  if (!query) return escapeHtml(text);
+  const escapedText = escapeHtml(text);
+  const escapedQuery = escapeRegExp(escapeHtml(query));
+  try {
+    const regex = new RegExp(`(${escapedQuery})`, 'gi');
+    return escapedText.replace(regex, '<mark>$1</mark>');
+  } catch (e) {
+    return escapedText;
+  }
 }
 
 // ===== HERO SEARCH (Global across all pages and links) =====
@@ -71,33 +98,6 @@ function initHeroSearch() {
   const catCards = document.querySelectorAll('.cat-card');
 
   let selectedIndex = -1;
-
-  function escapeHtml(str) {
-    if (!str) return '';
-    return str
-      .replace(/&/g, '&amp;')
-      .replace(/</g, '&lt;')
-      .replace(/>/g, '&gt;')
-      .replace(/"/g, '&quot;')
-      .replace(/'/g, '&#039;');
-  }
-
-  function escapeRegExp(str) {
-    return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  }
-
-  function highlight(text, query) {
-    if (!text) return '';
-    if (!query) return escapeHtml(text);
-    const escapedText = escapeHtml(text);
-    const escapedQuery = escapeRegExp(escapeHtml(query));
-    try {
-      const regex = new RegExp(`(${escapedQuery})`, 'gi');
-      return escapedText.replace(regex, '<mark>$1</mark>');
-    } catch (e) {
-      return escapedText;
-    }
-  }
 
   function performSearch() {
     const rawVal = input.value;
@@ -184,7 +184,7 @@ function initHeroSearch() {
       resultsList.innerHTML = `
         <div class="search-no-results">
           No resources found matching "<strong>${escapeHtml(rawVal.trim())}</strong>"
-          <span>Try searching for keywords like "cad", "editor", "video", "ai", "icons", etc.</span>
+          <span>Try searching for keywords like "react", "component", "cad", "ai", "video", "icons", etc.</span>
         </div>
       `;
       return;
@@ -283,29 +283,101 @@ function initHeroSearch() {
 
 // ===== RECENT LINKS FILTER (Index Page) =====
 function initRecentLinks() {
-  const pills = document.querySelectorAll('.recent-pill');
-  const plaques = document.querySelectorAll('.recent-plaque');
-  if (!pills.length || !plaques.length) return;
+  const pillsContainer = document.querySelector('.recent-filter-pills');
+  if (!pillsContainer) return;
 
-  pills.forEach(pill => {
-    pill.addEventListener('click', () => {
-      pills.forEach(p => p.classList.remove('active'));
-      pill.classList.add('active');
-      const filter = pill.getAttribute('data-filter');
+  pillsContainer.onclick = (e) => {
+    const pill = e.target.closest('.recent-pill');
+    if (!pill) return;
+    const filter = pill.getAttribute('data-filter');
+    const allPills = pillsContainer.querySelectorAll('.recent-pill');
+    allPills.forEach(p => p.classList.remove('active'));
+    pill.classList.add('active');
 
-      plaques.forEach(plaque => {
-        const cat = plaque.getAttribute('data-cat') || '';
-        if (filter === 'all' || cat.toLowerCase() === filter.toLowerCase()) {
-          plaque.style.display = '';
-          setTimeout(() => { plaque.style.opacity = '1'; plaque.style.transform = ''; }, 10);
-        } else {
-          plaque.style.opacity = '0';
-          plaque.style.transform = 'scale(0.95)';
-          setTimeout(() => { if (plaque.style.opacity === '0') plaque.style.display = 'none'; }, 200);
-        }
-      });
+    const plaques = document.querySelectorAll('.recent-plaque');
+    plaques.forEach(plaque => {
+      const cat = plaque.getAttribute('data-cat') || '';
+      if (filter === 'all' || cat.toLowerCase() === filter.toLowerCase()) {
+        plaque.style.display = '';
+        setTimeout(() => { plaque.style.opacity = '1'; plaque.style.transform = ''; }, 10);
+      } else {
+        plaque.style.opacity = '0';
+        plaque.style.transform = 'scale(0.95)';
+        setTimeout(() => { if (plaque.style.opacity === '0') plaque.style.display = 'none'; }, 200);
+      }
     });
-  });
+  };
+}
+
+// ===== CLIENT-SIDE AUTO-SYNC FROM HTML FILES (if fetch is available) =====
+async function autoSyncFromHTML() {
+  const heroSearch = document.getElementById('heroSearch');
+  if (!heroSearch) return; // Only needed on home page
+
+  const catFiles = [
+    { file: 'uiux.html', title: 'UI / UX', color: '#f5c518' },
+    { file: 'ai-services.html', title: 'AI Services', color: '#00e5ff' },
+    { file: 'software.html', title: 'Software', color: '#ff6b35' },
+    { file: 'illustrations.html', title: 'Illustrations', color: '#a855f7' },
+    { file: 'photos-video.html', title: 'Photos / Video', color: '#22d3ee' },
+    { file: 'colors.html', title: 'Colors', color: '#f5c518' },
+    { file: 'developer.html', title: 'Developer', color: '#4ade80' },
+    { file: 'music.html', title: 'Music Design', color: '#f472b6' },
+    { file: 'web-design.html', title: 'Web Design', color: '#fb923c' },
+    { file: 'help.html', title: 'Help Resources', color: '#818cf8' }
+  ];
+
+  try {
+    const parser = new DOMParser();
+    const fetchPromises = catFiles.map(async cat => {
+      try {
+        const res = await fetch(cat.file, { cache: 'no-cache' });
+        if (!res.ok) return null;
+        const text = await res.text();
+        const doc = parser.parseFromString(text, 'text/html');
+        const items = doc.querySelectorAll('.link-item');
+        const links = [];
+        items.forEach(item => {
+          const nameEl = item.querySelector('.link-name');
+          const aEl = item.querySelector('a.link-url');
+          if (nameEl && aEl) {
+            const name = nameEl.textContent.trim();
+            const href = aEl.getAttribute('href') || '';
+            const url = aEl.textContent.trim() || href.replace(/^https?:\/\//, '').replace(/\/$/, '');
+            if (name && href) {
+              links.push({
+                name,
+                url,
+                href,
+                category: cat.title,
+                page: cat.file,
+                color: cat.color
+              });
+            }
+          }
+        });
+        return { cat, links };
+      } catch (e) {
+        return null;
+      }
+    });
+
+    const results = await Promise.all(fetchPromises);
+    const valid = results.filter(Boolean);
+    if (!valid.length) return;
+
+    let allExtracted = [];
+    valid.forEach(v => {
+      allExtracted = allExtracted.concat(v.links);
+    });
+
+    if (allExtracted.length > 0) {
+      window.ALL_LINKS = allExtracted;
+      heroSearch.placeholder = `Search ${allExtracted.length.toLocaleString()}+ resources across all categories...`;
+    }
+  } catch (err) {
+    // Graceful fallback to links-data.js
+  }
 }
 
 // ===== SMOOTH SCROLL =====
@@ -357,4 +429,5 @@ document.addEventListener('DOMContentLoaded', () => {
   initSmoothScroll();
   initHeaderScroll();
   initCardTilt();
+  autoSyncFromHTML();
 });
